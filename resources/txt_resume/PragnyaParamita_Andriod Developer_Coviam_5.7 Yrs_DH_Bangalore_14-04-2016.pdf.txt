@@ -1,0 +1,135 @@
+Pragnya Paramita
+
+(cid:84) 9731037293
+(cid:66) pp.pragnya@gmail.com
+(cid:66) pp.pragnya@gmail.com
+
+Android Development
+
+OBJECTIVE
+
+SUMMARY
+
+POSITIONS
+
+To carve a niche for myself in design and development of solution, system and application
+through my expertise in a creative and challenging organization while enabling further
+personal and professional development.
+
+An android developer with experience in requirement analysis, development, have a sharp
+eye for detail, quality, deadline , prioritizing tasks and have experience working through
+out software life cycle with capabilities to own independent modules as well as working
+with a team.
+
+8/2012 – current Senior Software Engineer at BORQS Software Solutions, https://www.borqs.com/
+
+Responsible for requirement analysis, development , integration, enhancement, bug ﬁx-
+ing of Application, Application widgets and UIFramework components on Android
+platform.
+Skills : Android 4.0-6.0, JSON and Core JAVA
+
+7/2008 – 7/2010 Assistant Systems Engineer at Tata Consultancy Services, https://www.tcs.com
+
+Responsible for Software development for computerization of Thermal Power plant.
+Skills: Core Java, oracle database and sql
+
+EDUCATION
+
+7/2010 – 7/2012 MTech in IT in (Networking and Mobile Computing), (IIITB)International Institute Of In-
+
+formation Technology, Bangalore
+CGPA: 3.68/4
+
+7/2004 – 6/2008 BTech in Electrical, College Of Engineering And Technology, Bhubaneswar, Biju Patnaik Univer-
+
+sity Of Technology
+CGPA: 8.45/10
+
+SKILLS
+
+Mobile Platform Android 4.0 -6.0
+
+Programming Core Java, JSON, SQL
+
+Tech-
+nology and Domain
+
+Android UI and Framework.
+(Activity, Apps/Sevices, BroadcastReceiver, Intent, Asynctask/Thread/Handler, App Wid-
+get, Email Framework)
+
+powered by CVsIntellect.com
+CVsIntellect.com
+
+1/??
+
+PROJECTS
+
+3/2016 – current Theme application : Android + Feature Apps, BORQS Software Solutions
+
+• Responsible for development of Theme application which can apply theme indepen-
+dently across android applications at runtime based on Sony’s Runtime Resource Overlay
+concepts.
+
+• Technology : Android Marshmallow 6.0 and Android Studio
+
+10/2014 – current Operator pack customization, As a consultant with Qualcomm innovation center for Amer-
+ica Movil, Telcel, Claro, Vodafone, Telefonica,Orange
+• Responsible for requirement analysis, FR scoping design, development and integration
+of different operator speciﬁc customization and feature requirements for Platform and
+Framework and UI components and operator speciﬁc pack creation for Latin America
+and Europe region for Qualcomm snapdragon chipset speciﬁc device.
+• Developed network blocking app for Prepaid SIM with zero balance for different opera-
+• Technology: Android Lolipop 5.0,Android Marshmallow 6.0 Version control : Git and
+
+tor.
+
+Gerrit.
+
+6/2014 – 9/2014 Android + Feature Apps and Widgets, BORQS Software Solutions for Karbon, Panasonic,
+MTS,
+• Responsible for development of Weather Widget, Weather App for Tile Based Launcher,
+Theme Manager.
+• Technology: Android Kitkat 4.4
+
+11/2013 – 5/2014 Sonim XP6, BORQS Software Solutions. for AT&T & Sonim Technologies.
+
+• Responsible for development of Weather Widget , Email framework customization, cus-
+tomer feature addition in Launcher screen, and base issue ﬁxing in UI Framework Com-
+ponents.
+
+• Technology:Android Jelly Bean 4.3. and Android Kitkat 4.4
+
+6/2013 – 10/2013 Custom Android + UI Component Design, BORQS Software Solutions for Internal
+
+• Responsible for development and enhancement of android baselist view and grid view
+widget to a custom pinned header list view and grid view which can be used across
+applications for ICS Android.
+• Technology:Android ICS 4.0.
+
+8/2012 – 6/2013 AT&T NEC Terrain, BORQS Software Solutions for AT&T, NEC
+
+• Responsible for enhancement and base issue ﬁxing in UI framework and base Email
+• Technology:Android ICS 4.0.
+
+framework.
+
+7/2008 – 7/2010 Computerization of Thermal Power Plant, Tata Consultancy Services for Punjab State
+Electricity Board
+• Responsible for development of Operation and Management Module and client site train-
+• Technology:XML, J developer,PL/SQL, Crystal Report
+
+ing.
+
+ACHIEVEMENTS
+
+• Recipient of the merit scholarship (top 5 in each branch) for the excellence of academics
+in B. Tech for three consecutive years 2005, 2006, 2007.
+• Worked as Teaching Assistant in IIITB during Mtech.
+
+powered by CVsIntellect.com
+CVsIntellect.com
+
+2/??
+
+

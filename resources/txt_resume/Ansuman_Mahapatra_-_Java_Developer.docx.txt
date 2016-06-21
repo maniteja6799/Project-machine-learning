@@ -1,0 +1,107 @@
+
+Name: - Ansuman Mahapatra
+Contact No: - +91 7829379069
+Mail-id: - tech.mahapatra@gmail.com 
+
+Professional Experience Details:-
+Having 2.9 years of experience in IT industry which is completely aligned with software development specifically on Java/JEE technologies.
+Experience in implementing Object Oriented Programming concepts like Collections and Exceptions handling in Software Development.
+Extensive experience on web-based applications and development environments using Java, JDBC, Servlet, JSP, Hibernate and Spring framework.
+Experience in using JDBC concepts and Hibernate for Database interactions.
+Solid experience in java programming and in server side application development with emphasis on JEE Technologies.
+Experience in Deploying application using Tomcat, Web Logic server.
+Familiar with MVC Architecture and J2EE Design pattern such as Singleton, Factory, Data Access Object.
+Sound experience with XML.
+Sound fundamentals on database concepts.
+Ability to learn new concepts and to adapt to new environments.
+
+Academic Professional Summary:-
+M.Tech (C S I) from S.O.A University Odisha in 2013 with 78.70%.
+B.Tech (C S E) from B.P.U.T. Odisha in 2010 with 67.60%.
+
+Working Experience:-
+Currently working as a Software Engineer in Cybercom Software Systems Ltd
+() Bangalore since Jan 2013 to till date.
+
+
+
+
+
+
+Technical Skills:-
+Programming Language	: Java
+Data Base			: Oracle 10g
+Enterprise API			: J2EE, Servlet , Jsp
+Application Framework	            : Spring 2.5 ,Hibernate 3.0
+Web Application		: Html, JavaScript, Xml
+IDE				: Eclipse
+Web Server			: Tomcat 6
+Application Server		: WebLogic Server ,JBoss Server
+Operating System		: MS Windows XP/Vista/7
+
+Project Experience, Responsibilities:-
+Project#1:
+
+Title				 : HealthCare Optimization System.
+Technology			 : J2EE, Spring, Hibernate, Web Services
+Java Version		           : Jdk 1.6
+Application Server		 : Web Logic
+Back end			 : Oracle 10g
+Client Side Scripting		 : Html, JavaScript, Css, Ajax
+Development Tool		 : JUnit , Maven
+IDE				 : Eclipse
+Platform		             : Windows
+Duration			 : Apr 2014 to till now
+Team Size			 : 6
+Role				 : Team Member
+
+Description:-
+
+It provides with consulting knowledge, systems that include diagnostic, monitoring and other medical equipment, information technology solutions and entire hospital management systems.
+Our solutions ensure that all these devices and systems talk to each other transparently, helping you become more efficient in every aspect of managing the organization.
+Responsibilities:-
+Involved in understanding and analyzing the requirements, and development of various modules in different releases. Analyzing and solving all technical problem faced by team.
+Involved in Business Logic to develop customer services. 
+Developing Configuration file and mapping files.
+Involved in Bean classes development by using spring framework.
+Developing Entity classes of the application to insert, update, delete using hibernate as domain layer classes.
+Jsp pages development using Html tags & Jsp tags.
+Developing Native SQL Queries and hibernate Queries for retrieval of data from database.
+Project#2:
+
+Title				 : Hospital Optimum Process Engine.
+Technology			 : J2EE, Spring, Hibernate
+Java Version		           : Jdk 1.6
+Application Server		 : Web Logic
+Back end			 : Oracle 10g
+Client Side Scripting		 : Html, JavaScript, Css, Ajax
+Development Tool		 : JUnit ,Maven
+IDE				 : Eclipse
+Platform		             : Windows
+Duration			 : Feb 2013 to Mar 2014
+Team Size			 : 8
+Role				 : Team Member
+
+Description:-
+
+It provides to effectively manage the issue of Health Cards to various users
+The purpose is to maintain a centralized database to store all the details and to simplify the access to the required stored information.
+Responsibilities:-
+Involved in Coding for Web-based Application using J2EE.
+Validate input data using JavaScript.
+Used Data Access object approach to get data from database by using hibernate framework.
+Developing Configuration file and mapping files.
+Developing Entity classes of the application to insert, update, delete using hibernate as domain layer classes.
+Jsp pages development using html tags, jsp tags.
+Developing Native SQL Queries and hibernate Queries for retrieval of data from database.
+
+
+Declaration:-
+
+I do hereby declare that all the above furnished information is true to the best of my knowledge and belief.
+
+
+
+
+
+Bangalore                                                                                                       Ansuman Mahapatra

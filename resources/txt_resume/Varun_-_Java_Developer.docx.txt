@@ -1,0 +1,47 @@
+ Varun Goyal							
+Current Working Location: Bangalore                                                                          
+Preferred Location: Bangalore/NCR		                                    
+Email: goyalvarun66@gmail.com                         
+Mobile: +91 9896160005		
+OBJECTIVE
+To attain a position as an IT professional in a value-driven organization which provides a sustained career growth, continuous learning environment in software development, and where my ideas can be fully used in developing software.
+
+PROFESSIONAL SYNOPSIS                                                                            		
+Extensively worked on Core Java.
+Good domain knowledge and experience in Financial and Capital Market domain.
+Hands on experience in Java/J2EE technologies using JSP, Hibernate, Spring.
+Followed test driven programming approach.
+Fast learner and have the ability to adapt quickly to a fast-paced development environment.
+Dedicated and capable of working independently by giving higher priority to the responsibilities given.
+Ability to learn new technologies.
+Strong analytical skills and logical thinking.
+
+WORK EXPERIENCE
+
+
+PROJECTS DETAILS	
+
+TECHNICAL SKILLS	
+Software: Eclipse, SQL Developer, Control M
+Application/web servers: Weblogic , Tomcat Server
+Programming Languages: Java
+Frameworks : Hibernate and Spring
+Web Technologies: XML, HTML
+Databases: Oracle
+Versioning & Build Tool : CVS(Smart CVS, Eclipse CVS), Ant
+
+ACADEMIC PROFILE	
+B.TECH (CSE), Apeejay College of Engineering (2008-2012). Percentage:65%
+Class 12th, Shiv Public Sr. Sec. School (2007-2008). Percentage: 63%
+Class 10th, Shiv Public Sr. Sec. School (2005-2006). Percentage: 70%
+
+PERSONAL PROFILE	
+Date of Birth	: 12.09.1990
+Sex	: Male
+Nationality	: Indian
+Languages Known	: English, Hindi 
+Current Designation		     : Software Engineer
+Role	 			     : Developer
+Notice Period			     : 1 month	
+
+

@@ -1,0 +1,143 @@
+
+                                                         CURRICULUM VITAE
+
+Priyesh Ranjan
+Contact No. : - +91-8088631163
+Email:- priyes.ranjan2212@gmail.com
+#14, 1st D Cross, 20th Main
+BTM 1st Stage,
+Bangalore - 560029
+
+
+Eager to work for an organization where I would have opportunity to grow &
+contribute my knowledge for the development & progress of the organization
+in all possible ways.
+
+Professional Summary
+
+    . Having 2.8 years of experience in developing Software Applications
+      using Java/J2EE
+technologies.
+    . Good working exposure in Software Application development based on
+      J2EE enterprise
+solutions using Java, JSP, Servlets, Spring and Hibernate.
+    . Sound knowledge on Core Java.
+    . Experience in working with Oracle and Mongo Database.
+    . Conceptual and basic working knowledge of Spring, Hibernate, Struts
+      and JUNIT, SLF4J with Log4J frameworks.
+    . Worked with Apache Tomcat and Weblogic server.
+    . Working knowledge of Android and GDK (Glass Development Kit).
+    . Well versed with Google API.
+    . Well versed with Android and Apple Push Notification Service (GCM and
+      APNS).
+    . Well versed with Red Hat Openshift (Red Hat Cloud).
+    . Experience in Software Development, Software Maintenance and Bug
+      fixing.
+    . Working as a Senior Software Engineer in Tricon Infotech Pvt Ltd,
+      Bangalore, India from March 2013 to till date..
+    . B.E Computer Science & Engg from RGPV Bhopal with 74.44% in 2011.
+
+
+Personal Skills
+
+    . Quick in trouble shooting.
+    . Possess Excellent Communication skills and Corporate Business
+      Etiquettes.
+    . Willingness to learn, extremely receptive and endowed with diplomacy.
+    . Well balanced and poised under pressure and highly comprehensive.
+    . Effective and efficient in time and crisis management.
+
+
+Technical Skills
+
+    . Technology                     : JAVA/J2EE ,Spring, Struts, ADT, GDK
+    . Operating Systems       : Windows 98, 2000, XP, MS DOS,UNIX,LINUX
+    . Programming Language : Java/J2EE, HTML, SQL, PL/SQL
+    . Web Technologies          : XML, HTML, JSP, Servlets, Spring, Junit
+    . RDBMS                           : Oracle, Mongo
+    . IDE                                  : Eclipse
+
+Projects
+
+1.
+|Project       |MEMROUSEL, PRESERVE                                    |
+|Technology    |J2SE/J2EE,Spring                                       |
+|Used          |                                                       |
+|Database      |MongoDB                                                |
+|Period        |Dec 2013 to till date.                                 |
+|Responsibiliti|To code and develop some modules of project.           |
+|es            |Coding - Coding API's using Spring, Log4J and test     |
+|              |cases using Junit4.                                    |
+|Client        |Product of the company (Cherry Mobile App for Android  |
+|              |and IOS)                                               |
+|URL           |http://cherry.triconlabs.com/                          |
+
+
+
+
+
+2.
+|Project       |CONNECT, Module- Gradebook                             |
+|Technology    |J2SE/J2EE, CSS, Struts, Spring, XML, HTML, Java Script |
+|Used          |                                                       |
+|Database      |Oracle-XE                                              |
+|Period        |March 2013 to Dec 2013.                                |
+|Responsibiliti|To code and develop gradebook module of project.       |
+|es            |Coding - Coding and designing of JSP Pages, Servlets,  |
+|              |Spring and Struts.                                     |
+|Client        |McGraw Hill                                            |
+|URL           |http://www.mhhm.com/                                   |
+
+
+Roles and Responsibility
+
+    . Design and development of n-tier, component-based architecture for
+      using J2SE, J2EE , JSP, SERVLETS, HTML, XML, Oracle(XE), Hibernate,
+      Struts.
+    . Responsible for source code controls and project developments.
+    . Currently working as Server Side Developer for Cherry- mobile
+      application (Memrousel).
+
+Achievements
+
+    . Got the most innovative team award(Cherry Team).
+    . Played KHO-KHO at regional level.
+    . Active participation in college tech fest VISION-TECH.
+    . Active Member of BHARAT SCOUT AND GUIDE during High school.
+    . Won the first prize from BHARTIYA SAKSHARTA MISSION in 1997.
+
+Industrial Training
+
+    . Successfully completed 6 weeks major training in Oracle 10g at Syscom
+      Infotech, Bhopal.
+    . Successfully completed 45 days training in Core Java, at Vedisoft
+      Bhopal.
+
+Personal Abilities
+
+    . Proactive, reliable, extrovert and industrious.
+    . Constantly striving to acquire new skills and knowledge.
+    . Passionate to work, result oriented and confident.
+    . Good team player with good leadership quality.
+    . Enjoy Playing Card and Cooking.
+
+Personal Details
+
+    . Father's Name    :     Ashok Kumar Shrivastwa
+    . Mother's Name   :     Poonam Shrivastwa
+    . Nationality          :      Indian.
+    . Religion              :      Hindu.
+    . Gender               :      Male.
+    . Marital Status     :      Unmarried.
+    . Date of Birth       :      22/02/1988
+    . PAN No       :      AWMPR3997B
+    . Home Town        :      Patna, Bihar.
+
+
+I hereby declare that the information given above is true to the best of my
+knowledge.
+
+
+                                                   Priyesh Ranjan
+
+

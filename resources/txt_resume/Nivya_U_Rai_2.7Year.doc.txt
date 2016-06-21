@@ -1,0 +1,175 @@
+
+Nivya U Rai
+Contact Number:
+rainivya2@gmail.com                                                  +91
+9742859007 (M)
+
+
+
+Experience Summary
+    . 2.7 years of experience in Requirement Analysis,  web  and  Enterprise
+      application development.
+
+    . Experience in Jsp, Servlet, SQL, JDBC,Oracle 10g, Struts frameworks.
+
+    . Hand on experience on core java.
+
+    . Rich work experience in  the  domain  of  manual  testing,  writing  &
+      executing test cases and test scenarios.
+
+    . Good Experience in developing UI components using JS (JavaScript).
+
+    .  Skilled  in  manual  testing  of  web,  desktop   and   client-server
+      applications.
+
+    . Ability to work independently as well as with team members.
+
+    . Highly motivated self  -starter  and  well  versed  in  teamwork  with
+      interpersonal skills.
+
+    . Willing to learn new technologies.
+
+Corporate Experience
+
+Working  in  Sunplus  System  Solutions  Pvt  Ltd   as  Software   Engineer,
+Bangalore, From Jan 2014- till Date.
+
+Worked in  Sunplus Technology Pvt  Ltd   as  Software  Engineer,  Bangalore,
+From Feb 2012 - Dec 2013.
+
+
+
+|Technical Skills                                                         |
+|Hardware / Platforms         |Windows 9x/XP/Vista, Linux, UNIX           |
+|Programming/Scripting        | Java, J2EE,                               |
+|Languages                    |JavaScript,CSS,.HTML5,bootstrap            |
+|Frameworks                   |Struts                                     |
+|Databases                    |MySQL 5.0,Oracle 9i/10g                    |
+|Applications                 |Eclipse                                    |
+|Web Servers                  |JBOSS Application Server, Apache Tomcat Web|
+|                             |Server                                     |
+
+Project Details
+
+
+Organization     : Sunplus System Solutions Pvt Ltd
+Team Size   : 8
+Title            : SunERP
+Technologies     : Java, Struts frame work 2.0, Oracle 9i, 10g
+Database    : Oracle 9i, 10g
+Duration    : 16 Months
+
+Project Description
+
+Auto Office+ is a product that aims at providing College sector with a
+complete ERP solution. Auto office+ provides the customers with some of the
+basic as well as some of the advanced features required for complete
+college management system, this product online feedback system, online
+reporting features like pay slip, banking statement. Some of the major
+modules include the banking transaction directly through auto office+
+product.
+
+Responsibilities:
+    . Writing Oracle PL/SQL stored procedures, functions and triggers.
+    . Designed and developed a myriad of reports, based on pre-defined Excel
+      calculations, data and format.
+    . Preparation of test plans, test cases and execution & reporting.
+      Ability to write test cases and test scenario, review, run and
+      generate test reports.
+    . Involved in design, development, testing and implementation of Oracle
+      database tables/indexes/sequences.
+    . Created, modified and maintained the PLSQL code to develop new
+      enhancements.
+    . Developed the PL/SQL code on the basis of the requests for the change.
+
+
+Environment: Oracle 10g, Toad, Core Java, and Struts Framework.
+
+
+
+
+
+
+
+
+
+Organization     : LiteQ
+Team Size   : 5
+Title            : Sunplus System Solutions Pvt Ltd
+Client           : BMSE
+Technologies     : Oracle 9i, 10g, Pl/Sql, Sql Server 2012, SSIS, Crystal
+Reports.
+Frameworks  : Struts
+Database    : MySQL
+Duration    : 10 Months
+
+
+Project Description
+
+This product provides an online feedback system for the college, where the
+feedback was taken for every 3months from the college. Lite Q  product give
+complete details of the feedback of the Lecturer, after giving the feedback
+System, we provide some individual report for the college lecturers and
+department feedback, based on the rating given by the student
+Crystal Report and Sql Server 2012 is the reporting system used to generate
+the graph for the given feedback.
+
+Responsibilities
+    . Worked on SSIS from Data Extraction From Oracle and Upload to SQL
+      SERVER 2012
+    . Writing  Scripts, Designing of the crystal reports.
+    . Preparation of test plans, test cases and execution & reporting.
+      Ability to write test cases and test scenario, review, run and
+      generate test reports.
+    . Complete giving backend Support for the team.
+    . Interacting with customer to understand the technical requirements
+Environment: Hibernate, Sql Server 2012. Toad Crystal Report, Visual Studio
+2012.
+
+
+
+
+
+
+
+
+
+
+
+
+Education Qualification
+
+
+|Education and Certifications                                             |
+|Title of the      |College/University                                     |
+|Degree with Branch|                                                       |
+|Master  in        |St.Aloysius Technology, Karnataka.                     |
+|Software          |(Mangalore University, Mangalore.)                     |
+|Technology        |                                                       |
+|.                 |                                                       |
+|Bachelor of       |SDM, Karnataka.                                        |
+|Computer Science. |(Mangalore University, Mangalore.)                     |
+|PUC II (12th)     |S H P U ,Karnataka                                     |
+|10th              |S H P U, Karnataka                                     |
+
+
+Personal Details
+
+Father's Name                : H M Umesh Rai
+Marital Status               : Single
+Sex                    : Female
+DOB                    : 14-08-1989
+Nationality            : Indian
+Languages              : Kannada, English.
+Permanent Address            : 3rd  Block,  Main  Road,  Shanivarsanthe,  N-
+Coorg  571235
+
+
+
+I hereby declare that the above written particulars are true to the best of
+my knowledge.
+
+
+Date  :
+Place : Bangalore
+Nivya U Rai

@@ -1,0 +1,96 @@
+
+
+About me
+
+ I am a nocturnal Developer building  innovative  products  and  solutions,
+ quick learner, and a good team player.
+
+Professional Summary
+
+                Pelatro       Solutions        Pvt        Ltd.         India
+                     Nov, 2015 - Present
+          Designation:    Senior Engineer
+     Project                         Name:                            MViva.
+                          Nov, 2015 - Present
+     Knowledge base: Java, Hadoop, HBase, MapReduce
+          Description:  A big data product for telecom solution.
+
+                            Infotrellis.Ind.Pvt.Ltd,                   India
+                      July 2013 -   Nov, 2015
+          Designation:    Sr.  Software Engineer
+     Project         Name:           Customer          connects          Id.
+                 Dec, 2014 - Nov, 2015
+     Knowledge base: Java, Hadoop, Hbase, Hive, Pig, spring
+     Description:  A big data product to match  social  media  and  internal
+     data.
+
+
+     Project Name: Social Media Toolkit
+     Knowledge  base:  twitter4j,  RestFB,  and  other  Social  Media  Api's
+     Dec, 2013- Mar, 2014
+     Description:  A Social Media Data Collector tool.
+
+
+     Project                        Name:                         Veriscope.
+                           July, 2013- Dec, 2013
+     Knowledge base: Java, spring
+     Description:  Provides Master data management Insight.
+
+Academic Profile
+
+|S. No|College                      |Course                       |Year   |
+|1    |COLLEGE OF ENGINEERING ,     |Master of Computer           |2013   |
+|     |GUINDY (CHENNAI)             |Application (MCA)            |       |
+|2    |I.G.N.O.U                    |Bachelor of Computer         |2009   |
+|     |                             |Application (BCA)            |       |
+|3    |B.D EVENING COLLEGE(PATNA)   |Intermediate (12th)          |2004   |
+|4    |DEVI DAYAL HIGH SCHOOL       |Higher Secondary (10th)      |2002   |
+|     |(PATNA)                      |                             |       |
+
+
+Technical Proficiency
+
+|Operating System     |LINUX, Windows                                          |
+|Development Editor   |Eclipse, Net beans                                      |
+|Programming Languages|JAVA  and  Linux                                        |
+|Technologies         |Hadoop(HDFS,MR2,Sqoop,Oozie, Hive, Pig Latin, Hbase),   |
+|                     |Framework, JSON APIs (Gson/Jackson), Log4j , Twitter4j  |
+|                     |,Elastic Search, Web Services, Shell                    |
+|                     |Scripting,Spring,SVN,ANT,JIRA,Git,Gradle                |
+|Web Technology       |Apache Tomcat server                                    |
+|Database             |Mysql, Titan Graph DB                                   |
+|Others               |Design Patterns, Data Structure, Algorithms             |
+
+
+Key Project Details
+
+
+1 AllSight -
+
+         A Big Data product built using Hadoop technology like  MapReduce2,
+ Hadoop, Hbase, Hive,     Oozie, Sqoop and Pig, to provide a  platform  for
+ big data analytics and also includes a set of big data    solutions  built
+ on top of it.
+ Data segregator -
+                  A Multithreading project which segregates the data based
+on the consumer function implementation imposed by producer its has set of
+features like multi-producer, multi-client environment support, retry and
+resending mechanism for the interrupted data, bandwidth control.
+
+
+2 Academic projects
+
+        Simulation of DNS (Domain Name System) networking protocol in C.
+        Simulation of Bash Shell in c
+        Sudoku in Java applet
+
+Awards and Achievements
+
+        All India 2nd rank holder in TANCET entrance examination
+        Provided training to the fresh hires in the company.
+       Coordinator in NIRAL, technical festival ANNA University in MCA 2012
+
+Personal Profile
+
+      Languages Known: English, Hindi
+      Hobbies:   Writing Poems, Playing cricket and badminton, Travelling.

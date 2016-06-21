@@ -1,0 +1,94 @@
+                					                               PALAVALISA NAVYA   
+                                                                                                    E-Mail:palavalisa.navya@gmail.com
+							                               Contact No: 8951449291
+
+
+
+CAREER OBJECTIVE:
+
+To secure a challenging position where I can effectively contribute my skills as Software Professional, possessing competent Technical Skills.
+
+PROFESSIONAL SUMMARY:
+
+Having 1.6 year of experience in development of Java and J2EE applications.
+Working on J2EE technologies ( JSP,Servlets), HTML CSS,C,C++,UNIX
+Good at OOPS concepts in java like Inheritance, Polymorphism, Encapsulation, Data         	Abstraction, Multithreading.
+Good in using collections frameworks like List, Set and Map.
+Comfortable in working with Singleton design pattern.
+Familiar with MVC Architecture.
+Ready to adapt to new environments and learn new Technologies quickly.
+
+PROFESSIONAL EXPERIENCE:
+
+Working as Java Developer for RCH Systems PVT  LTD,  from march 2014 to till Date.
+
+
+ACADEMIC :
+-Bachelors degree in Electronics and Communication Engineering (B.E.) from  VTU with First class.
+-HSC (Science) from Sheshadripuram  Pre-University College  with First class.
+-SSLC from State Board with First class.
+
+TECHNICAL SKILLS :
+Programming Languages	: Java, JDBC.
+J2EE Technologies		: Servlet, JSP.	
+Architectures			: MVC
+Design pattern			: Singleton
+Web Technologies    		: HTML, CSS.
+RDBMS			:  MYSQL.
+Operation System		: Windows.
+IDE				: Eclipse, MyEclipse
+Servers				: Apache-tomcat, WebLogic.	
+PROJECT PROFILE : 
+Project  :                        HI-FI Infirmary Portal 
+Environment: Windows, Java/j2ee (JDBC, Servlets, JSP),Html, JavaScript, CSS, Tomcat
+       Oracle, Mysql (any database),J2SDK1.5, Tomcat 5.5. 
+.
+Team size: 6
+
+Description:
+hospitals maintain data using manual process or through excel sheets but there is no software application which can look after data. This application will provide user friendly graphical user interface with different modules to organize data in hospitals. Receptionists can maintain doctors and patients information in data base and retrieve old records in very less time. This process can save time and improve customer service in hospitals. Using this software hospital staff can communicate with each other. Patients reports and doctors appointment details will be available on finger tips.
+
+Role: As a Jr. Developer
+
+Responsibilities:
+
+   -Involved in Requirements Study & Analysis.
+   -Developing Code as per requirements.
+   - Involved in developing the  HTML pages.
+Academic project                  
+
+ ExypnosOffice(Office Automation) using java and micro processors. 
+Description: This project is aimed to automate the office environment. The office systems are among the newest and most rapidly expanding computer based information systems. The backbone of office automation is the lan which allows users to transmit data. the project identifies the employee entering the office automatically, it greets the user with his name and the login time, changes his mobile profile to silent mode .
+Technology Used: Micro controller, embedded c, java and Android features.
+Role: Programming in embedded C and Java.
+Team Size: 4 members
+Academic seminar              
+Smart Locks:Lock Acquisition scheduling for Self aware Synchronization
+
+Description: Smartlocks is a spin-lock library that adapts its internal implementation during execution using machine learning in order to remove some of the complexity of programming in multicores. Smartlocks and lock acquisition scheduling can significantly outperform existing lock strategies.
+
+     Area: Embedded Systems
+
+EXTRA CURRICULAR ACTIVITIES:	
+
+Active member of  NATURA environmental club
+Got prize in competitions held at school, collage and Sub district level youth festivals.
+Active participation in Departmental programs.
+Acted as class leader.
+Member in ECESA(Electronics and Communication Engineering Students Association)
+Participated in a seminar on Robotics
+
+Declaration
+               I hereby declare that the above mentioned details are true to the best of my knowledge and belief.
+
+ 
+ Date: 
+ Place:Bangalore
+
+
+
+
+
+
+
+

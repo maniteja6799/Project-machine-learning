@@ -1,0 +1,137 @@
+Work Experience
+
+Abhimaan Madhav
+
+Phone no: (+91)8105529416
+Email: abhimaanmadhav@gmail.com
+
+Working as an Android Application developer from August 2012 in Techjini. Involved in the 
+
+development of various android applications involving camera ,Location ,Maps, social 
+networks(Facebook, Google Plus), image manipulation in applications and the like.  
+
+Have the ability to build non-trivial android based UI applications.
+Have experience of building custom views.
+Have worked on a hybrid application.
+Have used fragments, services, broadcast receiver, bitmaps, canvas, GPS, alarm and the like.
+
+ Worked with REST API, RSS feeds, XML parsing, SOAP.
+
+Have been involved in building applications on Android from conceptualization to idea 
+execution.
+
+Skill set
+
+Familiarity with Android Eco-system, Java, Git, Eclipse, C, C++ and shell programming.
+Comfortable working in Linux and windows operating environments.
+
+Education details
+
+B.E in Information Science (VTU)  2008-2012 from Vidya Vardhaka College of 
+Engineering, Mysore(68.41%)
+
+Few Projects executed
+
+1) Boston Marathon World Run 
+
+A virtual marathon application. It enables users to pledge running distances which they intend
+to cover. The app taps into social media to provide the user with related updates about the 
+event and also about activities of like minded people relating to the Boston marathon.
+Challenges in the project
+◦ To create a visual delight to the users across all screens.
+◦ Creating custom views.
+◦ To integrate with third party API providers.
+◦ Co-ordinating with other 3rd party developers.
+
+2) OlaCabs Driver Application
+This Application drives the core business of OlaCabs.It is reponsible for bill calculation,serving 
+booking,distance,wait time which play major role in the business model in any Cab service provider.
+Challenges in the project
+
+◦ Developing Kiosk mode for all devices
+◦ Building an stable application which works 24*7 in foreground.
+◦ Exploring new techology to get better results.
+
+3) Celebrity Clicks
+This is a fun application. It enables users to use a cutout from a given set of celebrity cutouts and 
+juxtapose the same with a live camera image. It has features to make these juxtaposed images look 
+real by resizing, repositioning, and adjusting brightness, saturation and contrast of the celebrity 
+
+
+
+
+
+
+
+
+
+
+
+cutout. Additional features included application of various effects(pencil sketch, grey-scale etc) to 
+the picture. 
+
+Challenges in the project
+◦ Creating custom camera view and custom views.
+◦ Image manipulations (Creating effects).
+◦ Handling memory issues.
+
+4) MT Monitor application – A hybrid application
+
+This was an enterprise application. The application was used to monitor onboard diagnostics  
+of cars remotely. It had features which enabled a user to register the new onboard device by 
+using NFC's or barcode's.
+
+ Was involved in the development of the business logic for this application. Have used SOAP 
+
+calls to communicate with backend servers.
+Challenges in the project
+◦ Developing hybrid applications was challenging because the technology was new.
+◦ Understanding technologies like NFC, SOAP.
+
+5) A Survey Library
+
+This library exposed API's using which the developer could create surveys.
+Challenges in the project
+◦ All the UI was built dynamically rather inflating the UI using the XML file.
+◦ Assets needed for the UI could not stored and accessed in a conventional way as we were 
+
+building a library and not an application.
+
+6) Tennis Game(Flappy Bird type)
+
+A game built using libgdx(game platform) ,similar to flappy bird game.
+Challenges in the project
+◦ Using a new platform to build games.
+◦ Understanding the dynamics of game development.
+
+ Communication of IPV6 networks over an IPV4 network
+
+Project was done as a part of the academic requirement in B.E.
+
+It aimed to achieve communication between two ipv6 hosts which were connected via an 
+existing ipv4 network. This communication is achieved using the concept of tunneling.
+The implementation makes use of hooks provided by the kernel to trigger our tunneling 
+module. The isolated system has a relay router where the ipv6 packets are intercepted. An 
+ipv4 header is then added to this packet before being sent along its path.
+The receiver receives packets through another rely router. This rely router has our tunneling 
+module which removes the ipv4 header and sends the ipv6 packet to the receiver.
+Tunneling was implemented as a dynamic kernel module. The advantage being that the same 
+could be inserted into the kernel when the kernel was running.
+
+Other Personal Details :
+Hobbies: Sports, Traveling.
+
+Address: #984 “Abhi” Vivekananda nagar Circle Mysore-23.
+
+
+
+
+
+
+
+
+
+
+
+
+

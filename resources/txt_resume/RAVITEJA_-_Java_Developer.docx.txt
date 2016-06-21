@@ -1,0 +1,129 @@
+
+VANNAL SHASTA RAVITEJA
+Java Developer/Android App Developer	
+
+Mobile: +91 9962003424
+Email ID: raviteja619@gmail.com
+
+
+To acquire a challenging position in a result-oriented organization that will make the best use of my technical and artistic skills as well as my experience. 
+
+Im seeking a career that offers me an excellent growth opportunities and value addition exponentially. 
+
+My Vision in life is to face and achieve excellence always performing with integrity, sincerity and professionalism.
+
+
+Worked as Software Developer at HCL Technologies LTD, Chennai, India, from Jan 2014 to Till-date.
+Worked as Android Developer at Shapia Software Solutions through Image  from Sept 2013 to Dec 2013.
+
+
+Having 1 year 8 months experience in Graphical User Interface Development and Software Design, Development, Testing of Embedded Medical Devices.
+Having Experience in Android app development for almost a 4 months.
+ Programming experience in Java to develop GUI Screens.
+Knowledge and hands on experience in Linux internals.
+Involved in Requirement Specification Creation & Review, Design Specification Creation & Review and Code Review, Unit testing and Integration testing.
+Knowledge in testing fundamentals to develop protocols and perform manual embedded testing.
+Exposure to Full Software Development Life Cycle of (Class II) Life Critical Medical Devices
+Strong Knowledge of Medical Quality Management Standard (MQMS) and Risk Management Standards to comply with FDA standards for Medical devices
+Awareness of CMMI Levels. 
+I have gained Knowledge about Android app development and the techniques involved to make attractive design and optimized code for Apps.
+
+Have got FAST LEARNER AWARD in Shapia Technologies for learning the android framework in less time and helping the team towards app Production within deadlines.
+
+My Game was selected in Top 10 Games of GAME-A-THON (A Game Development competition conducted over all Campuses of HCL in India) out of 75 contenders.
+
+I was Awarded SPOT AWARD for my effective and valuable contribution in the team comprising software engineers with minimum 3 years of experience in HCL Technologies.
+
+I was Awarded LIVE WIRE AWARD for my Delivery Excellence and fast learning Skills Demonstrated by developing GUI Screens within the Timelines Mentioned with least no defects and impressive quality.
+
+
+
+
+
+Software Development/Graphical User Interface Development 
+
+Good understanding of developing graphical user interface using JAVA and QT creator.
+Worked with JNI SRR API for communication between C Process running in backend (On Linux) and GUI screens developed using JAVA libraries.
+Having good understanding of Linux and Unix Operating system. 
+Have a good understanding of various GUI elements button, sliders, text fields and other various UI components.
+Worked in Developing Screens for Network establishment and maintenance with the server.
+Worked with QT creator to create Design UI for Touch Screen Display of the Embedded Device
+Developed Custom libraries using default screen elements available from Java libraries.
+Have a good understanding of SDLC and the process involved in it.
+Involved in Technical Design discussions and preparation.
+Involved in deriving requirements from discussion with clients.
+Developed Design Documents for GUI architecture and their interaction with back end.
+Performed Unit testing and integration testing.
+
+
+
+Post Graduate Diploma in Game Development (PDGGD) with specialization in Unity 3D from Image College of Arts and Technology, Bangalore till Dec 2013.
+B.E in Electronics and Communications from Ballari Institute Of technology and Management, Bellary, Karnataka from 2008 to 2012.
+
+
+
+Professional Projects:
+
+
+Project Description 
+
+This product is predecessor of EVOTECH and derives input from automated endoscope reprocessor that is approved by FDA and is available in US market.  The scope of the project is to develop an alternative approach to the existing design and develop the System Software with customized new hardware requirements. The newly proposed architecture reduces the intermediate post master layers avoiding the data redundancy.
+The product requires enhancement of GUI screens to new design for the Touch Screen.
+	
+Contribution: 
+Worked with Leads in the team for Requirement analysis and assisted in Preparing Software Requirement.
+Took part in Technical Design discussion and prepared Software Design Document According to SRS.
+Developed Framework for customizing basic elements like button, labels etc according to the project.
+Developed Code Adhering to Design using Java Swings. 
+Performed Automation unit testing and Integration Testing.
+Worked on Qt and Linux to develop an Automation Tool for Automation Testing of Screens using Qt Creator and Linux utilities like Import and XTE.
+Performed Static analysis using PMD and fixed the resulting bugs.
+
+
+Project Description 
+
+This product derives input from automated endoscope reprocessor that is approved by FDA and is available in US market.  The scope of the project is to develop an alternative approach to the existing design and develop the System Software with customized new hardware requirements. The newly proposed architecture reduces the intermediate post master layers avoiding the data redundancy.
+The project also includes enhancement features such as Network transmission of data using CIFS protocol.
+
+Contribution: 
+Working with design team on producing respective assets for the Graphical User Interface.
+Developed GUI screens using JAVA in Linux platform.
+Involved in Technical Design discussion and preparation.
+Involved in peer reviews of Source code, Design documents and Unit test plan documents.
+Worked in JNI SRR API for communication between C Process and JAVA for Developing  interface which uses JNI to communicate with back end.
+Framed software specification requirements for new features added.
+Developed a Framework for event handling and to Create custom GUI elements out of default elements already available in Java.
+Performed Integration testing and Defect Fixing.
+Prepared RTM for Requirements to design level mapping, design to code level mapping and code to unit test case level mapping.
+Helping the team in developing the code in a Modular way and following the proper coding standards 
+Performing Static Analysis for Code and fixing the bugs found during the same.
+Developed Java Networking Implementation to connect the embedded device to server.
+
+
+
+Project Description 
+
+ECRX is a advanced Endoscope re processor to Reprocess the Endoscopes before Use by other patients. ECRX is the most advanced version of all its predecessors containing attractive GUI developed with QT creator, Data base for storing cycle information and many more advanced features.
+ 
+Contribution: 
+Worked as a Graphical user interface developer for developing Different Screens for the Operation of the embedded device.
+Prepared all the frameworks related to project specific requirements.
+Involved in Technical discussion and design implementation for the screens.
+Communicated with clients constantly to derive the screen requirement and designing the same.
+
+
+Education Projects: 
+
+These are projects which were developed as a part of my course curriculum in Post Graduation.
+
+DEMO REEL for PGDGD :
+http://ravi-gamearena.blogspot.in/ 
+
+
+ 
+Name:   V Shasta Raviteja
+Present Working Location:  Chennai
+Nationality:  Indian
+Languages: Hindi, Tamil, Telugu, Kannada and English 
+
+

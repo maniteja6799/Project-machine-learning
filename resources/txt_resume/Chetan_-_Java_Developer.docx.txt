@@ -1,0 +1,71 @@
+CHETAN BIRJE
+
+Contact No.: +91-8792721722
+Email: chetankbirje@gmail.com
+
+
+Objective
+To work in a learning and challenging environment, utilizing my skills and knowledge to the best of my abilities and contribute positively to my personal growth as well as to the growth of the organization.
+
+
+Experience Summary
+Currently working as Senior Software Engineer for Java Applications at IGATE Global Solutions Limited , Bangalore.
+Having a total experience of 2.0 years in active project development and maintenance. 
+Proficient in web development skills like JavaScript, jQuery, JSON, Core Java, Springs ,Web Services .
+Good in developing rich and interactive web applications .
+Exposed to all phases of software development life cycle (From Requirement Phase to UAT Support Phase)
+Experience in Core Java ,Springs and Struts 2.x.
+
+Technical Skills
+
+Project Experience Summary
+
+
+
+
+Project Summary
+1: Gross Margin Sheet (GM Sheet Application):
+
+Period: September 2013 till Date
+Position: Programmer
+Team Size: 3
+Technical Skills :JSP, Struts, CSS, JavaScript, Ajax and jQuery.
+Requirement:
+The main aim of this project is to Calculate the Gross Margin for the Projects which is mainly used by the managers and above level .where in it interacts between the applications to send and receive the data through the web services . As well it as workflow for approval Matrix . 
+Responsibilities: 
+Did requirement gathering and analysis for the new enhancements.
+Implemented Admin screen .
+Implemented Module to the know Status of Opportunity id , connecting to a different database from the application .
+Implemented Email Based Approval Using web Services .
+Involved in the bug fixes and Production Support for GM Sheet .
+2: Back Ground Check (BGC Application) 
+Period: September 2013 till Date
+Position: Programmer
+Team Size: 2
+Technical Skills: JAVA,JSP, CSS, JavaScript, Ajax, jQuery, Springs .
+Requirement:
+The main aim of this project  is to carry out Back ground check for employee .
+	Its mainly used to carry out checks of Pre BGC / Post BGC of a employee where in Employee or Requestor raises the Request along with the required documents in the Portal , Request is processed by the BGC Team and Vendor to carry out the checks .Once the requests are Closed/Green by the BGC Team ,Employee is On boarded . 
+Responsibilities:
+Involved in Revamp of BGC Portal. 
+Implemented Bulk Creation of requests Using Excel .
+Implemented Scheduler for Creating / Updating the BGC Tickets (BGC and Taleo Integration .)
+Implemented Admin Screen for BGC . 
+
+
+
+
+
+
+
+
+Achievements
+Received "Pat on Back" award for successful Revamp of BGC Portal and for bug fix and enhancement done in GM Sheet .
+Education
+
+Personal Information
+
+Declaration
+I hereby declare that the above information is true to the best of my knowledge
+Place :Bangalore
+Date :6th June 2015                                                                  		  (Chetan K Birje)

@@ -1,0 +1,197 @@
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Curriculum Vitae 
+
+ 
+
+Personal Details   . 
+
+ 
+Name 
+Designation 
+Birth Date 
+Residence 
+Nationality 
+Martial Status 
+Gender 
+
+Abhishek B.M 
+Software Engineer  
+29TH – May-1992 
+BANGALORE 
+Indian 
+Single 
+Male 
+
+Profile   . 
+
+ 
+Currently working as a Software Developer at Cap Gemini where I am actively 
+
+involved in developing Web Services for the client(Disney). 
+
+ Hopeful of working in a challenging environment that provides opportunity to 
+learn key technologies, be an effective team player in developing, managing projects 
+and to be an asset for the organization by delivering to the best of my capabilities. 
+ 
+
+Have a good exposure in Operating system, good Analytical and communication 
+
+skills and a good team player 
+
+Competencies   . 
+
+Languages 
+Database 
+Operating Systems 
+Mark-up Languages 
+General Tools 
+
+ 
+
+ 
+From 5-Sep to Till Date 
+
+Java, J2EE, Spring, Hibernate, c++. 
+Oracle 10g 
+Windows XP,7,8 
+HTML, XML, XSL, and XSLT 
+Office suite 
+
+Project Name 
+Client 
+Role 
+Roles performed 
+
+Technology used in 
+project 
+
+ 
+Description 
+
+AGC 
+Disney 
+Java Developer 
+  Actively involved in Developing. 
+  Co-ordinating and effectively communicating with peers 
+
+to gather the requirements. 
+
+  Writing Jmeter scripts for the services developed. 
+  Writing WebServices and exposing them for consumption 
+  Writing JUNITS for the same. 
+Operating System 
+Code base 
+Database 
+IDE 
+Messaging Client 
+AGC - Attraction Gateway Controller: consumes data from the 
+core databases and keeps a cache of the data for all the 
+guest who have entered into the theme park. It provides this 
+data to third party client who use it to provide interactive 
+personalized experience for the guest who is in the park, like 
+displaying his photo on giant screens put up inside the park. 
+
+Windows 7 
+Java,J2EE,Spring, Hibernate 
+Oracle 10g 
+Eclipse  
+Sonic 
+
+1 
+
+Curriculum Vitae 
+
+Abhishek BM 
+
+Contact Details    . 
+
+Permanent Address 
+
+Mobile 
+Corporate Email 
+
+ 
+
+#910,16th cross Chandra Layout 1st stage 1st phase  
+Bangalore 560072 
++91  80508 31761 
+abhishek.bm@capgemini.com 
+abhishek_bm@yahoo.com 
+
+Education 
+
+ 
+
+Bachelor of Engineering in Information Science from Visvesvaraya 
+Technological University 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+2 
+
+
