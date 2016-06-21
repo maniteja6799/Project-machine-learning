@@ -1,0 +1,159 @@
+
+SHAJU.C
+3/5/2,2nd cross,
+4th main, ngr layout,				
+Roopena agrahara,					E-mail: shajuchellaswamy@gmail.com
+Bangalore-68.					Phone: +91 - 9962177938
+
+Professional Skills:
+	Created two user-friendly, aesthetically pleasing and fully functional applications for Android.
+	Interacting with Client to understand the new change request.
+	Good knowledge in designing and developing adaptive UI components, Widget for Android phones with different screen resolutions.
+	Experienced with reading and writing XML documents.
+	Experienced with shared preference.
+	Experienced with Json Parser.
+	Knowledge with  Sqlite.
+	Interaction with co-workers and users to high level of service provided to company / customer.
+	Expertise in developing, deploying, porting and debugging application for Android development.
+	Handled projects individually from front-end user interface design, to back-end database design and development.
+	Experienced in requirement analysis, coding, debugging and unit testing various modules in a software development life cycle (SDLC).
+	  Adept at quickly adapting to new environments, new technologies and facing new challenges.           
+	Ability to work independently with the business users and IT team to gather project requirements.
+
+
+
+TECHNICAL SKILLS:
+	Languages: Java, c.
+	Frameworks: Java development kit (JDK), Android SDK.
+	Operating Systems: Windows (XP/Vista/7), Linux.
+	Web Technologies:  HTML, XML.
+	Development Tools: Eclipse, Android Studio.
+	Databases:  SqLite.
+
+
+Work Experience:
+
+Working as a Software Engineer with Enspire Technologies from Nov 2012 to till now.
+
+          Worked as a Lecturer with KCG College of technology from Sept 2009 to 
+           Apr 2011.
+
+PROJECTS HISTORY:
+1. Herbzalive (SG).
+Role: Android Developer
+Duration: MAR 2015 to till now.
+          
+Description: 
+                 This project deals with patient consulting a doctor. The patient must register with their appointment date and time. After registering the patient gets a token.
+
+Roles & Responsibilities:
+	Involved in the whole life cycle of the project.
+	Interacted with clients to understand their requirements.
+	Maintaining the layout standards.
+	Extensively used Intent object to sending an email.
+	Extensively used an Array adapter.
+	Extensively used json parser.
+	Used custom list view with images and text.
+
+
+
+2. Synderotech (USA).
+
+Role: Android Developer
+Duration: Sep 2014 to Dec 2014
+          
+Description: The project is mainly involved to provide the client with robust application for customer relationship team of Synderotech. It deals with customer to contact support team of Synderotech for their issues and rectifying the issues.
+
+Roles & Responsibilities:
+	Involved in the whole life cycle of the project.
+	Interacted with clients to understand their requirements.
+	Maintaining the layout standards.
+	Extensively used Shared Preference and spinners.
+	Extensively used Intent object to make a call.
+	Extensively used Intent object to sending an email.
+	Extensively used an Array adapter.
+
+
+
+3. Maxicab-sg.
+
+Role: Android Developer
+Duration:  April 2014 to Aug 2014
+          
+
+Description: 
+                 This project deals with booking a Taxi Cab in online for travelling within Singapore. For booking a taxi cab the user should register with their details and login with their username and password. Booking details involves selecting type of vehicles, trip details.
+ 
+
+
+Roles & Responsibilities:
+	Involved in the whole life cycle of the project.
+	Interacted with clients to understand their requirements.
+	Maintaining the layout standards.
+	Extensively used Radio groups and spinners.
+	Extensively used Intent object to make a call.
+	Sending Email using java mail API.
+	Extensively used an Array adapter.
+	Extensively used json parser.
+
+
+4. Theatre Words.
+
+Role: Android Developer
+Duration:  April2013 to Feb 2014
+          
+Description: 
+                    Theatre words is a Multilanguage illustrated dictionary with translations of words for theatre technicians and scenographers, sound engineers, lighting engineers, stage engineers and curious spectators that want to know more about the world that surrounds them. The application contains more than 1200 words at your fingertips whenever and wherever you want and translations between 24 languages and no internet connection required.
+
+Roles & Responsibilities:
+
+	Involved in the whole life cycle of the project.
+	Interacted with clients to understand their requirements.
+	Maintaining the layout standards.
+	Extensively used Tab host and Tab widget.
+	Used List view, Web View and Image view. 
+	Extensively Used Shared Preferences.
+	Extensively used an Array adapter.
+
+
+
+
+EDUCATION:
+	Master Of Computer Science And Engineering,                 Sep  2007 –July 2009     
+Anna University-Trichy, TN, India.			            First class.
+
+	Bachelor Of Information Technology, 			  Aug 2002 – July 2006 
+Christian College Of Engineering & Technology	     	  First class.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADDITIONAL INFORMATION:
+	Nationality: Indian
+	Gender: Male.
+	Marital Status: Single. 
+	Availability: Immediate
+	Relocation:  Willing to Relocate
+	Employment type: Permanent.
+	Permanent Address: C-52,ASTC Housing board,
+                               Pennagaram Road, Dharmapuri-1.
+
+Declaration:
+I hereby declare that all the details furnished above are correct to the best of my knowledge.
+
+
+
+Place:                                                                                         
+Date: 									( Shaju.C )
+
+

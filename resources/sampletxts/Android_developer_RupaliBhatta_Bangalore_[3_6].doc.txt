@@ -1,0 +1,177 @@
+
+
+
+
+Rupali  Bhatta
+
+Mobile : +91-9980853451				              Email: rupali2011@hotmail.com
+
+
+Objective
+I am looking forward to an opportunity where I can utilize my creativity and skills in contributing effectively to the success of organization and broaden the horizons of my skills.
+
+Career Narration
+
+	Around 3 years and 6 months of hands-on experience in the IT industry and 2 years 5 months in android development.
+	Proficiency in Internet/Intranet based web Applications, Mobile Application.
+	Planning and designing the application as per the client requirements, Bug Fixing, Maintenance.
+	Developing Graphical User Interface.
+	Consuming Web services to retrieve and Post data to the server.
+	Proficiency in Core Java, Android SDK.
+	Having knowledge in Manual Testing.
+	Highly motivated, dependable troubleshooter and problem-solver.
+	Good communicator and good listener.
+	Enthusiastic learner who quickly grasps new concepts and technical skills.
+	Ensured to finish coding functional elements of soon-to-be-released Android app.
+	Involves daily interaction with clients, designers and testers.
+Employment Summary
+
+	Currently Working as Software Developer in iNube Software Solutions Pvt. Ltd.,
+ Bangalore(October,2015 – Till date).
+	Working as Software Developer in Abrosys Technologies Pvt. Ltd., Bhubaneswar(June,2012 – July,2015).
+Education Summary
+	Master in Computer Application from College of Engineering Bhubaneswar under BijuPattnaik University of Technology, Rourkela in 2011.
+
+Technical Proficiency
+	Mobile	Technology:	Android	SDK,SQLite,GPS(LocationManager),GoogleMap, WebServices(Soap,REST),AsyncTask,XML,JSON
+	Languages: Core Java, Android
+	IDE: Android Studio, Eclipse,Visual Studio
+	Operating System: Windows (family)
+
+Project #1. Google mileage
+
+Description: Web service for zip code to zip code and city to city mileage. This uses Google API which allows us to get the longitude and latitude through which we are able to calculate distance in miles. It had two service methods:
+GetMileageByCity
+GetMileageByZip
+Project #2. WIN Air Freight
+Description:It is a module which is Rest-based API, for one of our client to integrate the freight data with the API. We have setup login based end points to perform data POST and GET.
+Project #3. International
+Description:
+It is a logistic based project of Order Entry and Freight Tracking information. This is the management of the flow of resources between the point of origin and the point of consumption in order to meet some requirements, for example, of customers or corporations. The resources managed in logistics can include physical items, such as food, materials, equipment, liquids, and staff, as well as abstract items, such as time, information, particles, and energy.The logistics of physical items usually involves the integration of information flow, material handling, production, packaging, inventory, transportation, warehousing, and often security.
+
+Project #4 ETA_PICTURE
+
+1.Client:EnterpriseTechnologyAlliance,Canada
+2.Tools: Android 2.2 and above, Eclipse
+3.TeamSize:3
+Description
+ETA_Picture project is developed for acknowledging that the customer has received the ordered product. This App is used at the time of delivering the ordered product to the customer. The app uses the Barcode Scanner which scans the product Barcode to get the product details and also used to take the digital signature of the customer and upload it on the application server along with the Barcode.
+Roles & Responsibilities
+
+	Planning and designing the application as per the client requirements, Bug Fixing, Maintenance.
+	Developing GUI using Linear Layout.
+	Barcode Scanner, Image Uploading
+	Consuming Web services (SOAP) to post data to the application server.
+
+
+Project #5 SchoolOn
+
+1.Client: ABS Pvt. Ltd.
+2.Tools: Android 2.2 and above, Eclipse, Webservices.
+3.TeamSize:3
+Description
+Using this application Parents can view their children’s school attendance, Test Results, Status of class assignment, can also view School’s Circulars/Events.Parents can also receive messages from Principal, Teacher.
+
+Roles & Responsibilities
+	Planning and designing the application
+	Developing Graphical User Interface
+	Consuming Web services to retrieve and Post data to the server
+	Push Notification using C2DM service.
+
+
+Project #6 Moe Bandy (Deployed on Google Play)
+
+1.Client: Moe Bandy
+2.Tools: Android 2.2 and above, Eclipse, SQLite, Webservices.
+3.TeamSize:4
+Description
+This app provides with historical background on Moe Bandy along with real time tour dates and links to his evergreen music albums to buy online.
+
+Roles & Responsibilities
+	Planning and designing the application
+	Developing application
+	XML parsing
+
+Project #7  Show Me Map
+
+1. Client: EnterpriseTechnologyAlliance,Canada
+2. Tools:	Android 2.2 and above, Eclipse, SQLite
+3. TeamSize:4
+Description
+This product is developed to help the users with searching for places and their friends around them. They can search for nearby cafes, hotels, petrol pump etc. and also see how far they are situated.This application also helps the user to add, delete and edit friends at certain location. This application is also integrated with user’s facebook friend’s list and can send email and sms to their friends
+
+Roles & Responsibilities
+	Planning and designing the application
+	Developing Graphical User Interface
+	XML parsing and JSON parsing
+	Testing the application
+
+Project #8  PropertyChecker
+
+1. Client: Odisha
+2. Tools:	Android 2.2 and above, Eclipse, SQLite,REST,Json,GoogleMaps,GPS
+3. TeamSize:4
+Description
+This application is based on web services. In this application user can get property information within a city of a state. First user has to find the agent for desired city to buy the property. Once user choose the agent then after login user can view the all property information like price, property type etc , can share url link to Facebook, and send mail to agent as well as call or Fax to agent. User can save the property information, or delete as well and view map of property location also. And user can search the property info based on Min and Max price, Min Bed etc.
+Roles & Responsibilities
+	Planning and designing the application
+	Developing application
+	JSON parsing
+	Testing the application
+
+Project #9  SpiceTab
+
+1. Client: Bangalore
+2. Tools:	Android 4.0 and above, Android Studio, SQLite, REST, Json
+3. TeamSize:4
+
+
+Description
+This is a restaurant based application which is based on web services. It has 2 tablet apps. One will be on the table and the other one will be in kitchen and near cash counter. In this application user can order the food by using this application. All the menu will be shown on the screen with its price. User can select item and quantity as per their choice. Once user confirm their order the order will update in the other tabs which are present in kitchen and near cash counter.
+Roles & Responsibilities
+	Designing the application
+	Developing application
+	JSON parsing
+	Testing the application
+	Bug fixing
+
+Project #10  HITPA
+
+1. Client: Bangalore
+2. Tools:	Android 4.0 and above, Android Studio, SQLite, REST, Json
+3. Team Size: 3
+Description
+This is an app for all HITPA policy holders who can view a summary of the policies held by them and also any claim related status and information. This app enables the insured to track any claims raised by self, view the settlement details and search network hospitals.
+Roles & Responsibilities
+	Designing the application
+	Developing application
+	JSON parsing
+	Testing the application
+	Bug fixing
+
+Personal Trials
+	Willingness to learn and update knowledge
+	Positive attitude, ability to work under pressure
+
+Personal dossier
+Name	             :  Rupali Bhatta
+Date of Birth              :  16/06/1988
+Gender	             :  Female
+Marital Status            :  Married
+Languages                  :  English,Hindi,Odiya
+Location                      :  Bengaluru
+    Passport Number     :  K7855781
+
+DECLARATION
+I hereby declare that the information given above is true and correct to the best of my knowledge. I fully understand that in the event of any information being found false or incorrect, it will disqualify my candidature and I will myself be responsible.
+
+Date:
+Place: Bengaluru								(Rupali Bhatta)
+
+
+
+
+RupaliBhatta	
+
+
+

@@ -1,0 +1,257 @@
+
+
+
+
+Karthik Nedunchezhian
+
+
+
+CAREER SUMMARY
+
+-	Over all IT experience of about 3 Years and 9 months. 
+-	Involved in all phases of Android and iPhone projects (Documentation, Designing the forms, coding, 
+testing and bug fixing).	-
+Lead a team of 4 members for an e commerce application for both android and iOS application.
+- Proficient in coding and testing Mobile Applications.
+- Expertise in training of new recruits.	-
+Productive in both team based as well as self-managed project.
+-	Experienced in developing android applications using Java, Eclipse and iPhone applications using Objective C, Xcode. 
+-	Integrated RESTful JSON web services in both iPhone and Android apps. 
+-	Special Interest and passion towards Mobile application development. 
+-	Designed and implemented whole Android/iOS applications. 
+-	Gathering requirements from the Client. 
+-	Proficiency in using GitHub for source code backup and sharing. 
+-	Experience in Publishing Android Applications in Google Play Appstore. 
+
+PROFESSIONAL EXPERIENCE
+
+-	Worked with Nativtouch Tech solutions Pvt. Ltd as Software Engineer from February 2015 to May 2015 - Onsite: CHINA. 
+-	Worked with Auriss Technologies Pvt. Ltd as Sr.Software Engineer from November 2013 to February 2015. 
+-	Worked with 1010Logic Technologies Solution Inc., as Software Engineer from December 2011 to November 2013. 
+-	Working in Kuwait ENAS Group from May 2015 to till date in Kuwait. 
+
+TECHNICAL SKILLS
+
+Languages: Java, Objective-c, XML, HTML.
+
+Technologies: Mobile Development (Android / iOS).
+
+Operating Systems: Windows XP, Vista, Windows 7, Apple Macintosh.
+
+Database: MySQL, SQLite.
+
+Development Tools: Android SDK(Eclipse ADT), Android Studio, Xcode.
+
+PROJECT PROFILE
+
+Project Name: SmartAuto (Onsite: China)
+
+Platform: Android 4.4 KitKat
+
+Tools Used: Eclipse ADT Bundle, Source Insight.
+
+Description:
+
+This application is based on Connected Cars concept integrating the custom android framework to android device with integrated custom applications like media player, GPS Navigation.
+
+
+
+
+
+
+
+
+Roles and Responsibilities:
+
+-	Developed a custom Home Launcher for the application with custom features and UI. 
+
+-	Developed a custom IME and changed the default android IME to custom IME with D-PAD features. 
+
+-	Changed the android default system UI appearance by editing the android source code. 
+
+-	At present working on JSON parsing and Local datastorage. 
+
+Project Name: Straks
+
+Platform: Android 4.4 KitKat, iOS 7
+
+Android Link:  https://play.google.com/store/apps/details?id=com.straks.getstraks&hl=en iOS Link:  https://itunes.apple.com/us/app/straks!/id599423201?mt=8
+
+Tools Used: Android Studio, Eclipse Android SDK Project Duration: 8 Months.
+
+Description:
+
+This app is a Consumer /Merchant application the merchant can create a deal/offer and the consumer can buy it from the straks consumer application. With Facebook login and stripe payment gateway integration.
+
+Roles and Responsibilities:
+
+-	Worked as a Lead developer for this application. 
+
+-	Involved in designing for the whole application. 
+
+-	Involved in Full Bug fixing and handled memory leaks issues. 
+
+-	Implemented C2DM for notification services. 
+
+-	Implemented in MVC architecture. 
+
+-	Implemented Facebook api integration in both Android and iOS application. 
+
+-	Implemented Stripe payment gateway. 
+
+Project Name: GeorgiaDotGov
+
+Platform: Android 2.2 Froyo, iOS 5.
+
+Project Duration: 1 Month.
+
+Description:
+
+This app is a Gateway to agencies, services, forms and other information’s for citizens and business people for the State of Georgia.
+
+Roles and Responsibilities:
+
+-	Implemented various business functionalities. 
+
+-	Implemented SQLITE and GRID style menu. 
+
+-	Implemented Search feature. 
+
+-	Designed and implemented UI for the Project. 
+
+-	Provided mentoring to the team mates in application development and code review. 
+
+-	Provided support for the QA Team for System Testing. 
+
+
+
+Project Name: Myklassroom
+
+Platform: Android 4.4 KitKat.
+
+Project Duration: 8 Months.
+
+Tools Used: Eclipse Android SDK, Android Studio IDE.
+
+Link: https://play.google.com/store/apps/details?id=com.mkm.myklassroom&hl=en
+
+
+
+
+Description:
+
+This app is an e-learning android application for school/college students. University results can be viewed from this app when it is published from the server side.
+
+Roles and Responsibilities:
+
+-	Worked as a Lead developer for this application. 
+
+-	Involved in designing for the whole application. 
+
+-	Involved in Full Bug fixing. 
+
+-	Implemented GCM for notification services. 
+
+-	Implemented in MVC architecture. 
+
+Project Name: Rewardzapp
+
+Platform: Android 4.1 Jellybean
+
+Tools Used: Eclipse Android SDK
+
+Description:
+
+This app is a digitized version of the vendor punch cards that are used for the Customer Loyalty programs.
+
+Roles and Responsibilities:
+
+-	Involved in preparation of design document and functional specification document of the project. 
+
+-	Implemented various business functionalities. 
+
+-	Implemented Web services using REST architecture with JSON style. 
+
+-	Implemented UI for the project. 
+
+-	Involved in Database design. 
+
+-	Involved in Unit and Integration testing. 
+
+Project Name: Suspicious Activity Reporting.
+
+Platform: Android 2.3 Gingerbread
+
+Tools Used: Eclipse Android SDK.
+
+Description:
+
+This app is used for complaining an illegal activity which is happened in public with the captured image and details of the activity to police or any government divisions.
+
+Roles and Responsibilities:
+
+
+
+-	Done whole UI designing. 
+
+-	Done the whole project implementation. 
+
+-	Tested the whole application manually. 
+
+-	End to End has been implemented successfully. 
+
+Project Name: EZ – Pass (NFC based project)
+
+Platform: Android 4.2 Jellybean
+
+Description:
+
+This app replaces the existing Passport with NFC based smart tag to save the Passport details and uses mobile based face recognition authentication for stamping at Airport terminal.
+
+Roles and Responsibilities:
+
+-	Involved in conceptualizing the Project 
+
+-	Involved in NFC technology implementation. 
+
+-	Involved in code review and mentoring. 
+
+Project Name: MyNear Bar.
+
+Platform: Android 4.4 KitKat, Android Studio IDE.
+
+Link: https://play.google.com/store/apps/details?id=com.barnloc&hl=en
+
+Description:
+
+This app is used to find the Bars nearby your location.
+
+Roles and Responsibilities:
+
+-	This is my personal application developed by my own ideas. 
+
+-	End to end application developed myself personally. 
+
+-	Integrated google places api using JSON parsing to find the places nearby. 
+
+Project Name: Easy Visa (Kuwait)
+
+Platform: Android 4.4 KitKat, Android Studio IDE and iOS 8, xcode.
+
+Easy Visa is a mobile application which is specially made for people who is in trouble with visa form filling because of language problem or who is not sure how to fill the forms. This application can assist.
+
+Roles and Responsibilities:
+
+- Done the whole application in both android and iOS.	-
+
+Integrated Knet payment gateway to the application.
+
+EDUCATIONAL PROFILE
+
+
+
+
+Bachelor of Engineering in Computer Science and Engineering from Maharaja Institute of Technology, Coimbatore in June 2011.Aggregate: [63%].
+
+
+

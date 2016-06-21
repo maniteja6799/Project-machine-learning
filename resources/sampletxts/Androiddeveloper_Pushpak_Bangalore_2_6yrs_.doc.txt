@@ -1,0 +1,167 @@
+
+
+
+
+Curriculum Vitae
+Name: Puspak Dasgupta
+Date of Birth: 28th March,1989Mobile: 9038005265/7847816653 E-mail: dasguptapuspak@gmail.com 	 Address: 33,Shivakrupa,100ft Road,      Koramangala, Bangalore, Karnataka, India     
+Objective:
+
+My expertise and skill set is in the field of Java and Android Programming. I am especially interested in Mobile, Tablet, Smart watch application development, Enterprise app in Android Framework. I want to do cutting edge work in a challenging environment where I can contribute to the success of the company and ensure my professional development.
+
+
+Summary of Qualification:
+
+My expertise and skill set is in the field of Java and Android Programming . I am especially interested in Mobile, Tablet, Enterprise app in Android Framework . I want to do cutting edge work in a challenging environment where i can contribute to the success of the company and ensure my professional development.
+Mobile Application Developer with more than 2 years and 5 months of development experience, with a Master degree in Computer Applications. I have been a core mentor and a leader for a small team of interns in my Present Organization.
+
+● Proficient in  Android Framework.
+● Proficient in SQL Lite Database.
+● Excellent knowledge of android UI design Patterns, Basic knowledge of Material design.
+● Proficient in web service integration (JSON) , 3rd party library Retrofit
+● Proficient in MAP API integration using Google Map service.
+● Proficient in 3rd party libraries like Pull to refresh list view, Picasso etc
+ Working knowledge for Android API level 8 to 21
+
+Employment History:
+I worked as an Android Developer in 3  OrganizationsDivum Corporate Service Pvt LtdMarch 2015- to PresentUnified InfoTechSeptember 2014- February 2015 	
+Esolz Technologies July 2013- August 2014	
+
+
+Challenging Work I have Done
+
+	Push Notification   
+	Taxi Booking Live 
+	Integration of all social networking site – Facebook
+	Chat using web service
+	Custom Advertisement
+	Handling huge offline and Online data
+
+
+Technical Skills
+
+	Development Tools: Eclipse, Android Studio
+	Programming Languages: Android, Core Java
+	Operating System Windows XP/VISTA/7/8
+	Methodologies Object Oriented Technology
+
+
+Projects Details:
+
+MyBazaar-Amazon App: Mybazaar is a service that allows you to order your everyday essentials and lifestyle products from the tablets placed at your neighbourhood convenience store. The tablets will offer you wide selection, the convenience of paying in cash when the order arrives, and ease of ordering products which might not be available in your local stores.
+This app is live in real stores. Team Size:-1
+
+SnapBizz Dashboard:
+This is an app for pre registered user of Snapbizz. Where monthly data of SnapBizz billing app`s data can be shown in forms of Pie chart,Bar Graph, Listview etc. Team Size:-1
+
+Goqii:
+The GOQii ecosystem has been developed in enabling a permanent shift to a healthier lifestyle. The GOQii ecosystem consists of: 
+1. GOQii Band - an advance fitness tracker, 
+2. GOQii Coach - virtual yet human coach and 
+3. GOQii Karma - a philanthropic platform to enable consumers support social causes of their choice.
+User can chat with their friends,coach.Create group for chatting etc
+Can check how much of sleep,walk,water they have consumed.
+Can check other friend`s feeds,like and comment on them .
+Their health related data can be seen in the Chart formats
+Use Goqii band for real time data fetch. Team Size:-2
+https://play.google.com/store/apps/details?id=com.betaout.GOQii&hl=e
+
+
+Babyoye Online Baby & Mom Shop
+
+An app with  Wide range of products for mothers and kids. Free shipping for orders above Rs. 499. Cash on Delivery option available. Best price for diapers, kid's apparel, strollers, car seats, maternity products and many more. . Team Size:-1
+
+
+https://play.google.com/store/apps/details?id=babyoye.com&hl=en (​https:​/​​/​play.google.com​/​store​/​apps​/​details?id=babyoye.com&hl=en​)
+
+ASKME Price Checker
+
+An application for comparing prices of various products with various commerce applications. . Team Size:-2
+
+
+
+EmojiLike: An app  for writing message using texts, emojis and sharing them in various social sites. There are around 17 categories of Emojis to choose from with more than 1000 emojis. . Team Size:-1
+
+
+https://play.google.com/store/apps/details?id=com.emojilike.emojilike&hl=en (​https:​/​​/​play.google.com​/​store​/​apps​/​details?id=com.emojilike.emojilike&hl=en​)
+
+
+SMH : An app which gives the information about various hospitals, doctors. User can see the places in google map. They can call the doctors. Check emergency facilities, find a Doctor. Get directions to reach and send their feedbacks. SMH facilities are all pinned on a dynamic map, which allows the user to find out which Urgent Care Centers, Emergency Rooms or any other SMH location is closest. GPS navigation can be used to direct the user to any facility or physician in the system. . Team Size:-2
+
+
+https://play.google.com/store/apps/details?id=com.soln.SE35BCA74A3BE95A854E67E90FEB1DBB3&hl=en (​https:​/​​/​play.google.com​/​store​/​apps​/​details?id=com.soln.SE35BCA74A3BE95A854E67E90FEB1DBB3&hl=en​)
+
+Airport Food : An app that helps flyers find great airport restaurants, cafés and bars. In addition to reviews, with Airport Food app flyers can post photos and rate their airport food experience. . Team Size:-1
+
+https://play.google.com/store/apps/details?id=com.esolz.airportfood&hl=en (​https:​/​​/​play.google.com​/​store​/​apps​/​details?id=com.esolz.airportfood&hl=en​)
+Airline Food: An app that helps flyers to post photos and videos of food served by their favorite Airlines. In addition to reviews, with Airline Food app flyers can share photos and videos and also like their reviews on Airlines. . Team Size:-1
+
+https://play.google.com/store/apps/details?id=enmobil.airlinesfood&hl=en (​https:​/​​/​play.google.com​/​store​/​apps​/​details?id=enmobil.airlinesfood&hl=en​)
+
+Seva Me: Nice and easy, this app can be used for Small Businesses .It provide tools that Empower the Small Business Owner! By letting the Owner of the business leverage their existing network, Seva.Me empowers users to get more done. . Team Size:-2
+
+
+https://play.google.com/store/apps/details?id=com.seva.seva&hl=en (​https:​/​​/​play.google.com​/​store​/​apps​/​details?id=com.seva.seva&hl=en​)
+
+
+Timed Alarm:  An app for setting reminder on timely basis. User can also set custom sound for the reminder. . Team Size:-1
+
+
+https://play.google.com/store/apps/details?id=com.uipl.trip&hl=en (​https:​/​​/​play.google.com​/​store​/​apps​/​details?id=com.uipl.trip&hl=en​)
+
+Quiqfind : An app to provide people of Ghana information about Trade, businesses, tradesmen, news, events, taxis, nightlife and share content in simple, easy and meaningful ways. Booking Taxi easily for app is another important feature. . Team Size:-1
+
+Batoku: An app for exchanging products quickly without any money. . Team Size:-1
+
+On The Tools: An app for posting jobs, getting notifications about it in a particular area , searching for job , searching for workers, web service based chat with user , advertisement etc. Size:-1
+
+
+
+
+
+Educational Qualification:
+
+	Degree:MCA
+Institute: Narula Institute of Technology (WBUT)
+Marks: 82.8%
+
+	Degree: BCA
+Institute: B.P.Poddar Institute of Management and Technology
+Marks: 80.40%
+
+	Degree:12th
+Institute: Jagadbandhu Institution
+Marks: 54.2%
+
+	Degree: 10th
+Institute: Jagadbandhu Institution
+Marks: 73.38%
+
+
+
+
+
+Personal  Details:
+
+	Name				:   Puspak Dasgupta.
+	Father`s Name		:   MR. Champak Dasgupta.
+	Mother`s Name		:   Mrs. Moly Dasgupta.
+	Citizenship			:   Indian.
+	Hobbies			:   Listening to Music, Sketching, and Cooking.
+	Languages Known		:  Can write, read and speak English, Bengali and Hindi.
+	Strength			:   Hard working, Fast learner, Positive thinking.
+ 
+             
+
+
+
+
+
+
+
+                                                                                                                                                                                                       
+Date:									    Yours sincerely,
+Place:								             (PUSPAK DASGUPTA)   	
+
+
+

@@ -1,0 +1,86 @@
+
+
+
+
+Avinash Shukla
+Contact: +91 8762874852
+Email: avinashshukla@live.com (​mailto:avinashshukla@live.com​)
+Career profile: Visionary and results driven project coordinator, with an excellent record of delivering complex technology and IT projects on time. Possesses strong analytical, team-working, and multi-tasking skills. Flexible to adapt to all kinds of environment and learns quickly.
+
+Professional Summary:
+	1.8 years of software developer experience, including as an Android applications developer, FFMPEG, Flash Player, Visual basic, Basic4 android, Action Script, Asp.net, PHP and Java based software developer.
+	Developed and architected various Android applications, across multiple versions, and have a good understanding of Android back-end and UI guidelines.
+	Experience of designing and developing software applications with C#, ASP.NET(4.0/3.5), .NET Framework , CSS, Web Services.
+	Experience in Web Application development using HTML, CSS, PHP, and JavaScript.
+	Excellent knowledge and working experience in Android SDK, Application Stack and Android Architecture. Focused on synchronous and asynchronous concurrency models, background processing with AsyncTasks and Services, IPC, AIDL, Storage and retrieval of structured data.
+	Expertise in developing applications using HTML5, XML, JSON, Web Services and SQLite.
+	Experience in working with SQLite Database, Google Maps API, GPS location Data and Push Notifications.
+	Expertise in use of popular public APIs, such as Google, Facebook, YouTube, and Twitter.
+	Hands on experience in design using Object Oriented Programming Principles like Encapsulation, Inheritance, Polymorphism, Abstraction and Design patterns like Abstract factory, Singleton.
+	Experience in developing UI applications using HTML, HTML5, JQuery, and AJAX.
+
+Technical Skills:
+J2EE Technology	JSP, Servlets, AWT/Swing, JDBC
+Programming Languages	Java, C, C#, VB .NET, T-Sql
+Data Management	MySQL, Oracle, PL/SQL, SQLite, SQL SERVER, WAMP & XAMPP Server.
+Web Technologies	HTML5, XML, XHTML, JavaScript, CSS3,PHP, Apache, Tomcat,ASP.NET
+Software Tools	Android Studio, Eclipse, Net Beans, Android SDK, Visual Studio,  SQL Server Management Studio ,Genymotion, Photoshop, Open Office, Cygwin, QT.
+Mobile Technologies	Android 2.x,3.x, 4.x, 5.x, GCM (Google Cloud Messaging)
+Operating Systems	Windows 8/7, Linux(Ubuntu, CentOS, Fedora)
+
+PROFESSIONAL EXPERIENCE:
+Organization	Designation	Duration
+All3axis Technologies Pvt Ltd	Software Developer	Jan'15 - Present
+Eyan Techsol	Android Developer	   June '14 – Nov '14
+
+EDUCATIONAL   QUALIFICATION:
+Institute	Course	Marks	Year of Passing
+College of Engineering, Science & Technology, Lucknow	B.Tech (Computer Science & Engineering)
+Dr. A.P.J. Abdul Kalam Technical University	74.64%	2014
+Sachidanand Inter CollegeCaptainganj, Kushinagar	Class XII (U.P. Board)	66.00%	2008
+Sachidanand Inter CollegeCaptainganj, Kushinagar	Class X (U.P. Board)	74.16%	2006
+
+Project:  Dealer Management System (Marketing Tool)                                                                                 Jan '16 – Till date
+Role: PHP Developer	
+Description: This project is based on management of dealers, admin and Customers regarding selling the objects. 
+Technology Used: PHP
+Database Used: MYSQL
+Environment:  PHP, HTML, XHTML, CSS, JQuery, Photoshop, Adobe.
+
+Project: Camroid Application                                                                                                                            August '15 – Oct '15
+Role: Android Developer	
+Description: Camroid application is based on GPS camera location. With the help of this application we can find the location of vehicle and also ETA. 
+Platform: Basic4android
+Technology Used: Android
+Environment: Android SDK 4.x and 5.x, XML, basic4android.
+
+Project: Push Notification Application                                                                                                             June '15 – July '15
+Role: Android Developer
+Description: Push notification application based on tracking of vehicles. When your vehicle is in your range you will receive a notification. Present time its working in Bangalore some schools. Best part of this application for parents to receive their children from particular bus stop.
+Platform: Eclipse
+Technology Used: Android, Visual Basic, Basic4android
+Environment: Android SDK 4.x and 5.x, XML, basic4android, Eclipse
+
+Project: Live Streaming Software                                                                                                                     March '15 – May '15
+Role: FFMPEG Developer, Java Developer
+Description: FFmpeg is a complete cross platform solution to record convert and stream audio video. In this software I used FFMPEG and visual basic languages.
+Environment: Eclipse, Android studio, FFMPEG SDK, FFMPEG
+Technology Used: Java, (Applet & Servlet), FFMPEG, Visual Basic
+Description: In this software I used applet and Servlet. With the help of applet and Servlet Streaming takes place.
+
+Project: Cloud Guest Book                                                                                                                                     Oct '14 – Nov '14
+Role: Android Developer
+Description:  Google Cloud Messaging for android (GCM) is a service that allows any user to send data from your server to your user’s Android –powered device and also to receive messages from devices on the same connection. 
+Technology Used: PHP, Google Cloud Messaging.
+Database Used: Sqlite Database
+Server: Wamp Server or Xampp Server
+Environment: Android SDK 4.x and 5.x, XML, Eclipse IDE 3.5, JavaScript, CSS, Html, PHP
+
+Project: Android Video Live Streaming                                                                                                            July '14 – Sep '14
+Role: Android Developer
+Description: Android streams camera video to Wowza media engine. Second Wowza decodes the video and starts a streaming channel. Thirst webpage consumes Wowza stream and plays the video on the page. 
+RTSP and RTMP are the two protocols on which real time streaming really works.
+Environment: Java, Android SDK 4.x and 5.x, XML, Eclipse IDE 3.5, JavaScript, CSS, Html.
+
+
+

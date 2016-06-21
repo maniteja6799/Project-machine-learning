@@ -1,0 +1,159 @@
+
+
+
+
+
+
+MANISH KUMAR RAI
+NO.63, Vrishab Residency
+ fifth floor flat No.519
+Chocolate Factory Road 
+Thavarekere Bangalore-560029
+Email:manish100rai@gmail.com (​mailto:Email-manish100rai@gmail.com​)
+Mobile-+91-9738058501
+
+ 
+					
+	
+CAREER OBJECTIVE
+
+I am looking for a challenging career which demands the best of my professional ability in terms of, technical and analytical skills, and helps me in broadening and enhancing my current skill and knowledge.
+
+PROFESSIONAL SUMMERY
+
+Currently working in Lava International ltd. in R&D department as an Associate Software Engineer from Feb 17 2014 till now.
+
+	Currently working on android 5.1.1 Android L (HIVE).
+	Experience in designing, developing and testing system software.
+	Doing automation for the model called “XOLO HIVE” by using selenium with testng.
+	Good understanding of Linux kernel and device driver architecture(Android).
+	Better understanding of mobile development life cycle.
+	Extensively proficient in Functional testing, Integration testing, and Regression testing, and UAT testing on web-based applications.
+	Knowledge on bug tracking tools like Jira, Redmine, Bugzilla.
+	Better understanding of Cyanogen theme engine,Layers theme.
+
+SYNOPSIS
+
+BTech Degree in Information Technology from Integral  University, Lucknow Posses knowledge of programming (C,C++, CORE JAVA, Advanced Java(Jdbc,Servlet,JSP,Oracle(11g),tools like Jmeter,selenium 2.0,Testng,Appium,Ant,Perl). 
+
+TECHNOLOGY AND OPERATING SYSTEM
+
+Languages & Skills:     (C, C++, Core Java, Advanced Java (Jdbc, Servlet, JSP)
+Database:                       Oracle 11g(SQL,PL/SQL)
+Presentation logics:      HTML5, CSS 3, JavaScript
+Operating Systems:	   Windows XP/7/8 
+
+PROFILE
+
+	Good knowledge of C,C++,Core Java, Jdbc, JSP, Servlet, Oracle (SQL), HTML5, CSS3, Javascript
+
+	Analytical, good at problem solving and excellent in maintaining interpersonal relationship.
+
+	Good verbal and written skills.
+
+	Quick learner.
+
+
+
+
+EDUCATIONAL QUALIFICATION
+
+	B Tech (Information Technology) with aggregate 70 in 2009-13 from Integral University, Lucknow.
+
+	12thwith aggregate 68 from DAV Public School in 2008.
+
+
+	10thwith aggregate 74 from DAV public School in 2006.
+
+HARDWARE SKILLS
+
+	Assembling of PC
+
+	Networking & Troubleshooting PC
+
+
+PROJECTS UNDERTAKEN
+
+Project Title: Xolo black (Android - 5.1.1 Lollipop).
+Client: lava international ltd.
+Employment Type: Full-Time
+Duration: Mar 2015 - July 2015
+Project Location: Lava R&D Bangalore	
+Role: Test Engineer
+Skill Used: Core Java, Testng,Appium,Eclipse,ADB,Selenium 2.0.
+Role Description: I am responsible for automation and performance testing(CPU,GPU, Browsing with the help of certain benchmark),Power management.
+Project Details: xolo black (Android - 5.0 Lollipop):Currently working on this project…
+
+
+Project Title: Omega 5.0/5.5 xolo hive (kitkat)
+Client: lava international ltd.
+Employment Type: Full-Time
+Duration: Sept 2014 - Jan 2015
+Project Location: Lava R&D Bangalore	
+Role: Test Engineer
+Skill Used: Core Java, Testng, Appium,Eclipse,ADB,Selenium 2.0.
+Role Description: I am responsible for automation and performance testing(CPU,GPU, Browsing with the help of certain benchmark),Power management, Testing each native application starting from scratch.Created more than 300 bugs related to quality,UI,functionality,Security.
+Complete responsible for doing automation,create more than 300 test cases on jira.
+Project Details: The hive is a plateform meant for people like you,who have a keen interest in mobile technology.This is a plateform where you can share,discuss and propagate ideas,and build a community of like-minded tech enthusiasts.The hive will be driven by collective sprits of tech enthusiasts and everyone else who thinks can make a difference.
+
+Project Title: Xolo 8x-1000/8x-1000i Hive(Android Kitkat)
+Client: lava international ltd.
+Employment Type: Full-Time
+Duration: Dec 2013 - Aug 2104
+Project Location: Lava R&D Bangalore	
+Role: Test Engineer
+Skill Used: Core Java, Testng, Appium,Eclipse,ADB,Selenium 2.0.
+Role Description: I am responsible for automation and performance testing(CPU,GPU, Browsing with the help of certain benchmark),Power management, Testing each native application starting from scratch.Created more than 300 bugs related to quality,UI,functionality,Security.Project Details: The hive is a plateform meant for people like you,who have a keen interest in mobile technology. This is a plateform where you can share,discuss and propagate ideas,and build a community of like-minded tech enthusiasts. The hive will be driven by collective sprits of tech enthusiasts and everyone else who thinks can make a difference.
+
+FINAL YEAR PROJECT
+
+WEB ENABLED AUTOMATED MANUFACTURING SYSTEM (WEAMS)
+Front End-HTML,JSP
+Technology-JEE
+Back End-MY SQL
+Project Details: The system is a web based manufacturing system that enables a manufacturing company to schedule its manufacturing operations based on the daily update of sales from its dealers. The system is modeled to be used by a manufacturing company, whose main activity is manufacturing different products & then selling the finished goods through a network of dealers. To start with, the stocks of all the products manufacturing by the company and held in the company warehouse are stored in a database. The details that are stored include the quantity of each product held with the company dealers who hold the stocks of finished products for sale.Once the sales figures of products sold in the past week are entered by the dealers over the internet along with the orders for the next delivery, the schedule for the next weeks production will be drawn up. A report of the required raw materials or parts will be drawn up with the approval of the administrator this is sent to the concerned suppliers.
+
+DEVELOPED
+
+I deployed my own websites of Music. http://www.mksongs.com (​http:​/​​/​www.mksongs.com​/​​)
+
+FIELDS OF INTERES
+
+	Programming
+	DBMS
+	Computer Network
+	Oops concept
+
+STRENGTHS
+
+	Determined to learn with practical approach
+	Good communication skills 
+	Enthusiastic and can produce results under deadline constraints 
+		
+PERSONAL DETAILS
+
+Father's Name:		Daya Shankar Rai
+Date of Birth:		11-02-1990
+Gender:		Male
+Marital Status:		Single
+Languages known:        English, Hindi
+Hobbies :                      Programing, Listening to music, drawing, playing cricket.
+
+
+
+                                                                                   
+                                                                                         Manish Kumar Rai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
