@@ -1,0 +1,77 @@
+Chinmay Das
+
+
+OBJECTIVE
+
+Seek an opportunity to work in an esteemed organization which allows me to grow, learn and lead in my chosen career. To learn, innovate and excel.
+
+
+CARRER SUMMARY
+
+Young, energetic and result oriented Software Professional offering around 2 years of experience, currently associated with Misys Software Solution Pvt. Ltd., Bangalore as a Associate Software Developer. Good knowledge in Core Java, Java Script, DOJO, and SQL. Good understanding of technology with focus on Financial Business Solutions, Persuasive communicator with exceptional relationship management skills with ability to relate to people at any level of business and management; highly ethical, trustworthy and discreet.
+
+Skilled team member with proven ability to lead and motivate teams to maximize productivity
+Dedicated and highly ambitious to achieve personal as well as organizational goals
+Adroit at learning new concepts quickly, working well under pressure and communicating ideas clearly and effectively
+Proficient in self-adaptation within a dynamic environment
+
+
+
+
+TECHNICAL SKILLS
+
+Programming Languages: core  Java
+Databases: Oracle Database
+Application Server: WAS, JBoss
+IDE and Tools: Eclipse
+Web Technologies: XML/XSL Concepts, SAX Concepts, Java Script/DOJO
+
+
+
+
+ORGANIZATIONAL EXPERIENCE
+
+Aug 2013 to Present with Misys Software Solution Pvt. Ltd, Bangalore
+
+Product: 	Portal Development
+Platform: 	Web Application Server
+Languages: 	Java SE 1.7, Java EE 7, Web Services, Java Script/Dojo
+Description: 	Have been put in to the product known as MISYS PORTAL in the organization that makes Web Portal for Trade &  Cash services for worlds leading banks like Barclays, CNB, UOB Singapore, IndusInd, ING Group and many more across the globe. Have followed AGILE workflow in the workplace in accordance with daily SCRUM, Have been working with Dev L3 Team in the organization in sync with Professional Service team sitting in US, UK and Philippines. 
+
+
+
+Responsibilities undertaken during tenure:
+Role was to provide a desirable Fix for any of the Customer Raised Defects or Q/A Raised Internal Issues that happened to be a flaw in our Portal Application in the banking Domain and Carrying out the Enhancement Requests Raised by the clients in our products.
+Was handling quite a number of Financial Banks of  Europe & Australia & US,  in the sense of  Portal Bug Fixation or Enhancement Requests which was using our Misys Portal either on Cash side or on Trade side or on both.
+Taking care of all the Upcoming and Ongoing Releases of the banks assigned and always made sure that Releases were dispatched on time sending the JENKINS Build to Q/A quite prior to the planned Release date.
+Was totally responsible for nullifying all the persistent issues of the financial customers using the lower versions of our Portal either on CASH or on TRADE side (v3 & v4) and taking care of their up gradation to higher Versions based on Companys demands and policies.
+Integration of the Portal was associated with different Back Office Products that Misys had in the Financial market, hence was imparted with the brief Product Knowledge of several such back office Products.
+Have been Imparted with brief knowledge about different Web Service Technologies like SOAP, JMS etc associated with different technologies like XSL-T, JAX-B, WSDL, SAX etc.
+
+POC performed during the tenure
+Carried out the Proof of Concepts to minimize the effort of applying patches in the Eclipse Workspace code line that included copy paste of a piece of code in around 1500 JAVA and XSL files.
+Had Built an Eclipse Plug-in to automate this process of copy pasting and to reduce 5 days effort to half an hour task. 
+This was a simple Eclipse Plug-in project in which we made use of Eclipse build-in wizards and Build-in popups with Code Insertion and Replacement Logic in the Business Layer.
+The main emphasis of this POC was to Reduce the efforts in terms of Man hours to provide the Security Vulnerability  Fixes of all the branches of Misys Client Projects which was almost a weeks job for a person.
+
+EDUCATION AND QUALIFICATIONS
+
+B.E  Electronics and Communication, from NIE-IT Mysore, Affiliated to VTU, Belgaum in the year 2009-13 with 66%
+HSC  PCM from DAV, Gandhinagar in the year 2009 from CBSE Board with 75.0%.
+SSC from Pitts Modern School, Gomia in the year 2007 from CBSE Board with 88.0%
+
+
+OTHER DETAILS 
+
+Date of Birth: 02 April, 1992
+Languages: English, Hindi
+Permanent Address: GMT 41/B, Bokaro Thermal, Bokaro-829107, Jharkhand
+Temporary Address: #141, 2nd Floor, 18th A Main, HAL 2nd Stage, Indiranagar, Bangalore-560008.
+
+
+
+
+
+
+Sincerely,
+Chinmay Das                                                                             References and verifying documents to be furnished upon request

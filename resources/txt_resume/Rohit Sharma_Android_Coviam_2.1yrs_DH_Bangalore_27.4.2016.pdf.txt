@@ -1,0 +1,265 @@
+ 
+Rohit Sharma 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+E-mail : rohitmca2012@gmail.com 
+Mobile : +91-7406654825  
+Linkedin, Stackoverflow 
+
+ 
+
+Objective: 
+                               To seek a challenging position in Software industry that needs innovation, creativity, 
+dedication and enable me to continue to work in a challenging and fast paced environment, leveraging 
+my current knowledge and fostering creativity with many learning opportunities. 
+Summary: 
+
+• Android Application Developer having 2+ years of competitive experience in IT industry 
+
+using Core Java and Android Native SDK. 
+
+• Very good implementation knowledge in Android Application Development & Debugging. 
+• Sound knowledge in UI Design on mobile application. 
+• Good  programming  knowledge  in  Core  Java,  XML,  JSON,  HTML,  CSS,  JavaScript, 
+
+Servlet, JSP,  MySQL, SQLITE, Rest APIs. 
+
+• Self-initiative and capable to delve into the new leading Technologies. 
+• A dedicated team player with good communication, organizational and interpersonal skills. 
+• A confident, self motivated, meticulous and quality-oriented individual with an eye for detail. 
+
+Work Experience: 
+
+• Currently  working  as  a  Software  Engineer  with    ABHIMAN  TECHNOLOGIES  PVT. 
+
+LTD. Bangalore (hiree.com) from September 2015 till date.  
+
+• Worked as a Software Development Engineer with  SRISHTI ESDM PVT. LTD. Bangalore 
+
+(srishtiesdm.com) from April 2014 to August 2015.  
+
+• Completed One Year of PG Diploma in Software development IIIT, Bangalore. 
+• Completed Master Of Computer Application University Of Jammu. 
+
+Software Exposure: 
+ Mobile technology, Object Oriented Programming and Software Development. 
+
+: My SQL, SQlite. 
+
+• Languages known : Java, Java script, CSS, HTML. 
+• Database 
+• Operating System  : Macintosh, Windows family, Linux & Android. 
+•
+• Android Libraries : Retrofit, Picasso, Butter Knife, Hugo, Facebook, Twitter, G+,  
+                                      Android Design Library, OkHttp, Stetho, AChart, OpenCSV. 
+
+: Android Studio, Eclipse.  
+
+IDE  
+
+ 
+
+ 
+
+ 
+PROJECT DETAILS: 
+
+Project - 1: 
+Project Title: Hiree Job Seeker App 
+Description: Hiree's jobseeker app provides you with all necessary tools to find that better offer, super 
+fast. Job seeker app provide registration wherein the active job seeker creates his profile. Jobseeker can 
+add, update, delete his details. Capture and upload his selfie resume.   
+
+ 
+
+    :  September 2015 till date. 
+
+Duration 
+Role & Responsibility : As android developer have designed UI and functionality consuming 
+Rest Apis  using  Retrofit.  Implemented  the  video  resume  functionality.  Created  custom  views 
+according to the requirement of app. 
+
+Project - 2: 
+Project Title: Hiree Recruiter App 
+Description: Recruiter app facilitates faster real-time communication between recruiters and candidates 
+using WhatsApp, SMS and other mobile communication platforms. The app lets an employer set search 
+parameters, filter and sort search results, rate job seekers and securely interact with the candidates. 
+
+ 
+
+: October 2015 till date. 
+
+Duration 
+Libraries                    : Retrofit, Picasso, Butter Knife, Hugo, Facebook, Twitter, G+,  
+                                      Android Design Library, OKHTTP, Stetho. 
+Role & Responsibility: As android developer have designed flexible UI which support different 
+device types and functionality consuming Rest Apis using Retrofit and other 3rd party libraries.  
+
+Project - 3: 
+Project Title: SAMAY Terminal 
+Description:  SAMAY Terminal  is  a  Kiosk  Mode  android  application.  It  is  an  attendance  and  visitor 
+management system. 
+
+ 
+ 
+
+:  April 2014 to August 2015 
+: SQlite 
+
+Duration 
+Database  
+Role & Responsibility: As android developer have designed UI and functionality using XML 
+parsing and HTTP connection. Implemented secure connection between SAMAY terminal and 
+Server using HTTPS. 
+
+PROJECT DETAILS: 
+Project - 4: 
+Project Title: Aadhaar Enabled Micro ATM 
+Description: Micro ATM is a Kiosk Mode android application. It will allow customers to perform basic 
+financial transactions using only their Aadhaar number and their biometric/OTP as identity proof (along 
+with a Bank Identification Number for inter-bank transactions). 
+
+ 
+
+ : April 2014 to August 2015 
+
+Duration 
+Role & Responsibility: As part of micro ATM team, I have designed UI which supports multiple 
+devices and also work on language localization to display Indian local languages. I have done 
+location module which will get the current location of the micro ATM device and update to our 
+
+ 
+
+server which is required in other modules of application.                                     
+
+Project - 5: 
+Project Title: Kirana Terminal 
+Description: Kirana Terminal is a  a Kiosk Mode android application. This is terminal for Kirana stores, 
+which allows consumers to make       payments through their bank accounts like any other debit card 
+payment  and  also  take  out  money.  This  terminal  gives  the  functionalities  of  paying  bills  (electricity, 
+water etc.), mobile recharges. This terminal keeps track of daily, weekly and monthly earnings of the 
+Kirana store and generates graphical reports. 
+
+ 
+
+    : April 2014 to August 2015 
+
+Duration 
+Role & Responsibility :According to the requirement and given information, I have designed 
+graphical reports to display daily, weekly and monthly earnings of the Kirana store using AChart 
+library. I have created the required documents.  
+
+Academic Project: 
+
+Project Title: Spandan Sports Management System  
+Description: “Spandan” is event management system specifically designed for managing sports events. 
+Sports events require the ability to manage events, the participants in the events, schedules, results, and 
+so on. 
+
+ 
+ 
+ 
+
+Name of organization: IIIT, Bangalore.  
+Duration 
+Platform 
+IDE 
+Role & Responsibility: It was academic project in which we were four team members. I was 
+leading to the team. I have design the project, then discuss and code under the supervision of our 
+professor. 
+
+: January to April 2014 
+: JSP, Servlets, HTML5, Android. 
+: Eclipse 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Academic qualifications: 
+MCA
+
+Model Institute of 
+Engineering and Technology
+GGM  Science  College 
+Jammu 
+
+B.SC
+
+HSC
+
+GHSS Akhnoor
+
+SSC
+
+KNHS Patta Khoo
+
+University Of Jammu
+
+University Of Jammu
+
+Jammu & Kashmir State 
+Board
+Jammu & Kashmir State 
+Board
+
+2012
+
+2009
+
+2006
+
+2004
+
+68.23%
+
+60 %
+
+61 %
+
+67 %
+
+Declaration: 
+               I hereby declare that the information furnished above is true to the best of knowledge. 
+     PLACE 
+     DATE 
+
+: Bangalore                                                                                                  
+:      - 
+
+  -                                                                                                 Signature
+
+

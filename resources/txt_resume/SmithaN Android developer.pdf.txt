@@ -1,0 +1,143 @@
+SMITHA N 
+
+mail2vissmithan@gmail.com 
++91 90351 43528 
+
+ 
+CAREER OBJECTIVE  To gain a challenging role in the field of Engineering, to work on the new technology 
+
+and practical applications being in a dynamic team, which enhance technical skills 
+and fosters professional growth. 
+
+PROFILE  
+
+ 
+
+Talented Software Engineer with B.E degree, strong educational background 
+and 1.8 years of experience in development, integration, testing and implementation 
+of Mobile Software. Articulate and professional communication skills. Productive in 
+Team based and self-managed projects, dedicated to up to date industry knowledge 
+and IT skills. 
+Knowledge and Skill areas: 
+-  Software Development Lifecycle.  
+-  Universal Plug n Play. 
+-  Android Application UI development. 
+-  Wireless Communication (GSM, WCDMA, LTE). 
+-  Software Engineering, Testing and Troubleshooting. 
+-  Scripting, Execution, Problem Analysis and resolution. 
+
+ 
+
+ 
+
+WORK EXPERIENCE  Software Engineer [Grade 1]  
+
+ 
+
+ 
+
+            November 2013 – Present 
+
+ 
+
+LG Soft India Pvt Ltd.   
+
+PROJECT: Composer UI in LG Email App - Android Application Development. 
+-  Have been working on User Interface implementation for LG Email Application. 
+-  Responsible for implementing, debugging and profiling the new Product 
+
+requirement Specification in LG Email application. 
+
+-  Responsible for analysing and bug fixing on Android and Java platform. 
+
+ 
+
+PROJECT: Universal Plug n Play (UPnP) : Deployment of UDA 2.0 
+-  Worked on the technology of network connectivity of intelligent appliances, 
+
+- 
+
+wireless devices, smartphones and PCs. 
+Individual responsibility was to provide IPv6 Dual Stack support, implemented 
+and verified successfully by UCTT (UPnP Convergence Test Tool). 
+
+-  Client Server model based project with the roots of networking which broadened 
+
+the understanding of IPv6 Socket programming (TCP, UDP). 
+
+-  Understanding and implementation of network protocols such as HTTP, SSDP, 
+
+- 
+
+GENA, SOAP. 
+Implementation in C++ on Windows platform, with hands on experience is Visual 
+Studio, Wireshark, Intel Device Manager. 
+
+ 
+PROJECT: Automation Engineering 
+-  Worked with Automation Team of Product Validation Group. 
+-  Responsible for developing Stress checklist and test cases for every LG mobile. 
+-  Develop Memory Stress, Menu-tree scripts for LG smartphones &feature phones. 
+-  With the knowledge of tools (ATS, ART, MLMT), Execution of the developed 
+
+scripts, Checking for Device Reliability issues. 
+
+-  Provide root cause analysis of issues and Final Software Approval. 
+-  Ensure Quality Assurance of the product. 
+
+TECHNICAL SKILLS 
+
+Programming: 
+-  C, C++,Java, Android, Visual C++, MFC (Windows Programming), Git, Windows 
+
+ 
+
+ 
+
+EDUCATION 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Socket Programming (IPv4 and IPv6). 
+
+Development Environment: 
+-  Visual Studio, Eclipse, Android Studio. 
+Tools: 
+-  QXDM, Automated Test System (ATS), All Round Testing tool (ART). 
+Self-learning: 
+-  HTML, CSS, Javascript, XML, Basics of .Net. 
+-  Developed Android apps such as Memo , Calculator, Clock and Chat Window. 
+
+ 
+University Visvesvaraya College of Engineering, Bangalore University. 
+Bachelor of Engineering in Electricals and Electronics. 
+  One among Ten Toppers of University (80.91%). 
+  Selected Candidate for MHRD Central Scholarships. 
+Relevant Internship: 
+ 
+
+Industrial In-plant Training at BHEL EDN - Control equipment, Sub Assembly, 
+Semiconductors, Photo-voltaics, Engineering of Product groups. 
+
+Relevant Project works: 
+  HVDC prototype of a Homopolar link, at BHEL EDN - Demonstration of a HVDC 
+
+prototype and simulation to realize the benefits.  
+
+  Microcontroller based Automatic Circuit Breaker, at BEL. 
+
+Additional information will be gladly provided on request   
+
+ 
+
+ 
+
+ 
+
+

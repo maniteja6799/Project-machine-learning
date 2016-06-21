@@ -1,0 +1,391 @@
+ 
+ 
+ 
+Niranjan Kumar Singh 
+Mail: niranjankmr864@gmail.com/niranjans51@yahoo.in  
+Phone: (+91)7829152100/ 8431585053 
+Vinayak Nagar Murugesh Palya  
+Bangalore.-560017 
+ 
+
+EDUCATION : 
+ 
+B.Tech  
+ 
+
+      :  
+
+Class 12
+
+th
+
+, CBSE  : 
+
+th
+
+, CBSE  : 
+
+Class 10
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Techno India College of Technology 
+Percentage : 84.9% 
+
+Kendriya Vidyalaya Sonepur 
+Percentage : 74.2 % 
+
+Kendriya Vidyalaya Sonepur 
+
+Percentage : 83 % 
+
+SUMMARY OF WORK EXPERIENCE 
+ 
+
+  1.9 years of Experience as a Core ATG developer. Delivered several releases and having a very 
+
+good knowledge and exposure to the Arts technology. 
+
+  Experience in development in ATG, Java & J2EE technologies. 
+  Expertise in building E-commerce Applications using ATG Commerce, ATG Dynamo.  
+  Experience  in  customizing  Repositories,  Droplets  and  Form  Handlers  components  to  meet  the 
+
+business requirements. 
+
+  Worked  on  product  Catalog  ,  BCC,  UserProfiling,  XMLs,  WEB  Services  ,  HandShake, 
+
+Marshalling and UnMarshalling using JAXB. 
+
+  Good knowledge of Handoff /Handshake with third party system. 
+  Deployed BCC and have a good knowledge of BCC and ACC. 
+  Having good experience of jQuery,  Javascript, Ajax, Json, CSS, HTML, Using FireBug. 
+  Have exposure of SQL and Oracle. 
+  Used Ant, winScp, hp Quality Centre, SVN repository and Microsoft Visio. 
+  Having Good Experience in understanding Software Development Life Cycles (SDLC). 
+  Ability to learn and adopt new technologies in short time. 
+  Having good analytical, programming and problem solving skills. 
+  Possessing strong analytical skills, a good team player, and independent contributor with good 
+
+problem solving with good leadership qualities. 
+
+  Has the motivation to take independent responsibility as well as ability to contribute and be a 
+
+productive team player. 
+
+ 
+PROJECTS 
+ 
+Customer  
+ 
+Role  
+ 
+Period 
+ 
+Team Size 
+
+AT&T 
+
+ATG Developer 
+
+26/05/2015 to Present date 
+
+3 Resources(Worked on both front as well as back end) 
+
+ 
+ 
+ 
+Technical Skill  
+ 
+
+ 
+Description 
+
+ 
+ 
+ 
+ 
+Customer  
+ 
+
+Role  
+ 
+
+Period 
+ 
+
+ATG ,Core Java, Repository Handling, XML, Catalog(BCC), Pricing and 
+Promotions, WebServices, Marshalling and UnMarshalling, jQuery, Ajax, DSP 
+tags, HTML 
+The Project (“AT&T Mobile Select”) is introducing new rate plans. In the catalog we are 
+creating new rate plan sku  which will be offered to the customer as a grouped component 
+i.e. user will buy a single sku (on the rate plan page) which will have included data plan, 
+messaging plans, voice plans, night-calling. This project includes customCatalog.xml 
+changes in order to accommodate our new rate plans.We have web-services changes as 
+we need to pass the SOC code of the rate plan to the third party system, in order to store 
+users selected rate plan. 
+
+AT&T 
+
+ATG Developer and as a acting Team Lead 
+
+20/03/2015-26/05/2015 
+
+Team Size 
+
+2 
+
+Technical Skill  
+ 
+
+ 
+Description 
+
+ 
+ 
+ 
+Customer  
+ 
+
+Role  
+ 
+
+Period 
+ 
+
+ATG ,Core Java, Repository Handling, XML,DSP Tags, JQuery, JavaScript, Ajax,  
+Json, CSS, Scriptlet 
+
+The Project “Login Enhancement” is about providing user the facility of   
+providing the security questions at their profile level. For various different types 
+of user with different roles can come with their log-id and password, and the 
+application will facilitate user to enter their security questions which will be 
+available at their profile level. 
+Thereafter, these questions will be used as a security check when user forgets his 
+id or password. 
+In the project there is database Changes, XML changes in the UserProfile XML, 
+Components Creation, Ajax calling, Json , Scriplet and Dsp tags are used to 
+complete this project. 
+
+AT&T 
+
+ATG Developer and Senior Developer 
+
+20/12/2014 to 20/03/2015 - 3 Months 
+
+Team Size 
+
+3(Senior Developer) 
+
+Technical Skill  
+ 
+
+ATG ,Core Java, Repository Handling, XML, Javax, Marshelling, Encyprtion, 
+Handoff/HandShake, DataBase, Web.Xml , JQuery,HTML 
+
+ 
+ 
+ 
+ 
+Description 
+
+The Project “EBill” aimed for the users who had registered for the automatic bill 
+payment. Like if user registered for the Ebill service then once the monthly bill 
+will generated the amount(billed amount) will automatically get deducted from the 
+registered credit card/debit card of the user. 
+In this project, user will get a mail once the bill will generate in the end of month. 
+Mail will have the link to navigate to our site with the necessary parameter/Query 
+String and once user logged-in our system. He will be redirected to a third party 
+system which will handle all the transaction related to user account. 
+So, here Link will have the profile id we will do the validation by accessing user 
+profile with given account id in Query string and then after all validations will 
+succeed. we will populate the XML, do the marshalling and encrypt the XML and 
+then persist it into our DB and then try to make connection over Https with the 
+third party given HttpsURL. The XML will have the request Id ,also the 
+requested will be appended to the URL(third party URL).Thus, we will do the 
+Handshake and if connection fails and response code is not 202/200 we will 
+redirect user to our system displaying error message. 
+Third party system will access the URL and will hit (i.e. make a call to our 
+system) our DB, to access the saved XML and then based on that it will do the 
+validations and user payments. 
+
+ 
+Customer  
+ 
+
+Role  
+ 
+
+Period 
+ 
+
+AT&T 
+
+ATG Developer and Java lead 
+
+20/08/2014-20/12/2014 – 4 Months 
+
+Team Size 
+
+2(Alone Back-end Resource) 
+
+ATG ,Core Java, BCC, Repository Handling, Catalog Changes, Jquery, JavaScript 
+, Web Calls 
+
+The Project “Mobile Protection” is basically focused on sort of reminding user all 
+the times that mobile protection is important and basically attract them to buy the 
+newly launched feature for the users. 
+ 
+In this project, we basically make a third party call to determine whether user is 
+eligible for the given Mobile Protection Pack/Mobile Insurance. So, we have to 
+make a Web Call in order to determine the eligibility and if User is eligible then 
+only the item will be available in the features page when user is purchasing device 
+and rate/data plan. On features page it will be mandatory for the user to check the 
+“No” option if he is not willing to buy that MPP/MI feature. So, we have to do the 
+Catalog changes add the Skuid of MPP/MI in the catalogue. 
+We have created a new category for MPP/MI in Business control center (BCC) 
+which will have these two as required category this is basically done for code 
+scalability, so that if in future client come and say I want some other feature as a 
+required too then simply we will add that sku in this category no need to make 
+back-end change. 
+
+Technical Skill  
+ 
+
+ 
+Description 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Customer  
+ 
+
+Role  
+ 
+
+Period 
+ 
+
+AT&T 
+
+ATG Developer 
+
+14/02/2014-20/08/2014 – 6 Months 
+
+Team Size 
+
+6 
+
+Technical Skill  
+ 
+
+ 
+Description 
+
+ATG ,Core Java, Repository Handling, XML, Web Calls, jQuery, JavaScript 
+
+This project “Cross Upgrade” is aimed at providing user ability to come and use someone 
+else eligibility who is under the same admin to buy a Device and Rate plan if they are not 
+eligible as their contract is not over. In this project the user has a DAR(direct access right) 
+i.e a sort of permission by admin . If this dar is enabled for the user and User login, we 
+will make a web call to determine whether user is eligible for cross upgrade or not. If they 
+have the option to do cross upgrade i.e. use someone else eligibility. Now, when user 
+willing to go for cross upgrade, we will make a web call to third party system which will 
+give us donors maximum of 25. 
+Now, we will make a batch call to third party system (i.e. a web call with 5 request) which 
+will give us the eligibility of each donor in the request. Then we will sort the donor’s 
+according to their eligibility and we will display to the user to select one of the displayed 
+donor’s. 
+Now once user selected the donor and completed the flow , on the review page we have 
+added one more terms and condition informing user that their eligibility is going to swap 
+while using cross upgrade. 
+Also, once order is placed we will have to swap the contract of both the users. So, we 
+need to trigger mail to both the users i.e. recipient as well as donor to inform them their 
+current eligibility. 
+
+ 
+ 
+
+EXTRA  CURRICULAR  ACTIVITIES 
+ 
+
+  Winner in cluster level Science Exhibition organized by Kendriya Vidyalaya Sangathan. 
+
+
+
+  Participated in U-19 cricket tournament at cluster level.
+
+
+
+  Winner in Debate Competition. 
+
+
+
+ 
+
+
+SPECIAL INTEREST 
+
+
+  Playing Cricket, Counter Strike. 
+  Watching Movies
+
+
+
+ 
+
+ 
+ 
+ 
+STRENGTHS 
+ 
+
+  Self-disciplined/ Self-Motivated/ Ability to work independently and quality conscience.  
+  Self-Learning attitude, Sense of Responsibility and Dynamic Team player.  
+  Calm, Confident, Committed  
+  Exceptional abilities to identify and resolve issues  
+
+ 
+ 
+
+DECLARATION 
+
+ 
+
+ 
+I do hereby declare that the above furnished particular are true and correct to the best of my knowledge 
+and belief. 
+ 
+
+NIRANJAN KUMAR SINGH 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

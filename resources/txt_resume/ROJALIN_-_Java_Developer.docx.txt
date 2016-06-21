@@ -1,0 +1,65 @@
+          ROJALIN TRIPATHY
+                       Mob: +91- 7829350777, E-mail:rojalintripathy2@gmail.com                                                                      
+                                                                                                                                
+                                                         CAREER OBJECTIVE
+To hone my skills with diligent efforts to embellish a career as an adroit software professional thereby maximizing my contribution to the companys achievements and growth.
+                                                    PROFFESSIONAL SUMMARY
+
+3 years of experience as a Software Developer in Java.
+Currently Working at FuGenX Technologies Pvt. Ltd.
+Experienced in Web and Enterprise applications using J2EE technologies.
+Experience in development of object oriented business applications using java, JDBC, Servlets JSP, Struts and Hibernate.
+Good understanding of  J2EE Design Patterns( Singleton ,DAO ,Value Object)
+Good understanding of Object Oriented Concepts.
+Well acquainted with SDLC and Unit test Plan preparation and upgrade.
+Very good unit testing skills.
+
+                                                      
+                                                         EMPLOYER HISTORY
+
+Current Employer:
+
+                                                     
+                                                    ACADEMIC CREDENTIALS
+
+    B Tech in Electronics and communication engineering from BPUT with 8.13 CGPA in 2012.
+
+                                                         PROJECT DETAILS 
+
+Project:  2 
+ 
+Project Overview:  
+This project aims at capturing minute details of each and every village, so that all the information 
+About each and every entity can be maintained throughout the country. It is initiated by ministry of 
+Panchayatiraj which keeps all the information about the panchayat online. It facilitates the 
+Panchayat to manage their socio-economic information, demographical information, public
+Infrastructure and amenities, election details and official details.Areaprofiler acts as centralized 
+Database that captures panchayat information and also the data sets proposed by Ministry of 
+Statistics and Program Implementation.The Areaprofiler is used by Panchayati Raj Institutions for 
+Maintaining their information.
+Roles & Responsibilities:
+Analyzing the design document
+Developing the code as per the requirement.
+Involved in integration of the project
+Involved in code enhancement, Defect fixing.
+Writing UI/Business validations for use cases.
+Performed Unit Testing
+Resolving the production issues reported by the client.
+
+Project 1: 
+
+Project Overview:  
+BigBasket is the first comprehensive online grocery store in Bangalore, Mumbai, Hyderabad and Pune. With over 10,000 products and 1000 brands in our grocery. This project is meant for online ordering, maintain data list of new arrivals, offers etc in the website. 
+
+Roles & Responsibilities:
+Involved in the development of HTML pages, JSP in order to implement the presentation logic
+The application was designed on Struts and Hibernate Framework to make use of its MVC pattern Written Hibernate Configuration File, Hibernate Mapping File.
+Display the result in client browser by using Pagination with the help of Hibernate.
+Created Tile definitions, strutsconfig files and resource bundles using Struts    framework
+Extensively developed struts Action and Form Classes (Action, Dispatch Action)   which will validate the input 
+Involved in unit testing by using JUnit
+
+Declaration:-
+                   I hereby declare that all the statements made here are true and best of my knowledge    and belief.                                                                            
+                                                                                                                                                                                                                 
+                                                                                                Rojalin Tripathy                                                                                              

@@ -1,0 +1,69 @@
+RESUME
+
+AGHIL K. P.							(+91) 8861344666
+						(+91) 9846264712
+
+CAREER OBJECTIVE
+To be part of an organization which gives me an ideal platform to utilize my skills and experience for the growth of the organization and advancement of my career. 
+TECHNICAL SKILLS
+
+EXPERIENCE
+Aricent, Bangalore
+
+Software Engineer (April 2014  Present) 
+
+Projects and Responsibilities :
+
+Comverse FrontEnd Solution
+ComverseONE solution has a componentized, loosely coupled, service oriented and supports enterprise integration with ESB middleware platform solution. Require integration options for Comverse customers to use best of breed CRM solution and other non-Comverse systems to interact with ComverseONE. Comverse BSS and converged solution with ESB framework is expected to reduce costs for customization with increased flexibility for integrating with external applications/systems as well as minimize maintenance costs.
+
+Responsible for development of new features in java code base in ESB layer in Agile Methodology.
+Creating Unit test for the services.
+Creating services and doing end to end testing with UI and BSS.
+
+Achievements
+Adapted to Agile methodology and new technologies and brought good results and appreciations from customer side.
+Studied and implemented new technologies for the R&D project.
+My Team got recognized by my Manager for adapting to new technologies and learning new things and producing good results.
+Individual recognitions for being a good Team Player and for Client first approach.
+
+
+Comverse Telecom Billing Product
+	 
+To Design and Implement the Development Request from client for the middleware of the product.
+Fixing the defects raised by client or Quality Team.
+Running tools such as Hudson and Sonar for finding integrated testing and code violations and generating reports.
+
+
+TECHNICAL QUALIFICATION
+Bachelor of Technology in Computer Science and Engineering from Government Engineering College, Sreekrishnapuram, Palakkad affiliated to University of Calicut from September 2009 to June 2013 with CGPA 7.7.
+
+ACHIEVEMENTS
+Individual Excellence Award by Manager for Client First.
+Team Excellence Award by Manager for Great Learner and for Adapting to new Technologies.
+Successfully completed 3 months Prism Training at Aricent Nalanda campus.
+Topped the district level Mathematics Olympiad and qualified for state level and have won silver medal.
+
+AREA OF INTEREST 
+Programming, Data Structures, Algorithms & Puzzles
+KEY STRENGTHS
+Good qualitative aptitude and eagerness to learn. 
+Flexible, Dedicated and Hardworking.
+Self-motivation and passion to succeed. 
+
+PERSONAL PROFILE
+Date of Birth		: 	9th April, 1991
+Nationality		: 	Indian
+Passport Number	: 	L 1311109
+Languages Known 	: 	English, Malayalam, Hindi, Tamil
+Address		: 	Flat 108 A block,
+				Sraddha Palmera,
+Gear School Road,
+Panathur Village,
+Kadubeesanahalli
+Bangalore, Karnataka
+Pin: 560103
+DECLARATION
+I, hereby declare that the information furnished above is true to the best of my knowledge.
+
+PLACE: Bangalore								 	AGHIL K.P.

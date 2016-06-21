@@ -1,0 +1,150 @@
+ 
+
+Page 1 of 2 
+
+Mobile:          +91 8904981611 
+Email:      psdmails@gmail.com 
+
+ 
+
+ 
+Pranoy Shankar Dutta 
+LinkedIn: in.linkedin.com/in/psdmails 
+ 
+ 
+ 
+Objective: 
+Proficient at developing algorithm intensive softwares from scratch in a startup environment. 
+Experienced  in developing  software  applications  involving  Text  Predictions,  NLP,  Databases, 
+Android Apps & Framework.  
+ 
+Experience: 
+Current: 
+Designation: Software Engineer, Android Apps & Framework 
+Company name: Micromax Informatics Ltd. 
+Location: Bengaluru 
+Working since:  August, 2015 
+ 
+Past: 
+Designation: Software Engineer, R&D [June, 2014 - July, 2015] 
+Company name: Reverie Language Technologies Pvt. Ltd.   [Bengaluru based startup] 
+ 
+Designation: Software Engineering Intern [January, 2014 - May, 2014] 
+Company name: Reverie Language Technologies Pvt. Ltd.   [Bengaluru based startup] 
+ 
+ 
+Education: 
+MCA – Tezpur University, Assam, India – CGPA 8.3/10 – 2014 
+BSc in Computer Science – Pragjyotish College, Gauhati University, Guwahati – 75.8% – 2011 
+ 
+Technical Skills 
+Languages: 
+Areas of interest: 
+Tools / Frameworks:  Android SDK, MySQL, SQLite, Git, Gerrit, JUnit, JQuery, Hibernate ORM, EMMA 
+ 
+ 
+Selected Projects: 
+  Custom ROM based on Android platform: 
+
+C, C++, Java, SQL, Shell Script 
+Data Structures, Algorithms, Databases, Compilers & Assemblers 
+
+ 
+
+Creating a custom ROM (name to be shared in person) where I am involved in the following: 
+  Power button feature & UI improvements 
+  Notification panel feature & UI improvements 
+  Calculator app feature improvements 
+  Sound recorder feature improvements 
+  Bug fixes in different modules like, File Manager, Messaging, Launcher etc. 
+  Overall UI customization using overlay 
+  JUnit test cases for some of the new features 
+ 
+Organization:   Micromax Informatics Ltd., Bangalore 
+Team Size:  
+Duration:   
+
+20 
+6 Months 
+
+Page 2 of 2 
+
+ 
+
+ 
+
+  Next Word Prediction Algorithm Development & Implementation : 
+
+Developed a text prediction algorithm for a multilingual android keypad app which suggests the next 
+word as well as the current word (when partial word is typed) that the user is likely to type. It learns 
+from the user’s typing behavior and gets better with every word typed. It is designed to give 
+grammatically correct predictions for English & 22 Indian languages. 
+ 
+Organization:   Reverie Language Technologies Pvt. Ltd., Bangalore 
+Team Size:  
+Duration:   
+ 
+ 
+
+1 
+8 Months 
+
+  Music Lyrics Editor & Synchronizer: 
+
+Developed a web application where users can sync the lyrics with any music, download the synced 
+lyrics file (in .LRC format) and also, share the lyrics with other users. When the music is played with 
+the lyrics file, it will display the synced lyrics (text) along with the song. 
+ 
+Organization:   Reverie Language Technologies Pvt. Ltd., Bangalore 
+Team Size:  
+Duration:   
+
+2 
+4 Months 
+
+ 
+ 
+  RESTful API for public database: 
+
+Developed  a  RESTful  API  where  it  works  as  a  middleware  between  a  public  database  and  the 
+users providing the web-browser URL as interaction medium. 
+Input: A query with some of the predefined parameters in a prescribed format. 
+Output: Record(s) from the database in XML format. 
+ 
+Organization:   Tezpur University  
+Team Size:  
+Duration:   
+ 
+ 
+
+2 
+4 Months 
+
+  Video Library Management System: 
+
+Developed a Video Library Management System that manages  all the tasks of Video Library such 
+as searching the location of an album (Rack No.), finding the availability of an album, calculate the 
+bill amount, summarization/report of daily transactions etc. in an automated way. 
+
+ 
+
+Organization:   Pragjyotish College, Gauhati University 
+Team Size:  
+Duration:   
+
+2 
+1 Year (Along with other courses of BSc final year) 
+
+ 
+ 
+Personal Vitae: 
+Languages known: English, Hindi, Assamese, French (Beginner), German (Beginner) 
+Hobbies: Playing cricket & volleyball, Travelling, Cooking, Listening to music, Surfing the net casually  
+Gender: Male 
+Marital Status: Unmarried 
+DOB: 1st March, 1990 
+ 
+
+----------- 
+
+

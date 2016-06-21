@@ -1,0 +1,79 @@
+CHETHAN G.S 
+BENGALURU
+
+
+Cell: 91-9611434357					   Email: chetz93@gmail.com
+
+Career Objective
+
+Challenging and motivating career that provides opportunities to work with State of the Art Technology in the Java software development field.
+
+Summary
+
++1.5 years of Experience developing Java based web application using standard Core Java, GWT, Hibernate etc.
+Experience in Java Application Server Tomcat.
+Experience in development IDE Eclipse.
+Experience in version control system GIT.
+Experience and interest in Object Oriented Design, Design Patterns, and Object Oriented Programming.
+Hands-on experience in Hibernate Query Language.
+Familiarity with MySQL and understanding of database product.
+Basic knowledge of Windows, Linux operating systems.
+Strong Knowledge in  Client/server Technologies.
+Excellent communication skills to collaborate with team members worldwide.
+Implementation knowledge of OpenNLP.
+Knowledge of Java Elastic Search.
+
+Career Profile 
+
+   Currently working as a Software Eng. in Agora Analytics from Jun-2014 to Till date.
+
+
+Technical Exposure
+
+
+
+
+Educational Qualifications
+
+Bachelors of Engineering in Computer Science & Engineering from PESITM, Shivamogga. (VTU) scoring 63.5% in 2014.
+
+Project Undertaken
+
+Project Title		:  RD (RECRUITER'S DELIGHT)
+Role			:  Developer.
+Team Size		:  10
+Environment		:  Java, GWT, Hibernate.
+App Server		:  Apache Tomcat.
+
+Description : RD is the most advanced solution to overcome an organizations talent acquisition challenge. Its a cloud-hosted solution. Upload the Job-description to acquire top10 most qualified resumes instantaneously from millions of them. Review them and instruct the system on your acceptance or rejection of each of those 10. Thereafter the system will check with the candidates about their interest in the job, technically qualify them for the position and conduct video based behavior interviews. 
+
+Technologies Used: Machine-learning, big-data, predictive modeling, NLP the list just goes on and on. But to summarize, here are a few that I am aware of,
+Core-Java, Hibernate, GWT.
+Algorithms like LDA and LSI.
+Python for big-data processing.
+Open-NLP, Elastic Search.
+DBPedia, SPARQL.
+FlywayDB, MySQL database.
+Role Responsibilities:
+As a Developer involved in developing code as per design documents as 
+Currently working on OpenNLP method of extraction.
+Designed and implemented algorithm for suggesting similar skills.
+Designing of custom components using GWT.
+Extraction of data from the resumes using NLP.
+Implementation of code to extract resumes from recruiting sites.
+Implementation of portal connection pooling using java. 
+Performance improvement of backend-services using Hibernate. 
+Designed the concept of Golden Resume.
+
+
+Personal Profile
+			
+Date of Birth	           	 :        14th Jan 1993.
+Languages Known        	 : 	English (RWS), Hindi (RWS), Kannada (RWS).
+Hobbies			 :	Playing Chess, Watching Documentaries.
+AOI				 :	Automobiles & Gadgets.
+
+Declaration
+
+ I hereby declare that above particulars are true to the best of my knowledge.
+                                                                                                                                       		  [Chethan G.S]

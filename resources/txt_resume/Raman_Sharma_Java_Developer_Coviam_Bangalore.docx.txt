@@ -1,0 +1,64 @@
+Raman Sharma
+
+Mobile: +91-8095903258                               Email:kumar.raman954@gmail.com
+
+
+Seeking an opportunity challenging and rewarding which utilizes my education, experience and work ethics to help promote the success of my employer.
+
+Professional Summary
+Having 2 years 1 month of IT experience in delivering Business Intelligence solutions using Java/J2EE. Mainly worked in Web Application domain.
+Adequate knowledge and understanding of Object Orientated programming concept (OOPS).
+Strong emphasis and good knowledge of Java (Strings, Exception Handling, Collections, Multithreading, Object Class).
+Strong emphasis and good knowledge of JDBC (JDBC Architecture, Statement, Prepared Statement, Callable Statement).
+Strong emphasis and good knowledge of Servlets (Servlet Life-Cycle, URL Rewriting, Hidden Form Fields, Cookies, HTTP Session)
+Strong emphasis and good knowledge of JSP (JSP Life-Cycle, Scripting Tags, Implicit Objects, Directive Tags)
+Good exposure on Hibernate3.0.
+Good exposure on Design Pattern(Singleton Pattern).
+Good exposure on Spring framework (IOC and MVC modules).
+Knowledge in using Tomcat7.0.
+
+Professional Experience
+Working as a Software Engineer in Green Dimension Pvt Ltd
+From  oct 2013.
+
+Skills
+Languages			 : JAVA.
+Web Technologies		 : JSP, Servlet, JDBC.
+Framework			 : Spring, Hibernate 3.0.
+Tools / Utilities (IDE)	 :  Eclipse.
+App Servers / Web Servers	: Apache Tomcat 7.0.     
+Database			: Oracle11g.
+Platforms			: XP, Windows 7.
+
+
+Project #1 : Online Bus Reservation System
+           Designation      : Software Developer
+           Environment	  : Java, J2EE,MySQL, Hibernate.
+           Role 	  : UI and Java developer
+Description :
+    The objective of the project is to develop a system that automates the processes and activities of a travel and. The purpose is to design a system using which one can perform all operations related to traveling. 
+My Responsibilities:
+Design JSPs  per the Requirement.
+Involved in writing business logic in servlets.
+Written Hibernate Mapping Documents and persistence Classes.
+Project #2: OMS             
+	Role		: Developer
+	Team Size	: 7	
+	Environment	: Core Java, JDBC, Servlets, Oracle11g.
+Description:
+The project entitled Online Mobile Shopping enables customer to buy mobiles or accessories from anywhere through online. This application advertises some of the products for shopping. To buy products, customer has to create an account. Those who does not have an account, they can only view the available product. They cant buy it. 
+
+My Responsibilities:
+Involved in writing JSPs.
+Involved in writing business logic in servlets.
+Involved in writing database connectivity code.
+Involved in writing DAO classes.
+
+Educational Qualification:
+BE from Central India Institute Of Technology, Indore (RGPV University) with 60%.
+XII from Shri Guru Nanak Public school Dabra (distt-Gwalior) (M.P. Board) with 62%.
+X from Shri Guru Nanak Public school Dabra (distt-Gwalior) (M.P. Board) with 62%.
+
+Personal Information:
+	Date of birth	: 02th-july-1990.
+	Address		: Om Sai Mens pg BTM layout Bangalore.
