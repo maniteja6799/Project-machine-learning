@@ -1,6 +1,5 @@
 import docx,glob,os
 
-
 from subprocess import Popen, PIPE
 from io import StringIO
 from pdfminer.pdfpage import PDFPage
