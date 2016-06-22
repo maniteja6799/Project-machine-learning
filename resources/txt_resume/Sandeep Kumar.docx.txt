@@ -1,0 +1,68 @@
+Sandeep Kumar
+skrudra12@gmail.com
+
+8712812722
+
+Career Objective
+Seeking a challenging software development opportunity in a dynamic environment where innovation, education and sense of ownership are valued and encouraged.
+
+	
+Career Summary
+B Tech. in Computer Science & Engineering in CSE, One plus years experience in GGK Technologies Pvt. Ltd. Working on Java Environment with Spring and Hibernate.
+
+Key Skills
+
+Technical Expertise: Java, Spring, Hibernate, SQL/XML- DB2, ActiveMQ, HTML.
+
+Professional Experience: One Plus Year
+
+GGK Technologies Pvt. Ltd.
+
+Location: Hyderabad, Telangana
+Designation: Associate Software Engineer
+Project Name: XXX
+Environment: Java, Spring, Hibernate, Websphere.
+Team Size: 10
+Duration: February 2014 to till date.
+
+Project Details: This is a web application used by health insurance vendor in US. Vendor deals in selling the health insurance in 5 states in US. The application helps vendor from enrollment of a customer to the system till allotting the correspondences. There are many modules of this application out of which main modules are:
+
+RES: Retail Enrollment Service module helps to enroll a customer into the system.
+MMS: Member Maintenance Service module is a centralized data base system that contains entire information of the customer once enrolled successfully in RES. 
+VFS: Vantage fulfillment service module provides the associated documents to the customer once enrolled successfully in RES.
+Billing: Billing module takes care of premiums and claims of the customer.
+	
+Key responsibilities:
+Analyzing and Understanding the SRS (Software Requirement Specification)
+Creating scenarios against the SRS and posting questions for clarification
+Writing code for the requirements
+Writing DB scripts
+Unit and Dev Testing
+Support for QA/UAT testing
+Production support
+Providing ad hoc reports/analysis to business
+
+Achievement 
+Awarded with Star of the Month award by GGK Technologies Pvt. Ltd
+
+Educational qualifications
+
+*B. Tech in Computer Science & Engineering with 72% from IITT College of Engineering Kala Amb under Himachal Pradesh University with Honors.
+
+
+Personal Details
+
+Name	Sandeep Kumar
+Fathers name	Mr. Kamal Singh
+Mothers name	Smt. Sudarshna Devi
+Date of birth	18 Sep. 1990
+Marital status	Unmarried 
+Linguistic proficiency	English, Hindi
+Hobbies	Dancing, Listening music,
+	Spending time with friends
+
+Declaration:
+I hereby declare that all the information, provided is to the best of my knowledge and belief.
+Date: 25-09-2015								 Sandeep Kumar
+Place: Hyderabad
+

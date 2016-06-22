@@ -1,0 +1,186 @@
+
+DEBANGANA SAHA
+(Exp: 2.3YRS, Rel:2YRS, CTC: 5.5 Lacs, Exp CTC: Industry Standards,
+ Notice Period: 2 Month - Negotiable)
+
+
+|EDUCATION                                                                     |
+|MCA     |National Institute of Technology, Surathkal (MCA 2010-13)             |
+|        |(7.28 YGPA)                                                           |
+|BCA     |Techno India, Kolkata(BCA 2007-2010)                                  |
+|        |(8.5 YGPA)                                                            |
+|School  |Calcutta Girls' High School, Kolkata                                  |
+|        |(ISC-2007: 79.2%; ICSE-2005: 73.4%)                                   |
+|internship                                                                    |
+|IT      |January 13- May 13          Tesco HSC, Bangalore                     |
+|        |MCA                                                                  |
+|        |Joined as an Intern in Tesco Innovation Lab                          |
+|        |Final Semester Training Project  "Raspberry Pi Transporter"          |
+|        |Motivation behind this project of Remote Control with VNC is that one|
+|        |can access a screen connected to Raspberry Pi from another computer  |
+|        |running Windows or any other operating system that is connected to   |
+|        |the same network or to the Internet.                                 |
+|TECHNICAL SKILLS                                                              |
+|        |Language[pic]   | C#, Java, JavaScript, Asp.net with C#               |
+|        |Operating System|[pic]                                                |
+|        |                |Android                                              |
+|        |[pic]           |[pic]                                                |
+|        |Mark up         |XML, HTML                                            |
+|        |Languages       |[pic]                                                |
+|        |[pic]           |SQL                                                  |
+|        |Databases       |[pic]                                                |
+|        |[pic]           |Microsoft Visual Studio, DDMS, GIT, SonarSource Tree,|
+|        |                |SonarQube, Eclipse, Charles, SQL Server.             |
+|        |Tools           |[pic]                                                |
+|        |[pic]           |Agile Methodology                                    |
+|        |Software        |                                                     |
+|        |Development     |                                                     |
+|        |Method          |                                                     |
+|  work experience                                                           | |
+|IT      |July 15- Till Date                   Tesco HSC, Bangalore            |
+|        |Software Engineer                                                    |
+|        |Currently working on JVNGC -Customer Support Web Application         |
+|        |Working on this web application that support the customer care       |
+|        |executives to find out various details of a customer related to the  |
+|        |Clubcard Loyalty Programme.                                          |
+|        |Key skills used:-                                                    |
+|        |Asp.Net with C#                                                      |
+|        |SQL Server                                                           |
+|        |HTML                                                                 |
+|        |CSS                                                                  |
+|        |JavaScript                                                           |
+|        |Responsibilities- In this application                                |
+|        |Developed individual module such as Freeze Clubcard, UnFreeze        |
+|        |Clubcard, Clubcard Transfer,                                         |
+|        |Foundation Pages, Clean Clubcard etc.                                |
+|        |Fixed Bugs in all modules.                                           |
+|        |Enhancement of different modules for better experience               |
+|        |Dev testing of the stories delivered and sanity testing before       |
+|        |releasing the build.                                                 |
+|        |[pic]                                                                |
+|        |July 13- July 15                   Tesco HSC, Bangalore              |
+|        |Software Engineer                                                    |
+|        |Joined as an Android Developer in Mobile Engineering Lab             |
+|        |Currently working on Tesco Clubcard Mobile App                       |
+|        |Worked on the design and development of this Greenfield project.     |
+|        |Clubcard is UK's leading loyalty and rewards program. Application was|
+|        |developed using Xamarin SDK and Android SDK.                         |
+|        |Key skills used:-                                                    |
+|        |Xamarin SDK                                                          |
+|        |Android SDK                                                          |
+|        |C#                                                                   |
+|        |XML                                                                  |
+|        |JSON                                                                 |
+|        |HTML                                                                 |
+|        |Responsibilities- In this application                                |
+|        |Developed individual module such as Points Card, FAQ search screen,  |
+|        |UI development, Tutorials, Analytics, Coupon History, Registration   |
+|        |Screen etc.                                                          |
+|        |Fixed Bugs in all modules.                                           |
+|        |Enhancement of different modules for better experience               |
+|        |Dev testing of the stories delivered and sanity testing before       |
+|        |releasing the build to test team.                                    |
+|        |Enhancement of the code quality by using Sonar.                      |
+|        |Additional Skills- Automation Testing- Scripting Ruby and tool used  |
+|        |Calabash(novice level).                                              |
+|BDE     |March 10- May 10                     Nicco Ventures                  |
+|        |Business Development Executive                                       |
+|        |Interacting with Corporate Companies for Business Propositions.      |
+|Media   |May 07-July 10                             Telegraph                 |
+|        |Free-Lance Reporter                                                  |
+|        |Worked as a Free-Lancer                                              |
+|        |Empty World? -June 14,2007                                           |
+|        |German courses at Sector V- November 8, 2008                         |
+|        |Orkut Poetry- February 17, 2008                                      |
+|        |Not limited by disability- November 18, 2008                         |
+|        |Twist a classic- November 24, 2007                                   |
+|        |Career in Real Estate- March 26, 2009                                |
+|        |Diet blue print for autism- September 8, 2009                        |
+|        |Chit Chat- Tips on ethical hacking (Ankit Fadia)- September 8, 2009  |
+|Media   |June 06- July 07                           Times Of India            |
+|        |Correspondent                                                        |
+|        |Worked as a Free-Lancer and was nominated as the Times NIE School    |
+|        |Reporter.                                                            |
+|        |Face to Face with Parambrata Chatterjee- June 22, 2006               |
+|        |10/10 for Kolkata Police- October 13, 2006                           |
+|        |Calcutta Girl's date with the President- December 7, 2006            |
+|        |Hue and (Cry)ket !- April 20, 2007                                   |
+|        |Slam the shambles- May 3, 2007                                       |
+|        |CGHS' commemorative stamp released- April 24, 2006                   |
+|        |On a destructive 'high'- August 2, 2007                              |
+|        |Students guided by stars- July 11, 2007                              |
+|Academic PROJECTS And seminars                                                |
+|        |Developed Online Book Shop - The objective of this mini project was  |
+|IT      |to provide the users virtual Book Shop that would provide ease to    |
+|        |customers to find books of their interest and easily make a purchase.|
+|        |The user can conduct a search of books, can watch there views on the |
+|        |books, can order the books and get them by home delivery.            |
+|IT      |Developed Route Management System- The objective of this project was |
+|        |to provide users find the Route for a particular trip wit the help of|
+|        |Google Maps. The User can conduct a search from one destination to   |
+|        |the other and the shortest path will be visible.                     |
+|IT      |Developed Falling Ball Game                                          |
+|Seminars| Presentation on the Application of Intelligence, covering the basic |
+|        |AI concepts.                                                         |
+|        |Presentation on Autism                                               |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|positions of responsibility                                                   |
+|Leadersh|Organizing Committee Member of Tesco Globe'athon 2014                |
+|ip      |Placement Coordinator for the batch 2010-2013                        |
+|&       |Marketing Coordinator for Incident 2012                              |
+|Initiati|Joint Convenor (Corporate Hospitality) of National Institute of      |
+|ve      |Technology's Annual Cultural fest Incident in Feb 2012.              |
+|        |Executive Member of National Institute of Technology's Management    |
+|        |forum for the academic year 2011-2012                                |
+|        |Executive Member of National Institute of Technology's fest Crescendo|
+|        |2012                                                                 |
+|        |Organizing Committee Member of Techno India's College Fest,          |
+|        |Anakhronas in Feb, 2009.                                             |
+|        |Member of the Anti-Ragging Committee of Techno India College for the |
+|        |academic year 2009-2010                                              |
+|        |House Prefect, Calcutta Girls High School in Class 11 and Class 12   |
+|        |for maintaining general discipline                                   |
+|EXTRA CURRICULARS                                                             |
+|Awards &| Awarded Certificate of Appreciation for anchoring Techno India's    |
+|        |cultural fest " Anakhronos" held in   2008,2009,2010                 |
+|Achievem|Awarded Certificate of Appreciation for anchoring Techno India's     |
+|ents    |Fresher's Welcome held in 2008,2009,2010                             |
+|        |Awarded Certificate of Appreciation for organizing Techno India's    |
+|        |cultural fest " Anakhronos" held in 2009                             |
+|        |Awarded Certificate of Appreciation for organizing Techno India's    |
+|        |Fresher's Welcome held in 2009                                       |
+|        |Awarded Certificate of Appreciation for contributing actively in     |
+|        |Recreation Committee during academic year 2011-2012                  |
+|        |Awarded Certificate for attaining the 3rd position in Tug-Of-War     |
+|        |competition at Calcutta Girls' High School Annual Sports held in     |
+|        |2003-2004 and 2006-2007                                              |
+|        |Awarded Certificate for attaining the 3rd position in Tug-Of-War     |
+|        |competition at Calcutta Girls' High School Annual Sports held in     |
+|        |2005-2006                                                            |
+|        |Awarded Certificate for attaining the 2nd position in Throw Ball     |
+|        |competition at Calcutta Girls' High School Annual Sports held in     |
+|        |2006-2007                                                            |
+|        |Awarded Certificate for attaining the 2nd position in Jaco Natyaranga|
+|        |(Bengali Drama Competition) held 2006                                |
+|        |Awarded Certificate for attaining the 3rd position in Goenka Fest    |
+|        |(Drama Competition) on the subject "The Mirage called Love" held in  |
+|        |2008                                                                 |
+|        |Extra Curricular activities include Creative Writing, Dramatics,     |
+|        |Organizing and Anchoring at College events and Free Lancing for      |
+|        |Newspapers                                                           |
+
+DECLARATION:
+I hereby declare that all the information provided here is to the best of
+my knowledge and I hold my candidature for the job as standing cancelled
+should any discrepancy arise in any information provided herewith.
+[pic]
+
+( Debangana Saha )
+

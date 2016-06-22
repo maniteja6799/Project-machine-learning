@@ -1,0 +1,134 @@
+Narendra Kumar Polani
+Email: - naren9784@gmail.com
+Phone: - 98402 45022
+
+Professional Summary
+
+4+ years of experience in working with Servlets and JSPs
+Extensive and up-to-date knowledge of C, Java and PHP
+Experience and good understanding of Object Oriented Programming and Design (OOAD)
+Working experience in scripting languages such as PERL, Shell, Ajax, JQuery and JavaScript
+Working experience in MVC architecture
+Expertise in source control and version control using CVS and SVN
+Experience with database tools such as MySQL, Oracle 9i, and DB2
+Working experience in using JDBC and Hibernate database framework
+4+ years of experience in programming using MATLAB
+Working experience using Simulink and LabView
+Good knowledge in documentation and reporting tools such as MS Visio, JIRA and Bugzilla
+Experience in working with build tools such as Ant
+
+Technical Skills
+
+Platforms:  Unix, Linux, Windows
+Programming:  C, C++, Java, MATLAB, Simulink
+Web Programming:  HTML, JavaScript, JSP, PHP, Ajax, JQuery
+Scripting Languages: PERL, Shell script, Ant
+Database Tools:  MySQL, DB2, Oracle 9i, MS Access Hibernate
+Web Server:  Apache Tomcat, HTTP
+Web Services:  Axis 2.0
+Application Tools: LabView, Eclipse, Wireshark pack analyzer
+Documentation Tools:  MS Office, MS Visio
+
+Projects
+
+Masters Thesis:  Enhancement of pitch estimation characteristics in Generalized Spectrum
+
+For my masters degree program, I worked in the field of pitch detection and estimation in audio signals. The existing algorithm for obtaining the pitch information was based on Generalized Spectrum analysis. Although the existing algorithm performed well in detecting pitch in a segment, its pitch estimation results were poor when compared to the conventional methods such as Autocorrelation and Cepstrum.
+
+Responsibilities:
+
+Develop a new pitch detection and estimation algorithm based on generalized spectrum
+Enhance the pitch estimation characteristics using Linear Prediction and Filter bank methods
+Performance evaluation of the new algorithm on a sample data set of audio signals
+Compare performance of new algorithm with conventional Autocorrelation and Cepstrum techniques
+
+Environment: Matlab
+
+
+Client:		Center for Computational Sciences, University of Kentucky
+Project: 	ParamChem
+Duration: 	March 2009  August 2013
+
+Project Description:
+
+The objective is to develop an integrated cyber environment to address the simulation needs of molecular sciences and automate the parametrization of molecular force fields. The project involves development of platform independent 3D molecular editor, system to generate input data required for optimization procedures, deployment of services to process input data, client-server workflows to submit jobs and retrieve data, setting up of middle ware to delegate job submission to various HPC resources and data archival.
+
+Responsibilities:
+
+Designed web pages using HTML, PHP and JavaScript
+Responsible for setting up MySQL database for user registration and allocation request processing
+Developed a script to migrate user data from text file based storage to RDMS
+Integrated the registration and allied systems with an external grid computing system - GridChem
+Upgraded the web services on the middleware server to Axis 2.0
+Ant scripts were developed to automate build and deployment process
+Compiled and deployed CGenFF and OpenBabel services on Linux server
+Involved in the development of GUI client software  ParamCad
+Integrated the ParamCad to another GridChem GUI client
+Implemented an end-end job submission workflow to process molecular input files
+Developed PERL and Shell scripts to support job submission and processing of molecular input files
+
+Environment:  Java Swings, Java OpenGL, Linux, Apache HTTP Server, MySQL, Hibernate, Axis 2.0, PERL, AJAX, PHP, HTML, JavaScript
+
+Client		: Nissan North America
+Project	: Nissan Dealer Portal
+Duration 	: March 2008  June 2008
+
+Project Description:
+
+The objective was to build a unified web portal to manage dealers belonging to North American region and design a system to efficiently manage the creation and publishing of static content between Nissan and its dealers.
+ 
+Responsibilities:
+
+Worked in the requirement analysis and design phase of the project
+Prepared design documents for user migration
+Designed workflow hierarchy class diagrams for different user category
+Mapping of database fields from legacy system to a new database architecture
+Developed proof of concept to migrate NNA users to database
+
+Environment: J2EE, Struts Framework, IBM Web Sphere portal and application server, Oracle 9i, HTML, JavaScript
+Client: 	JP Morgan Chase, USA
+Project:	Commercial Lending System
+Duration:	October 2007  February 2008
+
+Project Description:
+
+The project is a request for proposal to automate the front end processing of banks commercial lending system. The proposed method comprised of three stages:  1) user interface to accept scanned copies/images of the documents 2) OCR software to interpret the text and barcode information 3) business process workflow to pre-validate and delegate workflow notifications.
+
+Responsibilities:
+
+Customized JSP s for workflow pages
+Developed client side validation and notification windows using JavaScript
+Bug fixing and testing of in-house built custom rules engine
+Setup and configure the OCR software to batch process the input documents
+
+Environment: J2EE, Eclipse, Fuego BPM, MySQL
+
+Client:		Ameriprise Financials Inc.
+Project:	Ameriprise R3A
+Duration:	August 2006  October 2007
+
+Project Description:
+
+A spin off from the parent company, the projects objective was to re-design the client side built using the tier 2 web architecture and enhance the end user experience of the financial services client. The project involved upgrading the web layer built using Servlets and JSPs to a portal environment.
+
+Responsibilities:
+
+Responsible for developing the front end and business logic for the account detail portlet
+Developed a user interface to register a bank only user to a financial services account
+Translated the client side validation to server side validation using spring validation class
+Prepared RPC stub data to support testing of application
+Prepared test cases and performed unit testing for the program modules
+Maintained and monitored Java coding standards and performance specifications for my team
+
+Environment: J2EE, Eclipse, IBM DB2, Spring Framework, Vignette Portal Server, AIX Server, HTML, JavaScript
+
+Education
+
+Masters in Electrical Engineering, University of Kentucky
+Bachelors of Engineering in Electronics and Electronics at Anna University, Chennai
+
+Achievements
+
+Best Project for Undergraduate project in Electrical and Electronics Engineering
+Client appreciation from Ameriprise Financials Inc. for contribution to the project development
+Appreciation from ASG of Cognizant Technology Solutions for development of reusable tools

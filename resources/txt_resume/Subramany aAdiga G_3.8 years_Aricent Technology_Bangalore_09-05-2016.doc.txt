@@ -1,0 +1,132 @@
+
+SUBRAMANYA ADIGA G
+
+                                                     Mobile: +91-8197331772.
+                                                E-mail: subbuidoor@gmail.com
+
+
+IT EXPOSURE:
+
+
+    V Around 3 years of IT industry experience in Java development,  design,
+      product development & SDLC Process.
+    V Expertise in Core Java, Hibernate, JSP, Servlet,  Spring  MVC,  XML  ,
+      PLSQL,  Subversion,  clear case
+    V Having good knowledge of Comverse one BSS system.
+    V Having good communication skills, dedication, hard-working and leading
+      activities.
+Key projects
+    V Comverse ONE-Converged Billing solutions: Worked  on  various  modules
+      (including Product  Catolog  GUI,  IVR,  API  development,  Bulk  Load
+      Application)  for  Telecom  Billing  company  Contributions   includes
+      Requirement   analysis,   Design   (High   Level   and   Low   Level),
+      Implementation, UT & IT
+
+CAREER HISTORY
+Solutions-oriented professional with 3 years of experience in IT industry
+    V 3.5 years at ARICENT, Bangalore as Senior Software Engineer  [Aug-2012
+      - till date].
+    V 6 months as Software Trainee [Jan-2012 - Aug-2012].
+
+PROJECT DESCRIPTION:
+
+Project Title: Comverse ONE:
+
+|Company         |Aricent Group                                      |
+|Period          | From Aug-2012 to Mar-2016                         |
+|Designation     | Senior Software Engineer                          |
+|Skills          | Java 1.6u12, Hibernet 3, Spring 3 ,JSP 1.2,       |
+|                |Servlets, Eclipse, Netbeans  JUnit, log4j,         |
+|                |Clearcase ,SVN,Oracle 11g                          |
+|Platform        | Windows,Linux                                     |
+|Modules worked  |PCAT,IVR and SAPI                                  |
+|on              |                                                   |
+|Clients         |Telia-Geocell, Moldcell Mcell ,Datacom,VIP,M*,Kiwi |
+|                |Star ,GPC,CTM,Telegreenland,Jmaica Cable and       |
+|                |wireless,                                          |
+
+Job Responsibility
+
+    V Part of Requirement Analysis, High  level  and  Low  level  designing,
+      Implementation.
+    V Requirements analysis, use case and sequence diagram creation.
+    V Data model analysis, HLD and DDD creation.
+    V Effort estimation calculation for new feature
+    V Integration with S-API, UI design, implementation, UT and PQA support.
+    V Deliver end-to-end functionality.
+    V Unit Testing, Integration, Bug fixing, PQA Support and Site support.
+    V Involved in Development Requests for various releases
+    V Involved in Change Requests, Bug fixing for various releases
+    V Writing DDD for Development Requests.
+    V Identifying and Analyzing the issues
+    V Successful delivery of all the features for various releases
+    V Effective In timely solving the site issues
+Project Description:
+    V The ComverseONE Converged Billing  Suite  enables  real-time  customer
+      management,  allowing  telecom  service  providers  and   e-businesses
+      worldwide  to  increase  market  agility   and   improve   operational
+      efficiency. This is a product which contains  multiple  Customer  Care
+      Applications in fully converged mode which supports both  prepaid  and
+      post-paid Deployments.
+    V  This  product  has  centralized  provisioning  application  Universal
+      Product Catalog (UPC in Java), two clients' applications Customer Care
+      Client (CCC in .NET), Customer Service Management (CSM in Java) and  a
+      Java service (U-API) for  these  two  client  applications  (which  is
+      developed with J2EE). It also includes few  applications  for  voucher
+      maintenance including CCBatch (Customer Care Batch) and CardGen  (Card
+      Generator).
+ACHIEVEMENTS:
+
+
+    V Received ARICENT's  WOW  -  Individual  Excellence  Award  -  for  the
+      contributions to IVR  support  and  PCAT  DR  development/support  for
+      multiple VIP releases especially the complex  DR  development  in  VIP
+      3.6.145, 3.6.150 releases (Oct 2015).
+    V Received ARICENT's Team SNAP Award for great team work and  delivering
+      feature work on time (July 2014).
+    V Received ARICENT's WOW - Team Excellence Award - This is  for  getting
+      "Highly Satisfied" customer rating as part of last CSAT cycle.  I  got
+      very good feedback from customer  about  my  contribution,  about  the
+      maturity and flexibility shown to
+      support project team at odd hours, about the feeling of responsibility
+      and ownership displayed in handling release deliveries (May 2015).
+
+Project Title:
+Digital Signature
+
+|Period        |From Aug-2011 to Nov-2011        |
+|Environment   |Java, Jsp , Servlets             |
+|Platform      |Windows                          |
+|IDE Tools     |Net beans                        |
+
+Description:
+A  digital  signature  is  a  mathematical  scheme  for   demonstrating  the
+authenticity of digital message or document .In  traditional  systems  there
+is no guarantee that a data that has been sent is secured  or not. In  those
+systems the data  can  be  altered  while  transmission.  To  overcome  this
+problem we go for digital  signatures  which  provide  authentication,  data
+integrity and a secure transfer of messages from sender to receiver.
+Scope
+.     To provide Non-repudiation to electronic documents
+.     To use the Internet as the safe and secure medium for  e-Commerce  and
+e-Governance Application
+.     In the field of E-Governance
+.     E-Voting
+.     E-education
+
+EDUCATIONAL QUALIFICATION:
+2012  M.C.A From MS Ramaiaha Institute Of Technology,  Bangalore  with  GPA:
+8.73
+2009   B.Sc.  in  Computer  Science  with  Aggregate  83%   from   Mangalore
+University
+
+
+Personnel Details:
+
+|Languages Known:    |English, Kannada, Hindi                           |
+|Hobbies:            |Playing Badminton, Cricket, Volley Ball, Table    |
+|                    |Tennis.                                           |
+
+
+References
+References can be provided based on initial discussion and need

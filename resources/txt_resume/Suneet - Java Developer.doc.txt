@@ -1,0 +1,158 @@
+
+
+|Career Objective                                                  |
+
+
+ o To become a task oriented productive worker with ability to organize team
+   efforts and to perform outstandingly in the competitive environment in
+   the interest of the organization I work for.
+ o To be a person of quality & apply my constructive thoughts for the
+   progress of the organization that I will be working for.
+
+
+
+Academic Qualification
+
+
+|Qualification   |Board/University |Percentage (%) |Year Of       |
+|                |                 |               |Passing       |
+|B-Tech(Computer |       CUTM      | 7.7(CGPA)     |2013          |
+|Science         |                 |               |              |
+|Engineering)    |                 |               |              |
+|12th            |       CBSE      | 64            |2009          |
+|10th            |       CBSE      | 68            |2007          |
+
+
+Software Proficiency
+
+
+
+ o Programming Language: Core Java, Jsp, Jdbc, Servlet, Hibernate,Spring
+
+
+ o Database                     : Oracle
+ o Operating Systems        : Linux, Windows Xp, Windows 7.
+ o Mobile Technology        : Android
+ o Scripting                    : Shell Script, Python
+ o Others                  : Excel 2010
+
+
+Training
+
+
+o Undergone the training on Java and android in Naresh IT at Hyderabad
+
+
+
+Achievements
+
+
+o     Secured First Prize in C-Coding competition at Centurion University
+
+
+
+Project Experience
+
+
+o Project Name:  Hotel Management System
+o Project Description: The Hotel Management System (HMS) project will
+  automate the manual and legacy operations. The project will keep track of
+  guest database, room reservations, booking ,vacating, finance and
+  reporting details..
+o Tools and Technologies: NetBeans 8.0, Oracle Database, Jsp, Servlet,
+  Html,                        Apache Tomcat Server,
+o Roll and Responsibilities: My role in project to develop business logic
+  and to connect with database.
+
+
+
+
+
+Work Experience
+
+
+   Currently working as Java Developer with Robustek Solutions Pvt Ltd from
+  August 2013
+
+o 2 year experiences in web application development
+o Having experiences in Jsp, Servlet, Jdbc and Hibernate
+o Having good knowledge in Apache Tomcat Server
+o Expertise using tools Net Beans and eclipse
+    o Good programming, coding, analytical, problem solving and conceptual
+      skills.
+    o Having good communication skills and grasping new technologies in
+      less time and applying them in an efficient way.
+    o Project Details:
+            Title          : RELEASE 2 APPLY for US BANK
+            Client       : US BANK
+             Domain   : Banking
+            Duration   :  20 Month
+            Role      : Team Member
+Project Description:
+ The main purpose of this  project  is  to  cater  the  online  services  to
+customers across various part of  the  country.My  project  is  entitled  by
+release 2 apply. Actually it's  a  web  based  development  project  and  my
+client is US bank USA. There  are  some  products  and  services  which  are
+provided by US bank to his  customer  like  as  checking  account,  package,
+credit cards, debit cards, prepaid cards,  loan,  mortgage,  consumer  loans
+and lines.
+Roles & Responsibilities:
+    > Involved in reviewing the SRD by  participating  in  Internal  Review
+      process.
+    > Developed the presentation layer component by using JSP, involving in
+      configuration files like JSP.
+    > Involving in database connecting code by using Jdbc.
+    > Developed the server side a Servlet by using Restful web services.
+
+
+
+Areas of Interest
+
+
+o Programming
+o Web Page Coding And Designing
+
+
+
+Soft Skills
+
+
+o Good Verbal & Written Communication skills
+o Good Problem Solving & Analytical skills
+o Self Motivated and adaptable.
+o Ability to work as a team.
+o Ability to work under pressure for long hours and handle difficult with
+  smiles on face.
+
+
+
+Hobbies & Interests
+
+
+o Reading Tech News
+o Listening to Music
+
+
+
+Personal Details
+
+
+
+o Date of Birth   : 13th September 1990
+o Gender          :  Male
+o Languages Known       :  English, Hindi, Odia.
+o Passport Number  : L7697995
+
+
+
+
+Declaration
+
+
+
+I hereby declare that all the information provided by me in this
+application is correct and complete to the best of my knowledge
+
+
+ Place:  Bangalore
+

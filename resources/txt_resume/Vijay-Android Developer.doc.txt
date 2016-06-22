@@ -1,0 +1,97 @@
+
+                                   RESUME
+
+
+VIJAY KUMAR
+((+91)8147143336
+
+
+                                                                           *
+gvijaykumar223@gmail.com
+Professional Summary
+
+    *  Having  2.1  years  of  IT  experience  in  Development  of   Android
+      Applications using Android.
+    * A confident and motivated person  with  sound  technical  skills  with
+      problem solving capability.
+    * Quick learner and ability to  meet  tight  deadlines  and  work  under
+      pressure.
+    * The ability to  learn  and  implement  any  new  features  in  android
+      Technology.
+Technical Profile:
+
+
+    * Worked extensively in the Development of  Android  applications  using
+      Android.
+    * Good Experience in Java.
+    * Good Experience in writing SQL queries.
+    * Experience with web servers like Tomcat.
+    * Good Knowledge in SOAP, REST Webservices.
+Experience Profile:
+
+    * Currently working as Software Engineer at SOURCE ONE Tecnosoft,
+      Bangalore from 2014 to till date.
+Education Profile:
+
+
+    * MCA from JNTUK University.
+
+
+Skills Profile:
+
+
+
+
+
+   Technologies             : Android, Java.
+
+    . IDE                    : Eclipse.
+    . Databases              : MySql, Sqlite.
+    . Web/Application Server : Tomcat.
+    . Web Technologies       : HTML, JavaScript.
+    . Operating Systems            : Windows.
+
+
+
+   PROJECT #1               : Future SMS
+
+    . Role                   : Developer.
+    . Client                                 : USA
+    . Environment                                   : Android, Java, xml
+    . Database               : SQLite.
+
+
+Description:
+         Future  SMS  features  a  highly  customizable  message  scheduling
+screen, allowing you to draft messages on  your  own  terms.  By  using  the
+repetition feature, you can make sure you're always be the first  person  to
+acknowledge a birthday, anniversary, or recurring special event!
+
+Responsibilities:
+
+    . Requirement gathering and summarizing.
+    . Designing Functional specification for user interface.
+    . Technical mapping between User screens.
+    . Developed UI screens using XML.
+
+
+
+
+   PROJECT #2               : Sri Krishna Bajanas
+
+    . Role                   : Team Member.
+    . Environment                                   : Android, Java, xml.
+    . Database               : SQLite.
+
+
+Description:
+         In Sri Krishna Bajanas project I made many functionalities like
+chaalisa, names with text speech, bajanas, and alarm.
+
+Responsibilities:
+
+    . Developed UI screens using XML.
+    . Designing Functional specification for user interface.
+    . Technical mapping between User screens.
+    . Involved in code reviews and bug fixing.
+

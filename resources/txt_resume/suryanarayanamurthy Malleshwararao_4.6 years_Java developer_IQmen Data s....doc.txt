@@ -1,0 +1,346 @@
+
+       SUMMARY:
+    . 4+ years  of  experience  in  the  field  of  Information  Technology,
+      specializing in  multitier  and  Client/server  architectures.  Worked
+      extensively on a variety of Application servers,  Web  and  Databases,
+      GUI front ends and Internet applications using Java/J2EE.
+    . Having good experience in building  multi-threaded  Java  server  side
+      applications and frameworks. Used Open source products  to  build  re-
+      usable components that can be used as base application frameworks
+    .  Extensive  experience  in  developing  Enterprise  applications  with
+      Hibernate, Spring Framework, Struts,  JDBC,web  services,Concept  wave
+      Order Management,catalog management.
+    .     Extensive     knowledge     of     Front     End     Technologies:
+      HTML,CSS,JavaScript,AJAX,Json,JQuery,AngularJs and JSP.
+    .  Application  Server,WebLogic  Server,  Apache  Tomcat  Server   JBoss
+      Application Server.
+    .    Developed    various    design     patterns     like     Behavioral
+      ,Concurrency,Distribution,J2EE,   WebPresentation   ,Object-Relational
+      Behavioral  Patterns  ,Object-Relational  Structural  Patterns,Session
+      State Design pattern
+    . Proficient in Java, Enterprise and design patterns like Factory, Front
+      Controller ,DAO, Singleton, MVC.
+    . Extensively used various IDEs like Eclipse & net beans IDE.
+    . Experience with Agile development practices, Scrum.
+    . Knowledge  of  Spring  JDBCTemplate,  Spring  Transaction  Management,
+      Spring HibernateTemplate,  Spring  MVC,Spring  Security,  Spring  JMS,
+      Aspect-Oriented Programming (AOP) techniques.
+    .  Experience  in  using  software  version  control  systems  such   as
+      SVN,CVS,git including Backups, Project Organization  and  Maintenance.
+      Experienced with the common revision management tasks like  branching,
+      merging.
+    . Thorough understanding and hands on experience on relational  database
+      like Oracle, MySQL.
+    . Coached junior J2EE and Java developers and provide technical
+      guidance.
+    . Developed different format of reports like
+      TEXT,RTF,POWERPOINT,MICROSOFTWORD,CSV, XML, HTML and PDF and generated
+      reports are yearly, monthly and daily level with the Jasper Soft/
+      IReports Designer.
+    . Having good Knowledge on Jasper report server.
+    . Used SQL Developer,JUnit/Mockito testing F/W,SOAP UI, Log4J, IReports,
+      Jaspersoft Studio for Reports generation, ArgoUML  for  uml  designing
+      tool,Apche Axis1/Axis2/Cxf,Maven,Ant build tools.
+    . Fixed&Send the Bugs to the tester  by  using  HP  quality  center.Used
+      Bugzilla,FindBugs tracking tool to track bugs.
+    . Excellent  analytical/presentation  skills  and  strong  interpersonal
+      skills.
+      Ability and acumen to learn  new  Languages,  Technologies  and  tools
+      quickly.
+PROFESSIONAL EXPERIENCE:
+|Serial # |Organization                     |Start   |End Date|Last Role          |
+|         |                                 |Date    |        |                   |
+|1        |IQmen Data Solutions Pvt Ltd     |Dec-2015|Till    |Sr Software        |
+|         |                                 |        |Date    |Engineer           |
+|2        |Ericsson India Global Services   |Jan-2014|Dec-2015|Solution Integrator|
+|         |Pvt Ltd                          |        |        |                   |
+|3        |Ubique Systems(kolkata)          |July-201|Nov-2013|Java Developer     |
+|         |                                 |3       |        |                   |
+|4        |Soft Source Consulting Pvt Ltd   |Oct-2011|July-201|Software Trainee   |
+|         |                                 |        |3       |                   |
+
+
+
+|Specialised Training on Concept Wave                                                |
+|            |                                                                       |
+|Duration    |Jan , 2014 To Feb 2014                                                 |
+|Application |Concept Wave                                                           |
+|Suite       |                                                                       |
+|Training    | Order Entry                                                           |
+|Details     |Product Catalog - Catalog Manager                                      |
+|            |Service catalog - Catalog Manager                                      |
+|            |Provisioning flow - Order Manager                                      |
+|            |Registry - Service registry                                            |
+|            |Provisioning System Integration with simulated external system via JMS |
+|            |and Weblogic.                                                          |
+|            |Billing System Integration with simulated billing system using SOAP and|
+|            |JMS binding.                                                           |
+|            |Activation System integration with simulated external system via JMS   |
+|            |and weblogic                                                           |
+|            |UI Development for adding new Customer                                 |
+|Role        |Trainee                                                                |
+
+
+
+|Internal POC on Concept Wave                                                        |
+|                |                                                                   |
+|Tech            |CW Order Management, WebService, JMS and Web logic                 |
+|Duration        |Feb 2014 To Mar  2014                                              |
+|Application     |                                                                   |
+|Suite           |CRM - Conceptwave Order Management Integration                     |
+|                |Conceptwave Order Management - simulated provisioning system       |
+|                |Integration                                                        |
+|                |Conceptwave Order Management - simulated Billing system            |
+|                |integration.                                                       |
+|                |                                                                   |
+|                |Development of UI For Adding new customer with  new product and    |
+|                |features from catalog and other details of Customer .              |
+|Responsibilities|Developer                                                          |
+|Role            |Shadow Resource                                                    |
+
+
+
+
+
+
+
+
+
+|Project # 1                                                                         |
+|Client      |TLS- Netherlands                                                       |
+|Project     |Translink systems                                                      |
+|Title       |                                                                       |
+|Duration    |Jan 2016-Till date                                                     |
+|Technology  |Spring,Hibernate,oracle,Weblogic,Html,AngularJS,Jquery.                |
+|Project     |Worked for TLS project where the existing legacy system will enhance   |
+|Abstract    |with EOC, The BSS Solution supports the Translink Customers, Partners  |
+|            |and the Business Processes around the Life Cycle of the OV Chip Card   |
+|            |and other future carriers. Furthermore, BSS provides the customer and  |
+|            |contract database.                                                     |
+|Responsibili|Developed the presentation layer with JSP, ANGULAR JS,HTML technologies|
+|ties        |                                                                       |
+|            |Used MVC2 Framework for work flow of the application                   |
+|            |Enhancing the Previous code to Java 1.6 using Enhanced for Loops,      |
+|            |Generics                                                               |
+|            |Used Springs Dependency Injection, AOP frameworks etc.                 |
+|            |Developed Helper Classes and Value Objects (java beans), DAO which     |
+|            |interacts with Database.                                               |
+|            |Implemented Java1.6 Collections Frame work                             |
+|            |Involved in designing project overview and flow related                |
+|            |documents,project Estimation work                                      |
+|Role        |Developer                                                              |
+
+|Project # 2                                                                         |
+|Client      |Idea_Pune                                                              |
+|Project     |Enterprise Configuration Manager                                       |
+|Title       |                                                                       |
+|Duration    |April 2015-Dec 2015                                                    |
+|Technology  |CW Order Management,Order Analytics,Spring,AngularJS,oracle,Jboss,web  |
+|            |services                                                               |
+|Project     |ECM is the key component of the solution and will hold the E2E view of |
+|Abstract    |the Idea plans and offers including Billing and Selling view. It will  |
+|            |allow Idea to clone an existing rate plan and publish the billing and  |
+|            |selling view from a single platform with a process based approach.     |
+|Responsibili|involved in Mock-up UI design/development,Involved in  required s/w's  |
+|ties        |Installation LLD                                                       |
+|            |Involved in Design phase, developed sequence diagrams,class diagrams   |
+|            |etc for certain use cases.                                             |
+|            |Involved in designing & coding of business logic using EOC(Ericsson    |
+|            |order care),Catalog management,Spring                                  |
+|            |Design and Implementation of the Web services.                         |
+|            |Involved in the project Estimation work And bug fixing                 |
+|            |Developed Web Service Client Component to make use of Web Service API  |
+|            |using cxf.                                                             |
+|Role        |Developer                                                              |
+
+
+|Project # 3                                                                          |
+|Client       |T-Mobile                                                               |
+|Project Title|NSM                                                                    |
+|Duration     |Sept 2014-April 2015                                                   |
+|Technology   |CW Order Management,catalog management,oracle,weblogic                 |
+|Project      |Worked for T-Mobile NSM project where the existing legacy              |
+|Abstract     |system will enhance T-Mobile's network data management enabling        |
+|             |T-Mobile to retrieve, view and manage customer network configuration   |
+|             |data depending on the access rights granted by the configuration within|
+|             |the system. NSM shall be an aggregator of network and                  |
+|             |subscriber information                                                 |
+|Responsibilit|                                                                       |
+|ies          |Mainly involved in UI design/development and bug fixing.               |
+|             |Involved in designing & coding of business logic using EOC(Ericsson    |
+|             |order care),Catalog management                                         |
+|             |Wrote web services for few operations which needs to be published over |
+|             |the web.                                                               |
+|             |Analyzed bugs reported using testing team.                             |
+|Role         |Developer                                                              |
+
+
+|Project # 4                                                                          |
+|Client       |Internal                                                               |
+|Project Title|ESIF                                                                   |
+|Duration     |March 2014-sept 2014                                                   |
+|Technology   |CW Order Management,catalog management,UWS,oracle,weblogic             |
+|Project      |The main objective of ESIF project is we need provide services(like "EZ|
+|Abstract     |Parking" and "I Radio") to BMW(CUSTOMERS) and "Rogers(network bassed   |
+|             |service like airtel or vodafone)" will give services to BMW.for that we|
+|             |need to implement this activities,                                     |
+|             |Services are nothing but android applications we can use this          |
+|             |application from mobile and msdp will work as a e-commerce site hear we|
+|             |can login and search                                                   |
+|Responsibilit|Involved in designing project overview and flow related documents      |
+|ies          |Integrating the code and giving support to other team number           |
+|             |Knowledge transformation & Sharing between Team Members                |
+|Role         |Developer                                                              |
+
+
+
+|Project # 5                                                                          |
+|Client      |Canadian Western Bank                                                   |
+|Project     |Transactions planning system                                            |
+|Title       |                                                                        |
+|Duration    |July 2013-Oct 2013                                                      |
+|Technology  |Spring , Hibernate,JasperReports,IReports,web services                  |
+|Project     |(Transactions planning system)The customers can access the banks website|
+|Abstract    |for viewing their Account details and perform the transactions on       |
+|            |account as per their requirements. With Internet Banking, the brick and |
+|            |mortar structure of the traditional banking gets converted into a click |
+|            |and portal model, thereby giving a concept of virtual banking a real    |
+|            |shape. Thus today's banking is no longer confined to branches. E-banking|
+|            |facilitates banking transactions by customers round the clock globally. |
+|            |The primary aim of this software is to provide an facility to auto      |
+|            |sharing the amount to different accounts.                               |
+|Responsibili|Involved in designing & coding of business logic using Spring IOC & AOP |
+|ties        |features.                                                               |
+|            |Implemented ORM mapping and Dependency Injection in a Spring, Hibernate |
+|            |framework.                                                              |
+|            |Created System Test Cases and Unit Test Cases for assigned modules.     |
+|            |Jasper Reports - Involved in gathering report requirements and          |
+|            |developing the same.                                                    |
+|            |Developed  reports using iReports designer.                             |
+|            |Developed different format of reports like TEXT,RTF,PPT,MSWORD,CSV,XML, |
+|            |HTML and PDF                                                            |
+|            |Developed new users information  reports are yearly, monthly and daily  |
+|            |level.                                                                  |
+|            |Wrote Web-services to expose the business methods to external services. |
+|            |Developing Web Service Client Component to make use of ------ Web       |
+|            |Service API using Apache Axis.                                          |
+|            |Designed RESTful XML web service for handling AJAX requests.            |
+|            |Created new ANT build scripts under supervision of senior developers to |
+|            |package the application code into a deployable format.                  |
+|            |Responsible for Logging functionality of application using Log4j        |
+|            |technology and used components like loggers, appenders.                 |
+|Role        |Developer                                                               |
+
+
+|Project # 6                                                                          |
+|Client      |Wolters Kluwer                                                          |
+|Project     |Scion Atlas Admin System                                                |
+|Title       |                                                                        |
+|Duration    |Feb 2013 - June 2013                                                    |
+|Technology  |Struts , Spring , Hibernate,IReports/JasperSoft,Web services            |
+|Project     |Scion Atlas Admin System is a back office admin tool for GLOBAL Atlas   |
+|Abstract    |Platform. This is an integration system which processes the orders from |
+|            |OMS (order management system) and updates the same in SAAS database and |
+|            |GA platform. IntelliConnect, the new customer portal launched by Wolters|
+|            |Kluwer, hosted on GA platform is the sole consumer of SAAS. IRN         |
+|            |(Internet Research Network) is another application of Wolters Kluwer    |
+|            |whose back office information and user migration to GA is also being    |
+|            |handled by SAAS. It is used for processing the back office information's|
+|            |like accounts, subscriptions, products, Trial ID etc and requests. SAAS |
+|            |is also used to migrate end users from its existing platforms to the GA |
+|            |platform.                                                               |
+|Responsibili|Developed the application under J2EE architecture using JSP, Struts,    |
+|ties        |Spring, Hibernate.                                                      |
+|            |Involved in designing & coding of business logic using Spring IOC, MVC &|
+|            |AOP features.                                                           |
+|            |Involved in development of web application using Struts framework wrote |
+|            |Action classes, ActionFormBeans and configure the application using     |
+|            |struts configuration file.                                              |
+|            |Integrated Jasper reports in Reports to generate report in pictorial    |
+|            |view like Bar Chart, Line Chart, Stack Bar Chart, Pie chart etc.        |
+|            |Involved in development of web application and configure the application|
+|            |using struts configuration file.                                        |
+|            |Developed different format of reports like TEXT,RTF,PPT,MSWORD,CSV, XML,|
+|            |HTML and PDF                                                            |
+|            |Used AJAX technology for invoking server calls.                         |
+|            |Involved in Testing the Web Services in Implementation of the Client    |
+|            |Side Code.                                                              |
+|            |Wrote JAXB Web service's for server side and involved in complete front |
+|            |end to backend persistence layer for Use cases assigned.                |
+|            |Implemented REST Web Services for other applications to communicate.    |
+|            |Wrote web services for few operations which needs to be published over  |
+|            |the web.                                                                |
+|Role        |Developer                                                               |
+
+
+
+
+
+
+
+
+
+
+
+|Project # 7                                                                          |
+|Client      |EFG Private Bank                                                        |
+|Project     |Credit Card Transaction System(CTS)                                     |
+|Title       |                                                                        |
+|Duration    |March 2012-Jan 2013                                                     |
+|Technology  |Jsp , Servlets , Jdbc, IReports/JasperSoft,Web Services                 |
+|Project     |CTS is web based project and which is used to view the transaction      |
+|Abstract    |history, Fund value details and premium due date and serenading  of     |
+|            |policy and  maturity date policy and bonus details and profile          |
+|            |information. the users can check the history and transactions of their  |
+|            |fund truncations. They will view their current fund values as part of   |
+|            |this module, they can view their funds as per market increased their    |
+|            |funds or decreased their funds. They can generate the reports of        |
+|            |truncations in the format of PDF,CSV,RTF..etc.                          |
+|Responsibili|                                                                        |
+|ties        |Developed JavaBeans that are used by various modules of the application.|
+|            |                                                                        |
+|            |Designed User Interfaces using JSP,CSS, JavaScript, HTML.               |
+|            |Created JavaScript functions for client side validations and created CSS|
+|            |for look and feel of application and also involved in back end          |
+|            |validation.                                                             |
+|            |Designed and implemented various interfaces of the system for catering  |
+|            |point-to-point RPC- based web services for the SOAP client request and  |
+|            |returns the response via SOAP protocol.                                 |
+|            |Configured and used Universal Description, Discovery and Integration    |
+|            |(UDDI) registry server as a permanent repository for storing WSDL       |
+|            |documents containing pertinent information about the web services       |
+|            |Involved in gathering report requirements and developing the same.      |
+|            |Developed  reports using iReports designer.                             |
+|            |Developed different format of reports like TEXT,RTF,PPT,MS,CSV, XML,    |
+|            |HTML and PDF                                                            |
+|            |Developed new customers and existing customers reports are yearly,      |
+|            |monthly and daily level.                                                |
+|Role        |Developer                                                               |
+
+EDUCATIONAL QUALIFICATIONS:
+
+|University/College     |Degree      |Year of         |Major Subjects |% Obtained     |
+|                       |            |Graduation      |               |               |
+|NREC(JNTU HYD)         |   MCA      |2011            |C,C++,Java     |70%            |
+|Vignan Degree          |   BSC      |2008            |Maths and      |61%            |
+|Colege(ANU)            |            |                |science        |               |
+|Dknp juniour college   |Intermediate|2005            |M.P.C          |64%            |
+|Nagarjuna Public School|   S.S.E    |2003            |State syllabus |64%            |
+
+TRAININGS:
+|Training            |Organized by          |Year & |Location  |Any projects where   |
+|                    |                      |Duratio|          |skill used           |
+|                    |                      |n      |          |                     |
+|Initial Program     |Soft Source Consulting|6      |Bangalore |In 1,2,5,6,7 projects|
+|Training on         |Pvt Ltd               |months |          |                     |
+|Java,Advanced Java, |                      |       |          |                     |
+|Sql                 |                      |       |          |                     |
+|Concept Wave (EOC)  |Ericsson              |2      |Kolkata   |In Project 3 and 4   |
+|                    |                      |months |          |                     |
+
+
+PERSONAL DETAILS:
+
+   Father's Name :Chennarao
+   DOB : 10 May 1988
+   Nationality : Indian

@@ -1,0 +1,141 @@
+Navya U rai
+Tel: +91 9620648348 E-Mail: 
+
+Seeking assignments in IT Strategy, Program, Team Building & Delivery with a Frontline organisation in the IT sector. 
+
+Career Summary
+Result oriented professional with 2.7 years of qualitative experience entailing Java Application development and Software Testing
+Currently associated with Sun+Solutions Pvt Ltd as Software Engineer in Windows and Web Application.   
+An effective team member and communicator with strong interpersonal, leadership, analytical, trouble shooting and problem solving skills.
+Experience of working in the complete Software development life cycle involving development, documentation, testing and maintenance.
+Experience in writing test cases and manual testing
+Experience in Java (Struts,Hibernate) Development.
+Experience in Java (Prime Faces) Development.
+Experience in Functional Knowledge and development knowledge.
+Knowledge in XHTML, HTML, CSS web Programming. 
+Experience in working with Oracle SQL database.
+Ability to work in a fast-paced, team oriented environment under firm deadline schedules to meet cost, quality and timing.
+Good work ethics with excellent communication and interpersonal skills
+Experienced working in Client places and dexterous interacting/supporting with clients.
+Capable to explore into the new leading Technologies.
+
+
+Education
+M.Sc (Computer Science) From St. Aloysius College, Mangalore University, Karnataka in 2012(77% Marks).
+BCA (Computer Science) From SDM College, Mangalore University, Karnataka in 2010(74% Marks).
+
+
+Key Deliverables
+- Requirements gathering			- Developing				- 
+- Liaison and Coordination			- Relationship Management & Customer Satisfaction
+Technical Purview
+Language		  	: C, C++, Java, Visual Basic, JSP, HTML
+Script Languages                            : JavaScript, CSS.
+Database Application Tool           :  TOAD for Oracle
+RDBMS/DBMS		  	: SQL, Oracle 10g, MS Access
+Operating System	             : Windows 7/XP/VISTA, UNIX
+Framework                                 : Struts 2.0, Hibernate, Primface 
+
+
+Employment Highlights
+Past : Software Engineer Sun+Technolgy Private Limited       		Feb12  Dec13.
+
+Roles and Responsibility in sun plus Technologies
+Designing database Tables and mainly involved in developing activities.
+Involved in Writing SQL Queries and procedures and Triggers.
+Review test cases written by testing team, Involved in fixing bugs raised from testing and supporting testing team in writing test cases.
+Different kinds of Report creations.
+Good Team player and having good communication Skills.
+
+
+
+Projects
+Project #1
+Title: ADX			
+Developing Environment: Coding				Application Environment    : Hibernate, Sql
+Team Strength: 5						Duration: Since Jun 2014 till Date
+
+Description: The system under consideration is an enterprise application that deals with the stock market and trading. The system consists of custom application Extreme System, Trading Engine that matches orders and Records Transactions into In-Memory Data Store. The system does batch export of the Recorded Transactions data at the end of the day to DB2/Informix data source for further analytical processing or report generation.
+.
+
+Responsibilities:
+Developing a web based application. This Project is based on Stock Market and trading.
+For this project we used Hibernate & for validation we used Java Script and js files.
+Involved in designing test cases.
+Involved in the development activities. 
+Involved in reviewing of development to production.
+Involved in Manual Testing.
+Worked as a part of designing the interfaces and coding. 
+Ensured timely delivery and quality all compliant with the clients quality processes
+
+
+
+Project #2
+Title: Office Automation			
+Developing Environment: Coding				Application Environment    : Struts, Oracle
+Team Strength: 8						Duration: Since Feb 2012 till Dec 2012
+
+Description: Office Automation System provides holistic solutions for your various cross functional administration activities. It aims at simplifying and integrating various levels of administration to provide an overall integrated solution .It builds an inter-acting database module. It maintains high level of confidentiality within the system. This paperless administration is aligned with external quality process and is customizable to the specific end user needs.
+
+Responsibilities:
+Developing a web based application. This Project is based on Education system using JBoss Server.
+For this project we used Struts MVC framework & for validation we used Java Script and js files.
+Involved in the development activities. 
+Involved in reviewing of development to production.
+Worked for design, development & Deployment of STUDENT, EXAM, HOSTEL, FINANACE interface.
+Involved in Manual Testing.
+Worked as a part of designing the interfaces and coding. 
+Ensured timely delivery and quality all compliant with the clients quality processes
+
+
+
+
+Project #3
+Title: NMC Automation & BIS Automation			
+Developing Environment: Coding				Application Environment    : Struts, Oracle
+Team Strength: 6						Duration: Since Feb 2013 till Feb 2014
+
+Responsibilities:
+Involved in the development activities. 
+Involved in reviewing of development to production.
+Manual Execution of identified Test Cases.
+Worked as a part of designing the interfaces and coding. 
+Involved in peer reviews, walkthroughs, and verification activities.
+
+Project #4
+Title: MeritQ  Feedback Automation			
+Developing Environment: Coding				Application Environment   : Primface, Oracle
+Team Strength: 8						Duration: Since May 2012 to Jan 2013
+
+Responsibilities:
+Involved in the development activities. 
+Involved in reviewing of development to production.
+Manual Execution of identified Test Cases.
+Worked as a part of designing the interfaces and coding. 
+Involved in peer reviews, walkthroughs, and verification activities.
+Generating report based on client requirement
+
+Project #5
+Title: Aktbliz			
+Testing Environment: Coding				Application Environment   : Primface, Oracle
+Team Strength: 8						Duration: Since Aug 2013 till Date
+
+Responsibilities:
+Involved in the development activities. 
+Involved in reviewing of development to production.
+Manual Execution of identified Test Cases.
+Worked as a part of designing the interfaces and coding. 
+Involved in peer reviews, walkthroughs, and verification activities.
+Generating report based on client requirement
+
+
+Personal Details
+Date of Birth: 		14th August 1989
+
+Mailing Address: 	D/O Umesh Rai, Shanivarsanthe Main Road, 3rd Block Shanivarsanthe, COORG-571235, Karnataka, 
+
+Gender:			Female
+
+Mobile:			+91 9620648348
+
+E-mail address:	 	

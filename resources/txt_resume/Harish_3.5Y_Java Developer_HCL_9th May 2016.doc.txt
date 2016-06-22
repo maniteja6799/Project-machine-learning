@@ -1,0 +1,109 @@
+
+                                   RESUME
+
+Harish.G.S
+#2, Vinayaka Nilaya
+Shiva Nagara, Jigani
+Anekal Taluk
+Bangalore-560029
+Contact: +9742961339
+Email ID: harish70096@gmail.com
+
+
+Career Objective:
+
+Seeking a position to utilize my skills and abilities in the Information
+Technology Industry that offers professional growth while being
+resourceful, innovative and flexible.
+
+Companies Served:
+
+Software Engineer in TarangTech pvt ltd (Bangalore) from Jan 2013 to May
+2014.
+Software Engineer in HCL Technology pvt ltd (Bangalore) from June 2014 to
+till date.
+
+Experience: 3 years.
+
+Technical Summary:
+
+|Programming Languages/Technologies   |Java, J2EE (Struts, Hibernate,       |
+|                                     |Springs)                             |
+|Web Technologies                     |XML, JavaScript,Jquery               |
+|Application Servers                  |Tomcat ,Glass Fish                   |
+|Database                             |MySql, Oracle                        |
+|Operating Systems familiar           |Windows                              |
+|Programming Tools/IDE                |MyEclipse,Eclipse , NetBeans         |
+|Version Control Software             |SVN                                  |
+
+
+
+
+
+Title            :     Financial Billing Processing
+Client                 :     Union Bank of Switzerland (UBS)
+Duration               :     July 2014 to till date.
+Team Size              :     5
+Lang-Frm Wrk-IDE :     Core Java, Spring, Hibernate, JavaScript,Jquery,
+Eclipse
+Database               :         Oracle11g
+Objective              :
+
+UBS is a Swiss global financial services company headquarters in Basel and
+Zurich, Switzerland. UBS provides investment banking, asset management, and
+wealth management services for private, corporate and institutional clients
+worldwide, as well as retail clients.
+
+Financial Billing Automation Application Development & Implementation:  This
+is Initial launch of the Financial Planning Billing  Automation  Application
+product for USA only. This of UBS hands free automation of their day to  day
+activity  to  deliver  advisory  services  to  UBS  clients  and  prospects.
+Application will proactively use to reduce  the  Financial  Advisory  Manual
+billing failures and increase the revenue stream without much  intervention.
+This system will do interact with 24 other existing  UBS  legacy  and  third
+party systems
+
+
+
+
+
+
+
+
+Title            :     Mobiquity
+Company                :     Tarang Pvt Ltd (Bangalore)
+Duration               :     March 2013 to April 2014.
+Team Size              :     8
+Lang-Frm Wrk-IDE :     Core Java, Struts, Spring, Hibernate, NetBeans
+Database               :         Oracle
+Objective              :
+
+The system allows customers, agents and merchants to conduct mobile
+transactions by way of a customer web portal, interactive voice channel,
+mobile handsets using either USSD, java(GPRS), Secure SMS interfaces which
+all are being monitored 24/7 from web administration interface.
+
+Specifically, this platform:
+
+Maintains communication between the customer and  Mobiquity Mobile Money
+platform
+Manages mobile money sessions
+Routes mobile money messages
+Securely handles sensitive information
+Ensures the confidentiality and security of mobile transactions
+Manages user information
+
+
+
+Place: Bangalore                                              Harish GS
+-----------------------
+                                 Project #1
+
+
+
+                                 Project #2
+
+
+
+
+
