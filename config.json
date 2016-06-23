@@ -1,0 +1,6 @@
+{
+	"txts_filename" : "resources/sampletxt_filenames.txt",
+	"txts_folder" : "resources/sampletxts/",
+	"words" : "resources/words.json",
+	"jds" : ["resources/java_jd.json"]
+}
