@@ -1,0 +1,175 @@
+
+[pic]                                        Sarath Natesan   9035046301 /
+sarathnanandh@gmail.com
+
+Objective
+
+To obtain challenging and responsible position in an organization wherein I
+contribute to the successful growth of an organization using my abilities
+and knowledge. "There is always a better way of doing things" is my belief.
+
+ Education
+
+Completed B.E.Computer Science and Engineering with 8.51CGPAin Sri Eshwar
+College of Engineering, Kinathukkadavu during (2010-2014).
+
+Completed HSC with 92.9%in Saraswathi Matriculation Higher Secondary
+School, Rasipuram,Namakkal during (2009 - 2010).
+
+Completed SSLC with 89.2%in Saraswathi Matriculation Higher Secondary
+School, Rasipuram, Namakkal during (2007 - 2008).
+
+Fields of Interest
+
+Programming concepts (OOPS).
+
+Developing user friendly Android Apps.
+
+Industrial Experience
+
+A great exposure to Android development and a 1 year and 7 months
+experience in the same in the company Azuyo Software Research and
+Development Private Limited, Bangalore.
+
+Value Added Course
+
+Completed  3  months  training  in   Android   Development   at   GeniusPort
+Insititute, WhiteField,Bangalore.
+
+Completed  Oracle  Certified  Java  Professional,  Java  SE6  Programmer  in
+January 2013.
+
+Completed Diploma in PHP Certified by CSI, Pollachi.
+
+Training
+
+Undergone Industrial Visit to "UST Global", Cochin.
+
+Underwent In-Plant Training in "DECISIVE ANALYTICAL SOLUTIONS",Bangalore.
+
+Computer Skills
+
+C & C++
+
+Java
+
+Android Development
+
+
+Project Profile
+
+Octo: An Omni Channel Ticketing Solution System.
+
+Description: It is a smart phone application, which acts as an interface
+between the passengers of various transport ways (Railways & Metro) to buy
+tickets on the go through online and make the journey much more
+comfortable.
+
+On the other hand, it is easy for the transport system to keep track of the
+data related to the tickets and other data much more confidential and
+secured. Also it is very cost effective, unlike the existing system in case
+of Metro solution in terms of tagged coins.
+
+The same system has been developed as a demo product and is proposed to the
+Railway CRIS team, which has been approved for a Pilot run by CRIS and is
+awaiting the Date and the Route confirmation.
+
+ZULU: A commercial interface app between the offline merchants and the
+users.
+
+Description: It is an advertisement application based on Smart phones,
+through which the merchants can advertise their products to the users who
+are at home by posting Ads along with Offers through the dashboard provided
+to them and also the app makes use of 3 modes to deliver the ads to the
+users.
+
+GPS based ads
+
+Area based ads
+
+Beacon based ads
+
+GPS based ads: In this mode, when user has switched on the GPS, the ads
+along with offers related to the merchants who are nearby the user location
+are notified to the user's smart phone devices.
+
+Area based ads: In this mode, the ads along with offers which are related
+to the merchants who are nearby the user's address are notified to the
+user's smart phone devices.
+
+Beacon based ads: In this mode, beacons (a Bluetooth hardware device which
+continuously emits signals) are installed in the Merchants store with which
+when the user crosses the beacon, the ads along with the offers of that
+particular merchant is notified to the user in their smart phone devices.
+
+Happy Miles : An Image carousal library with a set of multiple users.
+
+Description: It is an Android library, in which different users can login
+and browse through the set of image gallery, which are available and then
+can view each and every image available under every library and also can
+have a zoom view of the images.
+
+Final Year Project: OpenWebAppScan Tool (2014)
+
+Technology: Front End (Java), Back End (MS Access)
+
+Description: In this project we have designed an interface for user of a
+website to analyze the security vulnerabilities as per OWASP strategy,
+present in the website and also the recommendations to overcome the same.
+
+Co-Curricular Activities
+
+Presented a Paper on "CYBER CRIME" in National Conference [NCWST-2012] held
+in PSG College of Arts & Science.
+Developed simple android applications like Calculator, GPS friend locator
+etc.,
+Attended workshop on Python in Kongu Engineering College.
+Attended workshop on "Miracles with C", "Software Development Life Cycle"
+organized by Sri Eshwar College of Engineering, Coimbatore in February
+2013.
+Developed a project Attendance Management System and won a 1st prize in
+Intra college project expo in September 2012.
+
+Extra-Curricular Activities
+
+As a Chief Steward for creating the world record in the criteria Largest
+One Day Art Competition, "Clinic plus Gateway2010".
+
+
+
+As a STUDENT COORDINATOR for TECHTRENDZ 2012a National Level Technical
+Symposium held in our College.
+
+
+Team Leader in CSWP (Certified Software Professional) which is a virtual
+software organization in Sri Eshwar College of Engineering.
+Personal Profile
+
+Father's Name    : Natesan A
+
+Mother's Name  : Manonmani N
+
+Date of Birth       : 04-12-1992
+
+Sex                        : Male
+
+Languages           : Tamil (R/W/S), English (R/W/S)
+
+Strengths             : Self-Motivation, Willingness to learn new things,
+Leadership.
+
+Declaration
+
+I hereby declare that all the above furnished details are true to  the  best
+of my knowledge and belief
+
+Place : Bangalore
+
+Date                                                                       :
+                                                           [Sarath N]
+
+
+
+
+
+

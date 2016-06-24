@@ -1,0 +1,214 @@
+
+                              Vikash Kumar Pal
+
+
+  Mobile:+91-9686658705                                      Email:
+vikash.krp7@gmail.com
+
+
+
+Career Objective
+
+                                        To pursue a challenging career in  a
+progressive  environment  where  learning,  innovation  and  creativity  are
+encouraged, where my skill set can be enhanced to  their  maximum  potential
+to contribute to the overall success and growth of the organization.
+
+
+Professional                                                         Summary
+
+
+
+
+
+Having 3.0 years of experience as Android Developer.
+ Hands of experience in IPC communication using AIDL.
+Hands of experience in Push Notification using GCM.
+
+Proficient in object-oriented design problem solving,
+ Complexity analysis and debugging.
+Sound knowledge in Android Sdk, Eclipse IDE, Web Services, Json, Sqlite
+database,
+                Activities, Services, Broadcast Receivers UI Designing and
+etc.
+Expert in the interaction between various devices and different
+Versions of Android.
+ Quick learning, implementation and easy adoption to new technologies.
+ Regarded as a self-motivated, well organized team player and dedicated to
+work.
+
+
+Professional                                                      Experiance
+
+
+
+
+
+ Currently working with PlantoGraph Solution Pvt. Ltd, Since Aug 2012 till
+date.
+
+
+
+Educational                                                       Background
+
+
+
+
+
+
+MCA (Master of Computer Application) Passed from Sathyabama University from
+Chennai 2011 with 74%.
+
+
+Technical                                                             Skills
+
+
+
+
+
+Operating Systems      :    Windows, Linux.
+
+Language         :  Android, Core Java
+
+IDE/Tools               :    Eclipse, Android Studio
+
+Emulators Used      :  Android SDK Emulator
+
+Design Patterns      :  Singleton, DAO, Front controller and MVC
+
+External      APIs               :       Global       Payment,       PayPal.
+
+
+Technologies           :  Android SDK 2.2 and Above.
+
+Database                     :  Android - SQLite.
+
+Project Details
+
+
+
+Project #1
+Title                  : SDE Hospitality Application
+Client                       : Samsung(UK).
+Technology                   : Android 3.1 and Above.
+Role and Responsibility       :   Coding,  Testing  and  implementation,  UI
+designing, bug fixing.
+
+
+  Description                :This application is  targeted  to  hospitality
+(hotel booking) industry, where  the  end  customers  can  view  the  hotels
+detail they booked for particular  location  through  this  application.  In
+this application user can  browse  through  different  hotel  details.  This
+application has different features such as fetching  already  booked  hotels
+details, finding hotel location,  and  hotel  check  in,  add-ons,  gallery,
+extra  add-ons  advertisement  through  notification,  all  share  and  also
+managing state of application.
+
+Project #2
+Title                  : SDE Retail Application
+Client                       : Samsung (UK).
+Technology                   : Android 3.1 and Above.
+Role and  Responsibility       :  Coding,  Testing  and  implementation,  UI
+designing, bug fixing.
+
+
+Description            : This application is targeted to  automotive  retail
+industry, where the end customers can purchase the  car  they  wish  through
+this application. In this application user can browse through different  car
+brands. This application has different features such as getting Quote for  a
+car, can see specification, different colors of  car,  gallery  &  view  360
+degree of the car. User can able to find the nearby  showrooms  from  user's
+current location.
+
+
+Project #3
+Title                               : Petoo Restaurant
+Client                                  :  Petoo (India)
+Technology               : Android 3.1 and Above.
+Role  and  Responsibility     :   Coding,Testing  and   implementation,   UI
+designing, bug fixing.
+
+Description            : This is targeted to restaurant industry,  where
+the end customers can view the items are available in this restaurant. User
+can place the order and the items will be delivered to their door step
+using address location.
+
+
+
+
+
+Project: 4
+
+Title                  : FoodToEat.
+Client                       : FoodToEat.com/E-one Sources (USA).
+Technology                   : Google Android 2.2 and Above.
+ APIs                                            : Location APIs, Google
+Map APIs, Restaurant APIs etc.
+Role and Responsibility      : Designing, coding and testing.
+Description : Food to Eat is an online app developed for Android. It  is  an
+app  developed  to  search  restaurant  online  and  placed  order  to   it.
+Application is divided in following module.
+Search module:    It is used to search restaurant in two different  criteria
+-one is based on "search by distance" and the other is "search by Address  &
+zip code". When  a  user select  "search by  near  "  option  then  all  the
+restaurant within one mile area are populated  on map(including   restaurant
+which is available for serve)  and  "search by address &  zip  code"  option
+to  provide address & zip  code  of  that  particular  area  then   list  of
+restaurant will be available to user to choose. Then user  can  place  order
+and have two option either pickup or Delivery.  User  has  two  options  for
+payment either Cash on delivery or by credit card, For  payment  gateway  we
+used "Global Pay".
+Account module:  It is  used  to  show  personal  information  of  user  and
+details of recent orders. From here we can process the order.
+Share module:  In this module information regarding restaurant  and  cuisine
+is shared on Twitter, Face book and Mail.
+
+Project: 5
+Title                  : Foodtoeat for Vendor.
+Client                       : FoodToEat.com/E-one Sources (USA).
+Technology                   : Google Android 2.2 and Above.
+APIs                                             : Restaurant APIs etc.
+Role  and  Responsibility       :  Development,  implementation,  Designing,
+coding and testing.
+
+Description            : This app is used for the Vendors and  Administrator
+that is based on the Login. With this app  the  vendor  will  come  to  know
+about the order placed by the customer. Here we will periodically  call  the
+server to find the new order. Vendor can keep the history of the  order  for
+review.
+Role  and  Responsibility       :  Coding  Testing  and  implementation,  UI
+designing, bug fixing.
+
+
+Few                               More                               Project
+
+
+
+
+
+IDF-Group Meeting
+
+IDF-Loan Inspection
+
+Personal                                                             Details
+
+
+
+
+
+Name                   :     Vikash Kumar Pal
+Father's Name                :    Rajendra Gareri
+Date of Birth                :    09-Jan 1987
+Nationality                  :    Indian
+Marital Status               :    Unmarried
+Languages Known              :    English and Hindi
+      I declare that  all  statements  and  particulars  contained  in  this
+document and any supplementary forms required  to  be  presented  with  this
+General Declaration, are  complete,  exact  and  true  to  the  best  of  my
+knowledge.
+
+ Date:
+
+Place: Bangalore.                                                    (Vikash
+ Kumar Pal)
+

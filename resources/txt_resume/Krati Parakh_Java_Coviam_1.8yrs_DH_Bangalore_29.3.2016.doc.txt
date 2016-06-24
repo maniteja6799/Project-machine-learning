@@ -1,0 +1,155 @@
+
+                              Curriculum Vitae
+KRATI PARAKH
+SF-6, Lotus Krest Phase 3,                                        Mobile
+No: +91-9742620625
+Kundalahalli, Bangalore                                             Mail
+Id: krati.parakh@gmail.com
+
+Work Experience:
+
+Altisource Business Solutions, Bangalore
+Presently  I  am  working  with  Altisource  Business  Solutions  Pvt  Ltd.,
+Bangalore as Software Engineer. I joined Altisource on 28th July 2014.
+
+Total Experience       : 1 Year 8 months
+Current Designation          : Software Engineer
+
+About Altisource Business Solutions :
+Altisource provides services to some of the most respected organizations in
+their industries, including one of the nation's largest sub-prime
+servicers, government agencies and many lenders, servicers, investors,
+mortgage bankers, credit unions, financial services companies and hedge
+funds across the country. Altisource technology development centre is in
+Bangalore, India.
+
+
+Work experience at Altisource :
+
+In Altisource I am involved in  designing,  developing  and  maintenance  of
+applications used by online real estate market  site.  Being  a  fresher,  I
+have been getting  exposure  to  lot  of  new  technologies  which  I  enjoy
+learning along with implementing in real time. I am  continuously  equipping
+myself with good designing, programming skills here.
+
+Technical Skills:
+
+ . Programming languages     : Java, J2EE
+ . Web Technologies    : JSP, Servlets, JQuery, Javascript
+ . IDE                 : Eclipse
+ . Database       : Oracle, MySQL
+ . Java Based Frameworks     : Hibernate, Spring, JPA
+ . Others              : Junit, Cloudinary, Redis, DbUnit, DS and algotithms
+
+Educational Profile:
+
+|YEAR        |DEGREE & CERTIFICATE      |INSTITUTION           |PERCENTAGE/CGPA |
+|2010-2014   |B.Tech, Mechanical        |IIT (BHU), Varanasi   |7.68            |
+|            |Engineering               |                      |                |
+|2010        |XII                       |Lawrence and Mayo     |86.4            |
+|            |                          |Public School, Kota,  |                |
+|            |                          |Rajasthan             |                |
+|2008        |X                         |Springdales Children  |88.8            |
+|            |                          |School, Kota,         |                |
+|            |                          |Rajasthan             |                |
+
+Projects:
+
+
+Backoffice :
+Team size  : 4
+Role      : Developer
+Technology : Spring framework, Hibernate
+Backoffice project was started to revamp all the existing functionality
+using advanced frameworks such as spring. As part of this project I
+evaluated the database design and created different tables, entities and
+DAOs based on the requirement. Apart from this I wrote integration testing
+for different business layers also.
+
+Image Management :
+Team size  : 1
+Role      : Design and Development
+Technology : Cloudinary API
+Cloudinary API provides methods to upload and manage web application
+resources on cloud. Image upload, processing, and delivery are done on
+Cloudinary's servers and automatically scale for handling high load of
+traffic. I build a project for image management at Hubzu using this API.
+Every property image uploaded on Hubzu is supposed to have a specific kind
+of transformations. The application was designed to take images, transform
+them and upload them to cloud, so that they can be directly accessed from
+there whenever required. It would improve the end user's experience as it
+helps in reducing the load time.
+
+GeoCode Caching
+
+Team size  : 1
+Role      : Design and Development
+Technology : Spring framework, Hibernate
+
+This project was designed to make use of Redis Cache Service to get the Geo
+code data for frequent search on Hubzu. If some key is searched more
+frequently, then application stores it in cache and retrieves it from there
+on next search rather than hitting google API. This was done to reduce the
+number of hits to Google and to reduce the search response time.
+
+MySql Migration
+
+Team size  : 3
+Role      : Developer
+Technology : Struts, Spring framework, Hibernate, Mysql and Oracle
+
+This project was initiated to move the entire code base from Oracle to
+MySql. As part of this team I have changed syntax of hibernate and struts
+queries from oracle to MySql taking care of the performance improvement as
+well.
+
+WFCDocs Properties Boarding
+
+Team size  : 3
+Role      : Design and Development
+Technology : Struts, Spring framework, Hibernate, JPA
+
+In Hubzu, we have assets which cannot be listed since there are few missing
+documents for them. This project was designed to market those assets on
+Hubzu. Excel upload feature was provided in order to list many assets at a
+time, which can be later modified through dashboard. These files were later
+processed by scheduled modules and the listed properties used to follow the
+same life cycle as other properties on Hubzu.
+
+Hubzu
+
+Team size  : 6
+Role      : Developer
+Technology : Struts, Spring framework, Hibernate
+
+Delta team is responsible to maintain and enhance the existing
+functionality of Hubzu. As a part of this team I have worked on many
+development tasks, existing issues starting from analysis to implementing
+the solution.
+
+Strengths:
+
+    . Excellent Analytical, Logical, Troubleshooting, Programming and
+      Communication skills.
+    . Participated in various projects at various stages from Conception to
+      implementation and Maintenance.
+    . Strong dedication towards work to ensure delivery of projects
+      according to the schedules.
+    . Enthusiastic, confident and energetic team player with an ability to
+      learn and quickly adapting to newer technologies.
+
+
+Personal Details:
+Father's Name          : Virendra Kumar Jain
+Date of Birth          : 13/11/1992
+PAN              : CMOPP2291Q
+Marital status         : Single
+Nationality      : Indian
+Linguistics      : English, Hindi
+Permanent Address      : 157-A, Shrinath Puram, Kota, Rajasthan-324010
+
+I hereby declare that the statements made above are true to the best of my
+knowledge and belief.
+
+
+KRATI PARAKH

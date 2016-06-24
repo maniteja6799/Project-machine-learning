@@ -1,0 +1,99 @@
+
+Professional Experience
+Android Application Developer @ Pheme Software Pvt Ltd.  Dec 2015  Current.
+Android Application Developer @ Tagtual Technologies Dec 2014  Dec2015.
+Android Application Developer @ Appzoy Technologies Jan 2014  Sep 2014.
+6 months Android Application Trainee @ Palle Technologies June 2013-Nov2013.
+2 months Summer training on Java in HP, NOIDA
+
+EXPERIENCE SUMMARY:
+Having 2.7 year of total development experience and 2.5yr of experience on Android, and good hand in java Technology.    
+Working as an Android Application Developer in Tagtual Technologies from 29-dec-2014 to Current.
+Worked as an Android Application Developer in Appzoy Technologies Pvt. Limited from Jan-2014 to Sep 2014
+Having 6 months of experience as an Android Developer Trainee in Palle Technologies.
+2 months summer training on Java in HP, NOIDA.
+
+PROJECTS UNDERGONE:
+
+PHEME SOFTWARE:
+
+ZeePHR: An app that keep track of User Health Record. User can create a profile and then add his/her medical Record. This includes:
+Adding Record of User Medication that user is taking or took in the past.
+Adding Record of User Heath Challenges like Diabetes, Asthma, etc. and other Records like Vitals, Lab Record, and Allergies.
+Showing Notification using GCM.
+Showing Alarm to remind user to take medicine on time.
+
+Skills Used: Android Studio 1.4.1, core Java, android 5.0,Android SDK, Volley, GSON, GCM, Alarm Manager, Notification.
+
+TAGTUAL TECHNOLOGIES:
+You May Read, VCMS, VMS(Vendor Management System  working in UB City& Bosch),
+ I Love NFC, Sam Travels, Prepaid Billing, Pet Cabs.
+
+You May read:  This app is basically for those people who love reading books and meet people. 
+ Book owner can add books for rent and for barter too.
+One can chat with book owner using Socket.Io chat library, Can attach Image of Book which are stored on azure server.
+One can Buy a book, Exchange a book by contacting the owner using app. 
+Can add a book , Book Talk(Messages), Event Facebook, Timeline, Categorize books using Near city, My favorites, My Shelf(this one is for book owner)
+We can also events related to books, also we can share it too Facebook.
+Skills Used: Android Studio 1.4.1, core Java, android 5.0,Android SDK, JSON Parsing, AsyncHttpClient, Facebook SDK, location manager, GPS, Picasso, Google Places api,(Mobile Services 1.1) Azure blob, ZbarScanner.
+
+VCMS (Vebinary Content Management System): An app that is used to publish an event (Campaign) in phones, tablets in hotels. If there is a new event say campaign that hotel has created Will be shown on devices according to zone (Batch) 
+Campaign Content could be  
+A campaign consists of Multiple Fragments inside same activity.
+A fragment might be array of images, videos, Scrolling image, YouTube video, Widgets Such as News, Flight status for particular airport, Weather, twitter Widget.
+Campaign is shown on basis of time provided for that campaign.
+Works offline by storing images and videos locally, Using Alarm Manager and Boot Receiver class to check if a campaign has to be published.
+Skills Used: Eclipse, core Java, android 5.0, Android SDK, JSON Parsing, location manager, gps, Picasso,  Media Player , Fragments.
+
+VMS: (Visitor Management System)
+This app helps to store all the Check in and Checkout records of each Vendor, Guest with Vendor or visitor everyone who comes whether its a Vendor or Temporary person or Guest.
+
+When Vendor taps on the card on Device the device gets data from device and checks information from cloud if card is registered user check in and check out details gets stored on server. If a user using temporary card checks in or checkout its details get stored say name, ph. no, place etc. Storing user in and out time on Server.
+Skills Used: Android SDK, URL POST, NFC, SQLite DB, core Java, android 5.0, Eclipse.
+     App Installed: currently working in Shopping Malls.
+
+Pet Cabs: App showing facilities provided by Pet Cab using multiple images that swipe every 5 second using view pager. 
+Skills Used: core Java, android 5.0, View Pager, Eclipse
+
+PRIOR TO TAGTUAL TECHNOLOGIES:
+Worked as Android Application Developer (27-Jan-2014  8-Sep-2014)
+
+Projects:
+BThink, Birthday App, Bollywood Bingo, TV (Trend on Airs), Expense, Java Interview Questions
+Google Play Links: : 
+
+
+, 
+
+PRIOR TO APPZOY TECHNOLOGIES:
+Worked as TRAINEE ENGINEER with Palle(1 June 2013- 30 Nov 2013)
+
+Projects:
+Aptitude Test (Skillgun), Dravidian University.
+
+ACADEMICS:
+Qualification:
+
+Projects:
+Final Year Project:  All India Helpline  Blood Bank 
+Summer training Project: Library Management System through Console.
+
+
+SKILLS SUMMARY:
+Android: UI (layouts/menus/dialogs/notifications), SQL, JSON
+Environment: Eclipse IDE, Android Studio,  Android SDK, Facebook SDK
+
+PERSONAL DETAILS:
+Date Of Birth:                                       4th  SEP, 1993
+Gender:                                                 Female
+Languages Known:                               English, Hindi
+Hobbies:                                                Listening Music, Surfing internet
+
+
+
+
+
+
+
+Date:  	04/04/2016                                                                                                                
+Aayushi Jain                                                                                                                              

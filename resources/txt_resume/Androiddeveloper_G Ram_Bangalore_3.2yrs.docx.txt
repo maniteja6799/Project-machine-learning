@@ -1,0 +1,175 @@
+  	
+G Ram		                                                               Mobile: +91- 9513067138                                                                                                                	                                                                           E-mail: ramg81988 @gmail.com  
+	
+
+Software Engineer: 3.2 Years of Experience on Android Application Development.
+
+Professional Summary:
+
+Good knowledge in developingAndroid applications.
+Good Knowledge on OOPs Concept.
+Good Knowledge on Android Tools (Lint, DDMS, etc).
+Extensive Knowledge on using android support and third party libraries.
+Expertise in JSON, XML and SOAP parser.
+Excellent programming skills in J2SE.
+Good knowledge on Version Control with SVN, GitHub.
+Integrated QR-code, Bar-Code Scanner and Social Networking Sites.
+Integrated with Google services like Google Maps, Google AdMob Ads, Google Play In-App Billing, and Google+.
+Able to work individually, as part of a co-located team or as part of a distributed global team.
+A good communicator who is able to explain complex technical concepts, both verbally and in writing, to technical and non technical audiences.
+Strong problem-solving and analytical skills.
+Self motivated and a quick learner.
+Ability to anticipate problems and develop effective solutions. 
+Able to work under pressure and to tight deadlines. 
+
+
+
+.
+	                                          Technical Skills
+
+
+Operating Systems		:	Windows XP, Win 7.
+Programming Languages	:	Core JAVA
+Database			:	SQLite
+IDE				:	Eclipse, Android Studio
+Design Methodologies	:	SDLC
+Performance Tools		:	ADT Tools
+
+
+
+
+                                                    Work Experience
+
+Working as Software Engineer in Pennant Software Private Limited, (from 20th Dec 2012 to till date).
+
+                                                Project Details 
+
+1.	Project	:	mPQMS
+            Client		:	etisalat
+            Environment	:	Android JSON, SQLite
+Role		:	Developer
+Team size	:	1
+Description	:	Partner & Quality management system (PQMS) is an enterprise application for etisalat Quality assurance. It was designed for tablet handset, where field inspectors can handle the inspection work instead paper work.
+
+Responsibilities:
+Unit testing, Debugging and troubleshooting the application.
+Analyzing customer requirements
+Designing and Coding
+Status Reporting 
+
+2.         Project	:	Tablet Tracker
+            Client		:	Travant Systems
+            Environment	:	Android
+Role		:	Developer	
+Team size	:	2
+Description	:	Tablet Tracker application is developed for tracking employees in the organization. First the user should have Salesforce credentials then register to the respected service with his Mobile device ID and Mobile number. Then his locations are tracked in the respected shift timings allocated to the employee. Then these location values are posted to the Salesforce .By this data they can know where the employee in particular time.
+Responsibilities:
+Designing and Coding
+Unit testing, Debugging and troubleshooting the application.
+Status Reporting 
+Planning and scheduling activities to ensure completion of the project within the time.
+       3.  Project	:	FrogSaver
+          Client		:	Texas Christian University
+            Environment	:	Android
+Role		:	Developer
+Team size	:	2
+Description	:	Introducing the Frogsaver.com App. Just show coupons on your phone. Designed specifically for the TCU (Texas Christian University) Community, we are the online marketplace for all local businesses to offers incredible deals & discounts to the TCU Faculty, Students & Staff. 
+      Responsibilities:
+Interacting with clients for requirements
+Analyzing customer requirements
+Unit testing, Debugging and troubleshooting the application.
+Designing and Coding
+Status Reporting
+
+3.         Project	:	Verayu Tracker
+            Client		:	Nivaata
+            Environment	:	Android
+Role		:	Developer	
+Team size	:	2
+Description	:	Verayu Tracker Application is the ideal companion to the Verayu suite of enterprise solutions for location intelligence, and allows you to track and interact with other Android phones or Yantra's (specialized tracking devices made by Nivaata) from your Android phone!
+Important Note: Verayu Tracker application is targeted *only* for enterprise users, who have signed up for Verayu services and obtained an enterprise license. Contact Nivaata support by sending an email to "support@nivaata.com" for more details on Verayu services, the Yantra tracking device or how your organization can sign up for Verayu!.
+Responsibilities:
+ Interacting with clients for requirements
+Analyzing customer requirements
+Unit testing, Debugging and troubleshooting the application.
+Designing and Coding
+Status Reporting
+
+4.         Project	:	I Care
+            Client		:	Yashoda Hospitals
+            Environment	:	Android JSON
+Role		:	Developer
+Team size	:	2
+Description	:	This project I care is a comprehensive hospital management system built to leverage the advances in technology towards providing quality healthcare to patients while ensuring optimum use of facilities and resources for the provider.
+I care caters to all major services within a hospital such as:
+Outpatient | Inpatient | Diagnostic | Support | Back Office | Interfaces 
+
+Highlights
+Dynamic dashboard for strategic management decisions.
+Doctor portal for ease in patient record access.
+Extensible through interfacing with third-party equipment.
+Turnaround time (TAT) calculation for efficient patient care.
+
+Responsibilities:
+ Interacting with clients for requirements
+Analyzing customer requirements
+Unit testing, Debugging and troubleshooting the application.
+Designing and Coding
+Status Reporting 
+
+
+5.         Project	:	Salon Magazine
+            Client		:	salon magazine
+            Environment	:	Android JSON
+Role		:	Developer
+Team size	:	2
+Description	:	The best of everything for professional beauty salons. An App that every modern day women will Grab in without a second thought. This application will provide information about the SALON Magazine and event details that they are going to organize. It is also equipped with vastcollections of various latest fission Hair styles & make up and some videos about making of hair styles and so on.
+
+Responsibilities:
+Unit testing, Debugging and troubleshooting the application.
+Analyzing customer requirements
+Designing and Coding
+Status Reporting 
+
+
+
+
+
+
+                                            Educational Qualification
+
+B.Tech from B.V.C Engineering College JNTUK University in the year of 2010. 
+
+
+
+                                               Personal Profile
+
+
+Name				:	Ram
+Fathers Name			:	Rudraiah
+Date of Birth			:	17th Nov 1988
+Nationality			:	Indian
+Gender				:	Male
+Present Organization		:	Pennant Software Private Limited.
+Designation			:	Software Engineer	.
+Marital Status			:	Unmarried.
+Languages Known		:	English, Telugu.
+Permanent address		:	Burugupalli,
+                                                            Yelamanchili Mandal, West Godavari [D.T],     
+ANDHRAPRADESH, INDIA PIN:-534266.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date:										Signature
+Place:									         	(G Ram)

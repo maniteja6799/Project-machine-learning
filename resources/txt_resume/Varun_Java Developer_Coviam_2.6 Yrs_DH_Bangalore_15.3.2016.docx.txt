@@ -1,0 +1,53 @@
+VARUN JAIN
+Mobile : +91-8050791967							
+
+
+Java Software Development & Design position for 2+ experience.
+2+ Years of experience in payment industry as a Software Engineer (Java) in Collabera Technology(Deputed at Verifone India pvt ltd).
+Comprehensive development experience in Core Java with Object Oriented Programming Concepts & Algorithms.
+Extensive development experience in Collections, Multithreading and Exception Handling.
+Good implementation knowledge on Spring IOC and Design Patterns.
+Abilities in handling multiple priorities, with a bias for action and a genuine interest in personal and professional development
+Good communication, Collaboration & Interpersonal skills with proficiency in grasping new technical concepts quickly and utilizing them in an effective manner
+
+	Title	: 		WorldPay Viper development           
+	Domain	: 	Payment Solution
+	Period 	: 	September 2013 to January 2015.
+	Role 		: 	Coding, Integration Testing, Issue Analysis, Bug fixing.
+	Client 		: 	WorldPay, U.S. 
+	Technologies	: 	Core Java, Spring, XML, Apache Ant, Git, Eclipse.
+	Description	:   Viper is the Electronic Payment Gateway that will process cards data 			for all the transactions from the point of sale. It will process the card			details 	and validate the cards based on the specifications form the Front-			End-Processer (FEP). Based on the specifications of the FEP viper will 			encrypt the card data and will transmit the messages to the respective host 			with the corresponding message request. Viper will receive the response 			from the host and will communicate the response to the Point Of Sale to 			continue the sales. It will hold the data of all the transactions and will 			provide reporting with all the different types of the transactions and will 			validate the totals with the host to report to the merchant the actual due 			amount from the Banks. 
+
+	Title	:	Phillips66 EMV implementation
+	Period 	: 	August 2015 to till date.
+	Domain	: 	Payment Solution
+Role	:	Coding, Integration Testing, Issue Analysis, Bug fixing.
+Company	:	Verifone India Pvt.
+Client 	: 	Heartland, Phillips66.  
+Techonologies	:	Core Java, Spring, XML, Apache Ant, Git, Eclipse.
+Description	:	EMV(Europay MasterCard Visa) is a specification for contact and contactless chip payment cards. EMV specification gives a common and secure platform for merchants to follow. In this project, the goal was to communicate with the EMV capable terminal and the Heartland host following the EMV specification and host requirements.
+
+	Title	:	Front End processing for EMV Configuration page
+	Period 	: 	Feb 2015 to April 2015.
+	Domain	: 	Payment Solution
+Role	:	Project designing, Coding, Integration testing, Bug fixing.
+Company	:	Verifone India Pvt.
+Technologies	:	Java, Gwt, Xml, Json, Eclipse
+Description	: 	A merchant needs to configure EMV related configurations at the site. For this two tabs were created in an already existing GWT based Configuration software. These tabs were made to be generic so that each host can control what the merchant is able to view and edit. Once the merchant saves some configuration after editing, a delta is calculated and if there is some change then the changed setting is sent to the backhand processor.
+
+Date of Birth		:	11 June 1991
+Address		:	F-81, Arbuda Ind. Area, Abu Road, Rajasthan- 307026
+Languages Known	:	English, Hindi
+Location Preference	: 	Bengaluru
+Gender             	: 	Male
+Marital Status     	: 	Unmarried
+Nationality         	: 	Indian
+Playing Chess and Table Tennis, watching Cricket and Movies.
+
+
+
+I do hereby declare that all the statements given above are true, complete & correct to the best of my knowledge and belief.
+
+
+Place	: Bengaluru                                                                             VARUN JAIN
+Date  	: 18th February, 2016						   	 (Signature)	  

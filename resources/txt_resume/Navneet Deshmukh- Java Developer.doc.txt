@@ -1,0 +1,168 @@
+
+
+Navneet Deshmukh
+
+
+Email: navneet.desh8367@gmail.com
+
+
+Mobile: +91-8792386843
+
+
+                                    [pic]
+
+Objective:
+
+               Being enthusiastic competent and result oriented individual,
+would like to be part of a reputed organization. Having good knowledge and
+experience in developing software components using Java and J2EE
+technologies.
+
+
+Professional Summary:
+    . Having 2+ years of experience in software development using Java and
+      J2EE technologies.
+    . Good knowledge of Object Oriented Programming concepts.
+    . Experience in development  of  object-oriented  business  applications
+      using Java, JDBC Hibernate and Spring.
+    . Having knowledge of Design Patterns  (Factory,  Abstract  Factory  and
+      Singleton).
+    . Has the motivation to  take  independent  responsibility  as  well  as
+      ability to contribute and be a productive team player.
+    . Having good programming, problem solving and analytical skills.
+    .  Good  team  member,  positive  attitude  and  result  oriented  Self-
+      motivated, quick learner, willing to adapt to new challenges.
+    . Have strong analytical skills with proficiency in debugging, problem
+      solving.
+    . Ability to learn and adapt quickly to the emerging new technologies
+      and paradigms.
+    . Having knowledge of Servlet, JSP, Hibernate, Spring.
+
+
+
+Technical Skills:
+Language         : Java, SQL
+Database         : Oracle 10g
+Enterprise Solutions   : JAVA/J2EE (JDBC)
+Framework        : Hibernate, Spring
+Servers          : Apache Tomcat
+IDE and Tools          : Eclipse.
+Web Technologies : XML, html.
+Operating Systems      : Windows XP, Windows 7
+Design Patterns  : Singleton, Factory, Abstract Factory, MVC.
+
+
+
+Experience Summary:
+
+Worked at  Zensoft Technologies Pvt. Ltd. Bhopal as Software Engineer Mar
+2013 to July 2015 .
+
+
+Project #1
+------------------
+Title            : Health Services.
+Duration         : July 2014 - May 2015
+Role             : Developer
+Team Size        : 11
+Environment      : Core  Java,  JSP,  Spring,  Hibernate,  Eclipse,  Tomcat,
+oracle.
+
+
+
+
+
+
+Description: -
+
+                              This  project  mainly  focuses  on  Doctors  &
+Patients relation. This software facilitates a doctor to get a  registration
+which provides a quick reference of past history related to a  patient  like
+his/her symptoms, drug allergies, family history etc. Doctors can  use  this
+information for further advices. So doctors will feel simple while  treating
+a patient which he already treated before.
+                        In this system patient will also facilitate by user-
+id and password to get online appointment with a doctor. So no patient  will
+suffer for getting an appointment  because  all  information  about  doctors
+like his/her available hospital name,  available  time  etc.  If  a  patient
+wants appointment for a doctor then he can send a message and can engage.
+
+
+Responsibilities
+
+       . Designed Jsp's as per the Requirement.
+       . Implemented Action Classes.
+       . Implemented Form Beans and their Validations.
+       . Implemented DAO's with Hibernate.
+       . Written Hibernate components.
+
+
+
+
+
+Project #2
+------------------
+Title            : Real Estate
+Duration         : June 2013 - April 2014
+Role             : Developer
+Team Size        : 8
+Environment      : Java, JSP, Servlet, JDBC, MySql, Tomcat.
+
+
+
+Description:
+
+                                Real  Estate  business  partner  operate   a
+Portal for its Real state Agencies Operations and customer.  It  deals  with
+buying, selling and financing of houses or condos. On this  Portal  you  can
+search for a  house  of  your  desired  choice  by  giving  details  of  the
+location. One can find Valuable suggestions and guidance in  buying  Houses.
+The tools, which are available on this  portal,  help  in  buying.  You  can
+choose no. of bedrooms and bathrooms within the budget and there is  a  toll
+called Virtual Home Planner, which helps to arrange  furniture  accordingly.
+One can enquiry about the neighborhood with the information  available.  One
+can  sell  his  property  by  registering  the  property  and   giving   the
+testimonials.
+
+Responsibilities:
+
+    . Designing the GUI screens Using JSP.
+    . Involved in understanding technical  specifications,  writing  program
+      specifications.
+    . Responsible for implementing delegate classes.
+    . Implemented DAO's.
+
+
+
+
+
+
+
+
+
+
+
+Educational Background:
+
+    . B.E. from Rajiv Gandhi Technical University Bhopal.
+
+
+Personal Detail:
+
+      Name             : Navneet Deshmukh
+      Father Name      : Manikrao Deshmukh
+      Sex              : Male
+      Languages Know   : Hindi, English.
+      Date of Birth          : 23 Sep, 1990.
+      Permanent address     :  Ambedkar  ward,  Betul  road,  Multai,  dist-
+   Betul (M.P.)
+
+
+
+I hereby solemnly declare that all the statements  made  in  the  above  are
+truly correct and  certified  to  the  best  of  my  knowledge  and  belief.
+
+
+
+Date                                                                       :
+                   Navneet Deshmukh[pic]

@@ -1,0 +1,73 @@
+Dipti Singh
++91 9066858140|
+Career Objective:
+To seek an Engineering position that provides challenging opportunities to utilize my knowledge of software as well as analytical, technical and managerial skills for career growth and uplift of the organization.
+
+Skill Set:
+
+ANDROID 
+CORE JAVA
+XML/JSON
+SQL
+SQLite
+WEB SERVICES (XML, SOAP, REST)
+CLOUD COMPUING
+WEB DEVELOPMENT
+J2EE (SERVLET, SPRING, STURTS, JSP, JDBC)
+
+
+Experience:
+Green Dimension (Present)
+	Software Engineer 
+	
+Professional Project:
+
+1Talent Directory: 						
+Redesigned the website to an android application.
+
+Skills Used : Android Studio, Core Java, Activity, Intents,
+Service, Broadcast receiver and Content Providers, UI
+layouts and views,  SQLite, Sharead Preferences, Fragment,  XML/JSON parsers, Asynctasks, threads,(GCM) and Notifications,Image caching and lazy loading, call, SMS, WebView, Fragment, Audio and Video Recording, Camera.
+
+Knowledge of memory management and multi-threading.
+Knowledge of Android connectivity framework including Bluetooth
+&Wi-Fi.
+Hands on experience with Google maps, Audio/Video Framework.
+Web Services API.
+Role  Developer
+Team Size  5
+
+1.Designing a website in which we can connect to everyone of different fields
+2. Prevent from brokers and event manager.
+3. Impact solution in better ways.
+
+IMS& TDOD                                                                         
+Client: Top 10 Fortune Client.
+Software/Tools/Database : Servlets, JSP, SQL, Eclipse, Maven, Rest
+Client, WebServices.
+Role - Developer
+Team Size - 6
+
+It is just like an application which interacts with multiple database and application togenerate large amount of reservations, tickets etc.It used the principle of Amazon SWF to simulate the process and Oracle was used as the back end for storage of the application.
+
+Academic Details:
+Bachelor of Engineering (2010-2014)
+Sri Jagadguru Chandrasekaranathswamiji Institute of Technology(VTU)
+Branch: Computer Science, 
+
+10+2 (All India Senior School Certificate Examination 2010)
+RPS Residency school(CBSE)
+Stream: Science(PCM), 
+
+10 (All India Secondary School Examination 2008)
+School: Bridgeford School(CBSE)
+
+
+Personal Detail:
+Date of Birth:	                        3rdNovember 1991
+Correspondence Address:       Bommanahalli
+Fathers Name:                        Amarendra Kumar Singh
+Languages Known:                 English, Hindi.
+
+Date:7 March 2016
+Place: Bengaluru.							 Dipti Singh.
