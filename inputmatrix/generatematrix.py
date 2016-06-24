@@ -9,6 +9,9 @@ from nltk.tokenize import sent_tokenize
 import string
 from pprint import pprint
 
+
+matrix = {}
+
 def get_config(configfile):
 	config = []
 	try:
@@ -20,26 +23,33 @@ def get_config(configfile):
 		File.close()
 	return config
 
-
+def genMatrix(filenames):
+	global matrix
+	for file in filenames:
+		matrix[file]=[]
 
 def get_features(config, txtfile, words, jd):
 	row = extractfeaturescore_words(config,txtfile,words)
 	row = extractfeaturescore_jd(config, txtfile, jd, row)
 	return row
 
-def update_matrix(config,features,usertxtfile):
-	return ''
+def update_matrix(config,features, txtfile):
+	global matrix
+	matrix[txtfile] = features
+	return
 
 def process_txts(config, words, jd):
+	filenames = []
 	try:
 		File = open(config['txts_filename'],'r')
 		filenames = File.read().split('\n')
+		genMatrix(filenames)
 		if len(filenames)>0:
 			for txtfile in filenames:
 				# print(txtfile)
 				features = get_features(config, txtfile, words, jd)
 				# print([features[fat] for fat in features])
-				update_matrix(config, features,txtfile)
+				update_matrix(config, features, txtfile)
 			print('** all files processed **')
 		else:
 			print('** no txt files in txts_filename **')
@@ -47,7 +57,7 @@ def process_txts(config, words, jd):
 		print('** ads file error **\n'+str(e))
 	else:
 		File.close()
-		return
+		return filenames
 
 def getwords(config):
 	words = {}
@@ -135,9 +145,16 @@ words = getwords(config)
 jds = getjds(config)
 # print(words)
 # pprint(jds)
-process_txts(config,words,jds[0])
+filenames = process_txts(config,words,jds[0])
 
+count = 0
+for file in matrix:
+	if count ==0:
+		print([tag for tag in matrix[file]])
+	print([matrix[file][tag] for tag in matrix[file]])
+	count+=1
 
+print(count+1)
 
 
 

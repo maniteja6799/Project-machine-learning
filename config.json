@@ -1,6 +1,6 @@
 {
-	"txts_filename" : "resources/sampletxt_filenames.txt",
-	"txts_folder" : "resources/sampletxts/",
+	"txts_filename" : "resources/txt_resume_filenames.txt",
+	"txts_folder" : "resources/txt_resume/",
 	"words" : "resources/words.json",
 	"jds" : ["resources/java_jd.json"]
 }
