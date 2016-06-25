@@ -7,6 +7,8 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.tokenize import sent_tokenize
 import string
+import re
+import xlrd
 from pprint import pprint
 
 
@@ -54,12 +56,8 @@ def process_txts(config, words, jd):
 		genMatrix(filenames)
 		if len(filenames)>0:	
 			for txtfile in filenames:
-				# print(config['txts_folder']+txtfile)
-				# print(txt)
 				features = get_features(config, txtfile, words, jd)
-				# print([features[fat] for fat in features])
 				update_matrix(config, features, txtfile)
-				
 			print('** all files processed **')
 		else:
 			print('** no txt files in txts_filename **')
@@ -74,14 +72,14 @@ def get_features(config, txtfile, words, jd):
 	row = {}
 	row = extractfeaturescore_words(config,txtfile,words, row)
 	row = extractfeaturescore_jd(config, txtfile, jd, row)
-	# row = extractfeaturescore_companies(config,row)
+	row = extractfeaturescore_companies(config, txtfile, row)
+	row = extractfeaturescore_target(config, txtfile, row)
 	return row
 
 def extractfeaturescore_words(config,txtfile,words, row):
 	File = open(config['txts_folder']+txtfile,'r')
 	txt = File.read()
 	File.close()
-	# print(config['txts_folder']+txtfile)
 	punctuation = list(string.punctuation)
 	stop_words = set(stopwords.words('english') + punctuation)
 	word_tokens = []
@@ -92,7 +90,6 @@ def extractfeaturescore_words(config,txtfile,words, row):
 		print("\n\n"+txtfile+" and error: "+str(e))
 
 	filtered_txt = [w for w in word_tokens if not w in stop_words]
-	# print(filtered_txt)
 	for cat in words:
 		acc = 0
 		for word in words[cat]:
@@ -183,10 +180,54 @@ def extractfeaturescore_companies(config, txtfile, row):
 	cmplen = len(companies)
 	for i in range(cmplen):
 		if companies[i] in words:
-			print(companies[i])
 			cmpscore += cmplen-i+1
-			print(cmplen-i+1)
-	row['cmp_score'] = cmpscore/cmplen
+	return row
+
+details = {}
+def getdetail():
+	cnt = 0
+	workbook = xlrd.open_workbook(config['details'])
+	sheet_names = workbook.sheet_names()
+	sheet = workbook.sheet_by_name(sheet_names[0])
+	for row_idx in range(sheet.nrows):
+		detail = []
+		for col_idx in range(sheet.ncols):
+			cell = sheet.cell(row_idx, col_idx)
+			detail.append(cell.value)
+		details[cnt] = detail
+		cnt += 1
+	sheet = workbook.sheet_by_name(sheet_names[1])
+	for row_idx in range(sheet.nrows):
+		detail = []
+		for col_idx in range(sheet.ncols):
+			cell = sheet.cell(row_idx, col_idx)
+			detail.append(cell.value)
+		details[cnt] = detail
+		cnt += 1
+
+def extractfeaturescore_target(config, txtfile, row):
+	accept = ['Joined', 'OfferAccepted']
+	cnt = 0
+	row['target'] = -1
+	txtfile = re.sub('[^a-zA-Z0-9]', '',txtfile[:-4])
+	for detail in details:
+		tstr8 = re.sub('[^a-zA-Z0-9]', '',details[detail][8])
+		tstr6 = re.sub('[^a-zA-Z0-9]', '',details[detail][6])
+		# print(txtfile)
+		if txtfile==tstr8:
+			# print('file1:'+txtfile)
+			# print('file2:'+tstr8)
+			if tstr6 in accept:
+				# print(details[detail])
+				row['target'] = 1
+				row['experience'] = details[detail][4]
+				row['testscore'] = details[detail][5]
+			else:
+				# print(details[detail])
+				row['target'] = 0
+				row['experience'] = details[detail][4]
+				row['testscore'] = details[detail][5]
+			break
 	return row
 
 def genMatrix(filenames):
@@ -202,19 +243,20 @@ def update_matrix(config,features, txtfile):
 config = get_config('config.json')
 words = getwords(config)
 jds = getjds(config)
-# print(words)
-# pprint(jds)
-filenames = process_txts(config,words,jds[0])
+getdetail()
 
-count = 0
-for file in matrix:
-	if count ==0:
-		print([tag for tag in matrix[file]])
-	print([matrix[file][tag] for tag in matrix[file]])
-	count+=1
+def test():
+	filenames = process_txts(config,words,jds[0])
 
-# print(count+1)
+	count = 0
+	for file in matrix:
+		if count ==0:
+			print([tag for tag in matrix[file]])
+		print([matrix[file][tag] for tag in matrix[file]])
+		count+=1
+	return matrix
 
+test()
 
 
 
