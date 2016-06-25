@@ -1,0 +1,16 @@
+
+45, 7th cross, Srilakshmi Layout, Akash Nagar, PWD Road, B Narayanapura, Bangalore-560016	Inbarajan P	7204857137inbarajan.90@gmail.com 
+Employment
+Lead Engineer	Samsung Research India, Bangalore	July  2012 – Present
+Samsung Appcessory ProtocolDesign and development of a Connectivity Framework for Samsung Gear Series of Smart Watches, over standard technologies like BT, BLE, Wi-Fi and USB.Framework’s responsibilities are to mask the connectivity details and ensure a consistent connectivity interface between Smart watch and phone. Framework would allow app-to-app communication over virtual sockets via a proprietary session establishment and data transfer protocol.Had ownership of couple of modules and was completely entrusted with the design and development of the same. Was also involved in End-To-End Design and Development of connectivity agnostic SDK for 3rd party developers. The SDK has been uploaded on the Samsung Developer site.Worked on both, the Java stack (for Android devices) and also the C stack (for Tizen based and other devices) of the stack.TriathlonTriathlon is a standalone ear-piece having its own storage that plays music and also tracks the user’s health details which is currently under development.Worked extensively on the Playlist module, Audio UI module, Playlist Sync between the 2 ear-pieces in  colloboration with colleagues in Seoul, Suwon and also with the Onsemi team from Japan. This included a travel to Samsung HQ in Suwon and close direct interaction with all the stake holders involved. Memory considerations, limited processing capability was a major challenge to overcome while designing the modules.Unified Communications FrameworkWas part of a PoC titled Unified Communications Framework when I joined as a fresher.UCF aimed at making smart switch between VoIP calls and calls through SIM based on the available data limit, free call minutes and also the type of call (international vs local).Had to dig into the code Android code to figure out triggers for call from various places. Had to integrate logic into the same and also modifications to the native settings app in Android. Had to make use of chatOn apis to make calls over VoIP to make the switch. 
+ Internship	Dr. Tim Poston, Chief Scientist, Therataxis LLC.	Summer  2010
+Worked on a project titled ‘CUDA based modeling of deformable xelular sets’ under the guidance of Dr. Tim Poston.
+Education
+Surathkal, Karnataka	NIT Surathkal, Karnataka	 2008 – 2012
+B.Tech in Information Technology.  CGPA : 7.03Bangalore, Karnataka                                        Christ College, Bangalore                                                        2007 - 2008Secured 77% in class 12, State BoardBangalore, Karnataka                                  Bethany High School, Bangalore                                                 2005 - 2006Secured 85.33% marks in Class X, ICSE Board.
+Achievement and Awards
+Got 2 spot awards at Samsung for contribution towards the project.Was awarded the Employee Of the Month for March 2016.
+Languages and Technologies
+ Java, C, Android.Visual Studio, Eclipse, Android Studio, Perforce.
+
+

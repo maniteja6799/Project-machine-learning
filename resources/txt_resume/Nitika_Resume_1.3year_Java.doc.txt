@@ -1,0 +1,193 @@
+
+NITIKA.R.DAVE
+55,10th Main,BTM 1st Stage,
+     nitika.017@gmail.com
+Maruthi Layout,Bangalore-29
+  +91-9986583593
+
+
+Career Objective:
+
+I intend to establish myself as a Java Developer through a long time
+commitment, contributing to the company's growth and in turn ensuring self
+improvement with in the organization
+
+Experience Summary:
+
+Working as Java Developer since 9th June 2014 with IBM India Pvt Ltd.
+
+Quick learner, Self-motivated with good communication skills
+
+ Hard working with a quest and zeal to learn new technologies and undertake
+challenging tasks.
+
+Good team player with an ability to work independently in a time sensitive
+environment
+
+Technical skills:
+
+Languages/Methodologies : Core Java, J2EE,JDBC,JSP,C, C++
+
+Web Technologies : XML,HTML
+Web Servers : IBM WAS 6.1
+Software tools and Utilities :  Client for Window,System Administrator
+client,DB2CE,IBM Symphony
+Database Technologies : IBM DB2.
+Operating Systems : Windows XP/7
+
+Integrated Development Environment : Eclipse, RSA, Edit Plus
+
+
+Project Summary:
+
+Project I: At IBM India Pvt Ltd
+
+Project Name: SCORE CoE(28 July 2015 - till date)
+
+Description: The IBM Solution for Compliance in a Regulated Environment
+(SCORE) is a flexible and highly configurable browser-based application
+designed for the pharmaceutical industry, including generic manufacturers,
+and biotechnology businesses.It offers flexible, regulated document
+management and submission management. This allows companies to effectively
+manage regulated content across the enterprise, from clinical trials,
+regulatory submissions and manufacturing through distribution, sales and
+marketing. It meets stringent requirements such as 21CFR11 and GxPs from
+the FDA.
+
+a) Client: Crucell NL
+
+Role: Developer: Was involved in developing modules for handling Bulk
+export functionality of Native documents bought into the SCORE application.
+Involved in enhancement of the existing application by handling change
+requests from client. Basic issue resolution and trouble shooting. Server
+monitoring and maintenance.
+
+Technologies: Core Java,SQL,XML
+
+b) Client: Astellas
+
+Role: Developer: Was involved in developing,deploying and verifying the
+plugin/code to update the ACL for group of users for SCORE application.
+Involved in enhancement of the existing application by handling change
+requests from client. Basic issue resolution and trouble shooting. Server
+monitoring and maintenance.
+
+Technologies: Core Java,SQL,XML
+
+  Project II :   At PDIT, Hospet(College curriculum Project)
+
+Project name: "Remote data access and protection of smartphones using SMS"
+
+Description: The project proposes a model to secure smartphones from theft
+as well as provides options to access a smartphone through other smartphone
+or a normal mobile via Short Message Service. This model provides option to
+track and secure the mobile by locking it.It also provides facilities to
+receive the call logs and SMS information to the remotely connected device
+and enables the remote user to control the mobile through SMS. This model
+also provides access to contact number and we can also delete the contact
+number through SMS. The proposed model is validated by the prototype
+implementation in Android platform.
+
+Role: Involved in development of UI and module for handling Contact
+retrieval
+
+Technologies: Android SDK,Core Java
+
+Education Qualification:
+
+|Sl.n|Course         |Institution     |Board/University  |Year of |Percen|
+|o   |               |                |                  |passing |t     |
+|1   |B.E(Information|Proudhadevaraya |Visveswaraya      |2013    |76    |
+|    |science)       |Institute of    |Technological     |        |      |
+|    |               |Technology,Hospe|University,       |        |      |
+|    |               |t               |Belgaum           |        |      |
+|2   |12             |Kendriya        |C.B.S.E           |2009    |73    |
+|    |               |Vidyalaya,Hospet|                  |        |      |
+|3   |10             |Kendriya        |C.B.S.E           |2007    |86    |
+|    |               |Vidyalaya,Hospet|                  |        |      |
+
+Secured first class with distinction in all semesters and branch topper.
+
+Achievements:
+ Participated in IBM's biggest coding competition- 'Tecathon2014' on
+'Counterfeit Product Detection Solution' and worked for developing the
+Android application(interface) for it.
+
+Have been recognized in the Manager's choice award-2015, for displaying IBM
+value,"Putting the client first"
+
+Have been appreciated by client for the interactions and pro-active
+communication/ response over the course of project, during support and
+development activities
+
+Qualified GATE EXAM-2013 with All India Ranking of 7718, out of 224160
+students.
+
+Participated and won special recognition prize in debate at the VTU fest
+'UDBHAV'.
+
+Have been student coordinator of district level techfest 'UTKARSH'
+organized by the college.
+
+Selected among top 10teams in college to participate in state level IT
+QUIZ, TCS TECH BYTES.
+
+Have been national level debater four times in a row.
+
+Won second price in state level tech-fest 'WONDERS 11' in reporting and
+journalism and event management contest.
+
+Presented technical seminars/presentations on state and National level tech-
+fests.
+
+Participated in several co-curricular activities and sports competitions.
+
+   Personal Information:
+
+Date of Birth : June 18'1991
+
+Gender : Female
+
+Marital Status : Single
+
+Father's Name : Ramakant Dave
+
+Nationality : Indian
+
+Languages Known : English, Hindi, Gujarati, Kannada
+
+Passport number : M4160142
+
+PAN : BHWPD3973P
+
+Hobbies : Reading novels, Writing poems and articles, playing TT
+
+ Declaration:
+
+I do hereby declare that all the information stated is true and safe to the
+best of my knowledge.
+
+
+
+                                                             (Nitika R Dave)
+
+                                                            Place: Bangalore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

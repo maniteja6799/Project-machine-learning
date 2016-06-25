@@ -1,0 +1,231 @@
+
+                               SHREYASH MOHTA
+                                  Male, 26
+                      E-Mail: shreyashmohta89@gmail.com
+                            Phone: +91 9910433922
+
+
+
+                            Software Development
+   An ardent analyst with expertise in strengthening companies to lead in
+                        highly competitive situations
+
+                           Industry Preference: IT
+               Location Preference: Delhi-NCR/Bengaluru/Mumbai
+
+                               PROFILE SUMMARY
+
+ . B-Tech professional with over 3 years of experience in:
+   ~ Software Application Development         ~ Software &  Product  Testing
+
+
+   ~     Defect      Management                       ~      Troubleshooting
+
+
+ . Currently associated with Samsung Research Institute, Noida as a Software
+   Engineer
+ . Experienced in designing & developing software, troubleshooting technical
+   defects and providing technical support
+ . Keen planner  with  skills  in  coding,  testing,  managing  defects  and
+   resolving software bugs
+ . Possesses insightful knowledge in the development of mobile  applications
+   like T-Memo+, Smart Lite, Pinboard Widget, Out Patient Solution, Curlink,
+   Jewellery Solution, Instashop and Smart Theme
+ . Analytical, meticulous and quality-oriented professional with an eye  for
+   detail
+
+
+
+                          ORGANISATIONAL EXPERIENCE
+
+Since Jun'12 with Samsung Research Institute, Noida as Software Engineer
+
+Key Result Areas:
+    . Developing Android applications and enhancing existing  systems  based
+      on customer requirements
+    . Undertaking software design and development and peer code reviews
+    . Developing, testing and debugging  system  software;  reviewing  code;
+      providing post-production support
+    .  Discussing  and  providing  insights  to  the  design  team  for  the
+      applications to be  developed
+    . Recommending ideas for new applications/feature enhancements that  can
+      be integrated in Samsung phones and tablets
+    . Formulating technical  specifications  according  to  business  needs;
+      suggesting improvements to existing system designs
+
+Highlights:
+ . Awarded "Employee of the Month" title by Samsung Research  Institute  for
+   exemplary performance in Jan'14
+ .  Recipient  of  the  "Best  Squad"  prize  for  developing  Health   Care
+   Solution(OPD) in Aug'15
+ . Developed 8 major applications in Android for Samsung phones and tablets
+ . Major contribution in overall flow and design of the  apps  developed  in
+   B2B Innovation Group team
+
+
+
+                             INDUSTRIAL PROJECTS
+
+|Applicatio|OutPatient Solution                                  |Oct'14 - Dec'15  |
+|n:        |An integrated solution for managing outpatient       |                 |
+|          |department of the client hospital                    |                 |
+|Tasks :   |Partnered with the design team to understand and analyze the process   |
+|          |requirements of an OPD                                                 |
+|          |Designed the initial road map including module separation, code        |
+|          |structuring, database designing                                        |
+|          |Independently developed the UI and GUI of the "Doctor" module          |
+|          |Collaborated with team members developing other modules for smooth     |
+|          |implementation                                                         |
+|          |Worked on bug fixing and improving application performance for product |
+|          |release                                                                |
+|Technology|Core Java, Android, MQTT, phpMyAdmin and MyBatis                       |
+|:         |                                                                       |
+
+
+|Applicatio|SmartLite Launcher                                   |Nov'13 - Sep'14  |
+|n:        |A customized solution for managing applications and  |                 |
+|          |widgets of a smartphone                              |                 |
+|Tasks :   |Conducted primary and secondary market research to identify the        |
+|          |opportunities in launcher segment                                      |
+|          |Designed the process flow with the team for module separation          |
+|          |Developed the UI and GUI of the "Contact Manager" module in a team of 2|
+|          |                                                                       |
+|          |Coordinated with cross-module team to successfully integrate it in the |
+|          |launcher                                                               |
+|          |Involved in alpha testing and integration testing                      |
+|Technology|Cora Java and Android                                                  |
+|:         |                                                                       |
+|Applicatio|PinBoard Widget                                      |Jun'13 - Oct'13  |
+|n:        |                                                     |                 |
+|          |An application which provides quick access to favourite contacts,      |
+|          |applications, activities and settings                                  |
+|Tasks :   |Undertook the initiative of learning the process of designing a widget |
+|          |in a first-of-its-kind project                                         |
+|          |Created the Proof of Concept (POC) and developed UI and GUI as per the |
+|          |guidelines                                                             |
+|          |Single-handedly conceived and built 3 out of the 4 widgets; worked with|
+|          |other teams for 4th widget                                             |
+|          |Executed the complete implementation and alpha testing of the assigned |
+|          |module                                                                 |
+|Technology|Cora Java and Android                                                  |
+|:         |                                                                       |
+
+
+____________________________________________________________________________
+           _________________________________________________________________
+           __
+
+|Applicatio|T Memo+                                              |Apr'13 - Oct'13  |
+|n:        |                                                     |                 |
+|          |An application to facilitate cross-application (Maps, SMS, Contacts    |
+|          |etc) use of saved texts and images                                     |
+|Tasks :   |Associated with the design team to understand the technical            |
+|          |requirements                                                           |
+|          |Conceptualized the code guidelines and code structure under the        |
+|          |guidance of the project lead                                           |
+|          |Devised the POC and implemented the UI and GUI along with the          |
+|          |functionality as per the guidelines                                    |
+|          |Successfully implemented the application and performed the alpha       |
+|          |testing                                                                |
+|Technology|Cora Java and Android                                                  |
+|:         |                                                                       |
+
+
+____________________________________________________________________________
+           _________________________________________________________________
+           __
+
+|Applicatio|Curlink                                              |March'13 - Apr'13|
+|n:        |                                                     |                 |
+|          |A kid-friendly application with the functionality of learning the      |
+|          |alphabets and numbers for toddlers                                     |
+|Tasks :   |Analyzed the design specifications and technical requirements with the |
+|          |design team                                                            |
+|          |Created POC and implemented UI and GUI along with the functionality in |
+|          |a time of 10 days                                                      |
+|          |Performed alpha testing and debugged the application                   |
+|Technology|Cora Java and Android                                                  |
+|:         |                                                                       |
+
+
+____________________________________________________________________________
+           _________________________________________________________________
+           __
+
+|Applicatio|Jewellery Solution and InstaShop                     |Nov'12 - March'13|
+|n:        |                                                     |                 |
+|          |A consumer-oriented solution to display the online catalogue of all the|
+|          |products at a jewellery store                                          |
+|Tasks :   |Partnered with the marketing team and the design team to understand the|
+|          |consumer's requirements                                                |
+|          |Chalked out module separation, module designing and database designing |
+|          |based on OOPS                                                          |
+|          |Designed and developed UI and GUI according to the UX and GUI          |
+|          |guidelines                                                             |
+|          |Accomplished successful execution of the developed application along   |
+|          |with alpha testing                                                     |
+|Technology|Cora Java, Android and Photoshop                                       |
+|:         |                                                                       |
+
+
+____________________________________________________________________________
+           _________________________________________________________________
+           __
+
+|Applicatio|Smart Theme                                          |Aug'12 - Nov'12  |
+|n:        |                                                     |                 |
+|          |An application to browse through and download the themes available on  |
+|          |the store for the launcher                                             |
+|Tasks :   | Keenly participated in the specifications review meetings with the    |
+|          |design team                                                            |
+|          |Actively studied and analyzed the code and its flow to gain traction   |
+|          |with the technology                                                    |
+|          |Successfully designed, implemented and tested-debugged the first       |
+|          |project                                                                |
+|Technology|Cora Java and Android                                                  |
+|:         |                                                                       |
+
+                                 INTERNSHIPS
+|Steel Authority of India (SAIL), Delhi                          |May'11 - Jun'11  |
+|Project Title: To develop a website for hardware inventory management system of   |
+|the company                                                                       |
+|Objective: To migrate the existing MS Access based system to MySQL database with  |
+|an intranet website using PHP and HTML                                            |
+|Key Learnings:  Accomplished successful prototypng of a robust intranet website   |
+|based on open source scripts                                                      |
+
+                              ACADEMIC DETAILS
+
+ . B-Tech from National Institute of Technology(NIT), Jaipur with 7.29  CPGA
+   in 2012
+ . 12th from Aklank Public School, Kota with 75% in 2008
+ . 10th from Modern School, Kota with 82.5% in 2006
+
+                                  IT SKILLS
+
+Programming Languages:       Java, C
+Concepts:               Data  Structures,  Database   Management   and   Web
+Designing
+Operating Systems:           Windows 7, Windows XP, Linux (Ubuntu, Red  Hat)
+and Android
+Applications/Tools:          Eclipse, Android Studio and Perforce
+Database:              SQLite, MySQL
+Scripting Langauage:         HTML, PHP
+
+                         EXTRACURRICULAR ACTIVITIES
+
+ . Served as the First Year Representative  of  Electronica  Society,  MNIT,
+   Jaipur for the year 2008-09
+    o Organized several guest lectures on robotics by eminent  personalities
+      of their field
+ . Recognized as the Technical Executive of Neuron, 2009, a  national  level
+   technical fest organized by MNIT Jaipur
+    o Successfully coordinated "Ethical Hacking" workshop  in  collaboration
+      with IIT Kharagpur
+
+                              PERSONAL DETAILS
+
+Date of Birth:         17th November, 1989
+Languages Known: English and Hindi
+Mailing Address: Flat Number 401, Akansha Forture, 143  Shakti  Nagar,  Kota
+                 (Rajasthan -324006) [pic][pic][pic][pic]

@@ -1,0 +1,281 @@
+	                                                             	   Ph: +91 8050825019                                              
+Bala Krishna A                                               Email: anubrolubalakrishna509@gmail.com 
+                                                                                                                                                                                              
+
+Experience Summary 
+	Around 4.5 years of Work Experience.
+	Experience in In-house & Out-house training.
+	Extensively worked on Mobile technology Android.
+	Used different GUI components like Google Maps, Animation and Camera.
+	Worked on SQLite database, Shared Preferences.
+	Worked on Beacon Technology.
+	Integrated web services (XML, JSON) in mobile technology.
+	Good expertise in software programming using Java.
+	Knowledge on Hockey app for build releases.
+	Facebook, Twitter, Google Analytics Integrations.
+	Committed team player with good analytical and problem solving skills, ability to quickly adapt to new environments & technologies. 
+	Experienced in Agile methodology.
+	Dedicated to successful project completion with good communication and interpersonal skills.
+
+Technical Skills
+
+Languages	C, Java
+Mobile Technology	Android 
+Database	SQLite3
+Scripting Languages	JavaScript, HTML, XML
+Servers 	Tomcat, WebLogic
+Versioning	SVN
+Tools	ANT
+
+Professional Experience: 
+
+Previous Employer: 
+	
+	First Source It Services Pvt Ltd from Aug 2011 to Nov 2014.
+	Nichepro Technologies(client : July Systems) from Mar 2015 to June 2015.
+
+
+Current Employer: 
+
+		
+	July Systems Technologies & Pvt Ltd from June 2015 to till now
+
+
+
+
+PROJECT- 11:
+
+Product Name	      : GORB
+Role		      : Android Developer
+Technologies	      : Android 4.0+
+
+Description:
+Gorb is a destination for homemade meals peppered with love. With a daily changing menu featuring meals prepared by local chefs, you will never be out of options.
+
+The app features lunch and dinner menu with details about dishes and chefs. You can choose from multiple delivery windows to get meals delivered to you just when you want them.
+
+Activities /Responsibilities
+Involving in the following activities.
+
+	Involved in the login part of the app using default login, facebook, gmail.
+	Involved in designing UI.
+	Involved in feature sprint plan discussions.
+	Involved in third party integrations like sinch, PayU SDK etc.,
+
+
+PROJECT- 10:
+
+Product Name	      : Mall of America
+Role		      : Android Developer
+Technologies	      : Android 4.4+
+Market URL       : https://play.google.com/store/apps/details?id=com.moa.mallofamerica&hl=en (​https:​/​​/​play.google.com​/​store​/​apps​/​details?id=com.moa.mallofamerica&hl=en​)
+
+Description:
+The Mall of America mobile app will help you: 
+• Quickly browse 500+ stores at Mall of America
+• Organize your trip in a convenient to-do list to help you track all the things you want to experience
+• Locate delicious dining options when you need to refuel after a long day of shopping
+• View upcoming events so you can plan your next brush with fame
+• Navigate your way around the property using a detailed map
+• Text a digital concierge or call guest services for help
+• Never forget where you parked using simple parking reminders 
+• Get inspired by showing you the latest trends, looks and more
+• Get information about the Mall
+
+Activities /Responsibilities
+Involving in the following activities.
+
+	Involved in the developing by using the Web Services.
+	Involved in designing part.
+	Used feed editor tags to get feed data.
+	Involved in end to end development.
+
+
+
+
+
+PROJECT- 9:
+
+Product Name	      : CICSO EMSP SALES
+Role		      : Android Developer
+Technologies	      : Android 4.3+
+Description:
+           EMSP  is a unique application, which an user can have different verticals based on their interest (like, Medical, Malls, Stadiums, Enterprise etc..,) using July Environment Wifi MX we are intiating this app to user.
+
+Activities /Responsibilities
+Involving in the following activities
+
+	Understanding the platform of WIFI MX.
+	Involved in the designing integrating engine classes in app.
+	Involved in the developing by using the Web Services.
+	Involved in end to end development.
+
+
+PROJECT- 8:
+
+Product Name	      : CICSO OPTUM
+Role		      : Android Developer
+Technologies	      : Android 4.4+
+Description:
+           OPTUM  is a unique new hospital application, which an user can book appointments as well as have online session with doctors. In this user can navigate to hospital location and inside hospital navigation is also possible. User can able to see health charts, upcoming,future and past appointments etc.
+
+Activities /Responsibilities
+Involving in the following activities
+
+	Understanding the client for the Software requirements and involved in preparing of Software requirement specification (SRS) and Functional Design Specification.
+	Involved in the designing.
+	Involved in the developing by using the Web Services.
+
+
+
+PROJECT- 7:
+
+Product Name	      : SweetSpot
+Role		      : Android Developer
+Technologies	      : Android 4.3
+Description:
+           SweetSpot  is a unique new eWallet app that sweetens the deal. Using the world’s largest beacon network, Sweetspot sends you the special offers and information based on your location and interests. And you can pay any way you like using the secure My Sweet Wallet. Everything you need in one place.
+
+
+Activities /Responsibilities
+Involving in the following activities
+
+	Understanding the client for the Software requirements and involved in preparing of Software requirement specification (SRS) and Functional Design Specification.
+	Participating in Technical Discussions with the client for modifications and maintenance.
+	Involved in the designing.
+	Involved in the developing by using the Web Services.
+
+
+
+
+PROJECT-6:
+
+Product Name	      : Yevadu Oficial
+Role		      : Android Developer
+Technologies	      : Android 2.2
+Market URL       : https://play.google.com/store/apps/details?id=com.imudra.yevadu (​https:​/​​/​play.google.com​/​store​/​apps​/​details?id=com.mulugu&hl=en​)
+
+Description:
+           Yevadu is a mobile application, a telugu movie starring Ramcharan, Shuthihassan. App contains simple, interesting 'yevadu' puzzle game, a user chat room  where you can chat any user across the world and much more videos and live streaming songs etc..
+
+Activities /Responsibilities
+Involving in the following activities
+
+	Understanding the client for the Software requirements and involved in preparing of Software requirement specification (SRS) and Functional Design Specification.
+	Participating in Technical Discussions with the client for modifications and maintenance.
+	Involved in the designing.
+	Involved in the developing by using the Web Services.
+	End to End App Development.
+
+
+PROJECT-5:
+
+Product Name	  : Mulugu Astro
+Role	 	  : Android Developer
+Technologies 	  : Android 2.2
+Market URL    : https://play.google.com/store/apps/details?id=com.mulugu&hl=en (​https:​/​​/​play.google.com​/​store​/​apps​/​details?id=com.mulugu&hl=en​)
+Description:
+		Sri  mulugu ramalingeswara Vara Prasad Siddhanti is World Famous for his Astrology Predictions . Sri Mulugu Sidhanthi is the Astana Jyothishya  Sidhanthi for kalahasthi Devasthanam .His predictions are followed by lakhs of people through Vaartha News Daily , Maa TV and www.mulugu.com .Mulugu Sidhanthi is the First Person to introduce Subhathidhi Calendar and Panchangam.  
+
+Activities/Responsibilities
+Involving in the following activities
+
+	Involved in designing the front end.
+	Involved developing by using Web services.
+	Understand   the requirements and analyze the feasibility of the Requirements.
+
+PROJECT-4:
+
+Product Name	       : Varun Motors
+Role	 	       :Android Developer
+Technologies 	       : Android 2.2
+Market URL        : https://play.google.com/store/apps/details?id=com.varunmotorswebapp&hl=en (​https:​/​​/​play.google.com​/​store​/​apps​/​details?id=com.varunmotorswebapp&hl=en​)
+
+Description:
+ 
+		Varun Motors is an mobile application which is mainly used to maintain the good communication between the customer and dealer .by using this application your able get the information like what are the new cars available in the market and what are the cars available for resale etc.
+Activities/Responsibilities
+
+Involving in the following activities
+
+	Web services Integration.
+	Code Review.
+	Designing the front end. 
+ 
+
+
+
+PROJECT-3:
+
+Product Name       : docManager
+Role	 	      : Android Developer
+Technologies	      : Android 2.2
+Description:
+DocManager is an Android Application that will provide a clear and easy access point to scan, edit, and upload the documents on the go. At the moment, people who desire to carry document or scan documents, do not have a one stop solution to the question "What is the most suitable and reliable way that satisfy my requirements, in document management using mobile?”. To answer this question, we brought forth this unique application to help people to scan, view, upload and search documents using mobile
+
+
+Activities/Responsibilities
+Involving in the following activities
+	Web services Integration.
+	Code Review.
+
+
+
+
+PROJECT – 2:  
+
+Product Name		: Infodotedu
+Client                		: Kubical Software.
+Role			: Android Developer. 
+Technologies		: Android 2.2
+Market URL              : https://play.google.com/store/apps/details?id=com.kubicals.universities.activities&hl=en (​https:​/​​/​play.google.com​/​store​/​apps​/​details?id=com.kubicals.universities.activities&hl=en​)
+
+
+
+
+Description:
+
+     Infodotedu is an Android Application that will provide a clear and easy access point to search for Universities. At the moment, students who desire to pursue higher studies abroad or in home country do not have a one stop solution to the question "What is the most suitable university that caters to my requirements, in the world/country/state?”. To answer this question, we, at Kubical software have brought forth this unique application to help students hit the bull’s eye in university selection with a comprehensive list of World’s top 100 universities, top 100 universities in a country, and top 100 universities in a state.
+
+Activities/Responsibilities
+
+Involved in the following activities
+	SQLite for Local Database
+	 Used Web services.
+	Code Review, Integration and Testing.
+
+
+
+PROJECT – 1:  
+
+Product Name		: HayaGriva
+Role			: Android Developer. 
+Technologies		: Android 2.2
+Market URL              : https://play.google.com/store/apps/details?id=com.hayasree.android.hayagriva&hl=en (​https:​/​​/​play.google.com​/​store​/​apps​/​details?id=com.hayasree.android.hayagriva&hl=en​)
+
+
+
+
+Description:
+
+Haya means horse and Griva means neck. The horse faced form of Vishnu, is the god of Education or Knowledge and prosperity according to the scriptures. One who prays lord hayagriva shall be blessed with all Knowledge and wisdom. Legend has it that during the creation, the demons Madhu and Kaitabha stole the Vedas from lord Bhramha. Lord Vishnu took the Hayagriva form to recover the Vedas from the demons.
+
+
+Activities/Responsibilities
+
+Involved in the following activities
+	SQLite for Local Database
+	 Used Web services.
+	Code Review, Integration and Testing.
+	End to End App Development.
+
+Declaration:DECLARATION DEDECLARATION
+                   
+                   The above statements true to the best of my knowledge and belief.
+
+                                                            
+Date:                                                                                                         (Signature)    
+                                                                                                 
+Place:                                                                                                        A Balakrishna
+	
+

@@ -1,0 +1,58 @@
+
+
+LAKSHMIDEVI K
+
+                        		                                         E-mail: katepallilakshmi427@gmail.com 
+ Mobile: +91-9739692846.
+       Profile Summary:         
+                            
+Having 1+ years of experience as Software Engineer primarily in development in different type of applications.
+Good exposure in J2SE, J2EE technologies like Servlets, Jsp.
+Hands on experience in application development using Spring and Hibernate.
+Good knowledge in ORM Framework like Hibernate.
+Proficiency in programming with different Java IDE's like Eclipse IDE.
+Exposure on different Java Tools i.e. Log4j.
+Adequate Knowledge on Servers like Apache Tomcat.
+Ability to learn new technologies which will help to apply in new applications
+
+      Professional Experience:
+Working  as a software Engineer for "Tarang  Software Technologies" Bangalore from May 2014 to till date.
+         Educational Qualification:
+B.tech (2009-2013) with 65% From Gouthami Institute of Technology & Management For Women,Proddatur.  
+
+       
+     Technical Skills:
+          J2EE Technologies                                 :      JDBC, Servlets, JSP 
+          Frame Works                                          :      Springs
+          ORM tools                                                 :      Hibernate
+          Servers                                                      :      Apache Tomcat 
+          Databases                                                 :      Oracle
+          Development Tools                               :      Eclipse
+          Others                                                        :      Log4j
+          Operating Systems                                 :      Windows 7
+   Project: 
+
+
+    	Title                      :     SIM Registrations
+    	Client	              :     MTN		
+                      Duration              :     August  2014 to Till date.    
+    	        Environment     	:     Java, J2EE, Hibernate, spring, Oracle.
+
+
+Description:
+
+	This application allows viewing all the Subscriber registration done on day to day basis by all agents and the registration done from the GUI. It also allows managing the agents who will be using the mobile application in the field and keep a track of what all information they have registered. If the user forgets the password, then click on Forget Password option where the user needs to provide the username, phone number and the email id which was given at the time of user registration. The password will be send as an SMS to the particular user. If the password of the user has expired the user has to click on the Reset Password option to reset the password.
+
+ Roles and Responsibilities:
+	
+Understanding the requirements and involved in the development of user interfaces using JSP.
+Developed Controller Classes and Command Bean classes using spring and implementing MVC architecture.
+Responsible for developing Java code using business logic.
+Involved in Unit Testing of Java code and fix the bugs.
+Implemented Hibernate based persistent operations.
+
+
+
+
+                                                                                              		
+

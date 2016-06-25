@@ -1,0 +1,141 @@
+ 
+
+Rambabu Tulugu 
+ 
+Date of Birth: 10-07-1993 
++91 8747855954 
+ ram.tulugu@gmail.com 
+ 
+ 
+Education 
+
+•Rajiv Gandhi University of Knowledge Technologies(IIIT Nuzvid) 
+
+B.Tech. Computer Science and Engineering 
+
+ Cumulative Grade Point Average (CGPA) : 8.65/10 
+
+• Rajiv Gandhi University of Knowledge Technologies(IIIT Nuzvid) 
+
+Pre University Course. MBiPC  
+
+ Cumulative Grade Point Average (CGPA) : 8.48/10 
+
+•Sri Sai Public School 
+
+Board of Secondary Education, Andhra Pradesh 
+
+ 90.00% (aggregate) 
+
+Akkarapalli
+Santhakaviti, Srikakulam
+Andhra Pradesh, India – 532123
+
+           Nuzvid, Andra Pradesh 
+
+(June 2010 - May 2014)
+
+Nuzvid, Andhra Pradesh
+(2008 -2010)
+
+Mandarada, Andhra Pradesh
+(2008)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+Achievements 
+
+ 
+ 
+
+www.codechef.com (2013-2-11 to 2013-2-14). 
+
+•  Secured 29th rank in worldwide programming contest   ./EXECEUTE Prefest contest organized by 
+•  Secured 1st rank in college level programming competition. 
+•  Awarded certificate of merit for the robo-opus competition organized by robosapiens India along 
+•  Awarded first prize for university level quiz competition on c programming and data structures, 
+
+with IIT-Delhi. 
+
+database management systems, algorithms 
+
+•  I am the mandal topper in SSC 10th standard, 2008. 
+•  I am one of the toppers of Computer Science and Engineering in my College. 
+
+ 
+
+ 
+
+ 
+ 
+
+  
+ 
+ 
+
+ 
+Work Experience 
+ 
+Associate Software Engineer (02-June-2014 to present) 
+
+Working as Associate Software Engineer at iViZ Techno Solutions Private Limited. 
+
+ 
+Software Development Intern (18-April-2013 to 15-July-2013) 
+
+As part of the academic curriculum, done an internship at Global Infosys as a Software Developer. 
+
+ 
+Projects 
+ 
+N Messenger (Present) 
+
+Designed and implementing instant messaging app for android mobile phones which is used to chat    
+in any language without typing. 
+
+Flexi Forms Technology 
+
+As part of internship I had designed and implemented new technology “Flexi Forms” which is used 
+to conduct examinations, registrations and surveys through web and also through android phones 
+with Mobile Forms App.                                   
+Project URL: http://www.rbiat.com 
+
+Remote Controller  
+
+As part of the final year project, developed an android application by which we can control 
+computers. It works as mouse, keyboard. 
+
+  
+ 
+Technical Skills 
+ 
+
+Programming Languages 
+Mobile Technologies                                
+Web Technologies 
+Scripting Languages 
+Query Languages 
+Operating Systems 
+Others 
+
+:  C, Java 
+:    Android 
+:  HTML, CSS, JavaScript, JQuery, XML, JSON 
+:  PHP 
+:    MySQL 
+:  Microsoft Windows, Linux 
+:  Selenium, Xpath, TestNG 
+
+ 
+
+

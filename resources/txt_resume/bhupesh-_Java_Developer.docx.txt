@@ -1,0 +1,48 @@
+BHUPESH
+#2193,17th A Main,5th D Cross 
+Kodihalli,Hal 2nd Stage,Bangalore
+Cell: 8123502846,8054844045
+		Email: bhupesharora00@gmail.com
+
+CURRICULUM VITAE
+
+Career Objective:
+To work in a progressive organization which can expand all my knowledge and provided me exciting opportunities to utilize my skills and qualification to produce result fidelity.
+Academic Qualification:
+Technical Skills:
+Programming Languages : C++ , Java & PHP .
+Area of Interest : Data Structure &  Data Mining.
+Mobile OS : Android
+Work Experience:
+	Company	:  SRM Research
+	Position	:  Member of Research Group	
+Research Project:
+Title: Hierarchical Agglomerative Clustering using K-Nearest Neighbor and Digraph
+Description: Main work of this work is to implement an effective hierarchical agglomerative clustering with the use of k-nearest neighbor and digraph. This proposed method is based k-nearest neighbor and indegree and outdegree, fundamental concepts in graph theory.
+
+Projects:
+Title: Discussion Forum in Atiha(SRM university product) for distance learning
+Type: Web Application
+Description: Discussion forum such that easy for student to collaboration between each other and with teachers.
+Title: Puthiya Thalaimurai TV
+Type: Android mobile Application
+Description: Official Puthiya Thalaimurai News Channel App
+Google Play Link: 
+Title: PT Indru
+Type: Android mobile Application
+Description: PTIndruis the first Smart Paper from the house of Puthiyathalaimurai to enable digital users to be updated with the latest online news via audio, video and text.
+Google Play Link: 
+Title: Multiple Windows in Android Phone
+Type: Android Framework 
+Description: Customize android framework such that user can see multiple window at same time and user can focus particular app with single tap to that particular app. 
+Extra Curricular Activities:                                                           
+Qualified GATE exam with 98.7 percentile.
+Organize event in UTKANSH 2013.
+Interest and Hobbies:                                                           
+Play Table Tennis
+Traveling
+
+Declaration:                                                           
+I here by declare that the information mentioned above is true to the best of my knowledge and I bearing the responsibility for the correctness of the above-mentioned particulars.
+Date: 										[Bhupesh]
+Place: 

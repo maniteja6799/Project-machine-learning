@@ -1,0 +1,78 @@
+Curriculum Vitae
+Suresh Pawar					E-Mail: suresh.mp12@gmail.com
+							Phone: +91 8904615728
+
+					
+Career Objective:
+
+  To effectively contribute my skills and knowledge to the organization and give my best in my professional pursuit for overall benefit and growth of the organization, I serve by facing the challenges.
+Technical Summary:
+
+Designed, developed and tested Android applications using Eclipse 
+User Interface development using Android SDK and used tools such as Android Emulator, ADB, DDMS, Log Cat etc.
+Strong hands on experience parsing in XML and tool Sybase.
+Strong hands on experience in Mobile database like SQLite, MYSQL.
+Implemented Facebook and Google plus integration in Android Project.
+Implemented Payment option integration in Android project.
+
+Work Experience:
+
+Worked as a Software Engineer in NxtStepEduConnect,Bangalore for 6 months i.e. 7th Feb 2015 to 7th Aug 2015.
+Working as a Software Engineer in Kriative Incorporation Private Limited,Bangalore from Aug 18 2015 to till date.
+
+Developed App:
+
+Android Project:               
+
+Title:Nxtstepz
+Technology used: Android sdk, MySql database, JSON Parsing.
+Description: NxtStepZ is platform to create, innovate with like minded people.A new direction to learning with group studies, projects and converting everything to internship and jobs. NxtStepZ enable you to keep closer to industry via industry updates about what going on? What skill will get you jobs or internship.
+Click  Link
+
+
+Title:ScaanoFitness
+
+Technology used: Android sdk, MySql database, JSON Parsing,
+
+Description: Scaano is an online sports community where you can find the detailed listing of Gym, Sports Club, Yoga Classes, and many more activity centers. Scaano has also come up with a unique solution where you can subscribe with us and can get access to any Activity Center depending on the Subscriptions.
+Click Link :
+Title:Scaano Partner
+
+Technology used: Android sdk, MySql database, JSON Parsing,
+
+Description: Scaano marketplace is Indias leading platform for selling fitness and health products online. Be it a trainer, academies or fitness centers, make your online presence and sell your subscription/membership online on Scaano with minimum investment.
+
+Click Link: 
+
+ Technical Skills:
+
+Operating Systems: Windows XP/7, Android.
+Programming: Core Java, C, C++, Android..
+Mobile app development: Android.
+Worked Android SDKS: KitKat, Lollipop, and Marshmallow.
+Web Technologies: XML.
+Integrated Development Environment: Eclipse IDE, Android Studio.
+Databases:SQLite.
+ Academic Qualification:
+
+
+
+
+ Personal Strength:
+
+Hard working and quick learner.
+Good Analytical and logical skill.
+Dedication and Determination to Succeed. 
+
+
+Declaration:
+	I hereby declare that the information given above is true to the best of my knowledge.
+
+
+
+
+Date:	04/03/2016							
+Place: Bangalore  						            (Suresh Pawar)		
+
+
+

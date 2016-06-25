@@ -1,0 +1,127 @@
+Abhijeet Jadhav
+Email: abhijeet1289@gmail.com 
+Phone: +91-9970335229
+
+
+Objective:
+
+	To pursue a career in an esteemed organization, that can implement my skills, knowledge & intelligence to achieve the organization goals through continuous learning & self-development. 
+
+Experience Summary:
+
+	Presently working as a Software Engineer (Android) with HeyPillow Technology Pvt.Ltd.,
+Bangalore since October 2015 till date.
+	Worked as Software Engineering Analyst with Accenture Services Pvt. Ltd. from May 2015
+to October 2015
+	Worked as a Software Engineer with Winjit Technologies Pvt. Ltd, Nashik from April 2013 to 
+May 2015.
+
+Technical Skill Set:
+            
+Languages	Java, C, C++, HTML
+Framework:	Android, LWUIT (J2ME)
+Database:	SQLite, MySQL, SQL Server 2005, 2008 R2
+Operating Systems:	Windows XP, Win 7, Win 8, Mac OS, Linux- Ubuntu.
+IDE:	Android Studio, Eclipse, Visual Studio 2010
+Version control tools used:	GIT, SVN, TFS
+Other tools used:	Phabricator (code review), Jira (Agile), Mantis (Bug tracker).
+Libraries Used:	Retrofit, Picasso, Otto, OkHttp, ButterKnife.
+ 
+Work Summary:
+
+	Have developed featured and consumer apps in android with REST and SOAP web services. Proficient in using various external as well as support libraries while developing most of the apps that are conferred with above 4.5 rating on Google play store. Have considerable knowledge of multi-threading and performance optimization.
+
+
+HeyPillow
+Client:	HeyPillow Technology Pvt.Ltd.
+Description:	Property search and real estate app to find nearby and specific properties with map, sort and filtering
+Technologies Used:	Android with Rest API, Maps with clustering
+Team Size:	1
+Responsibilities:	1. Worked on code generation, test cases for news module MVP pattern using libraries such as Retrofit, Otto, UniversalImageLoader, Glide2. Refining product design for material design and performance optimization.3. GCM notifications and social sharing.
+Play Store Link:	https://play.google.com/store/apps/details?id=com.bigdropinc.heypillow
+
+
+
+
+
+
+NewsHunt
+Client:	Verse’ Innovation, Bangalore.
+Description:	It is a consolidated news application which has significant number of news papers as news sources. It also has a book section which consists of various payment options.
+Technologies Used:	Android with Rest API. Also used Crashalytics, Ads and Flurry SDK.
+Team Size:	8
+Responsibilities:	Worked on-site for code generation, test cases for news module MVP pattern using libraries such as Retrofit, Otto and Picasso.
+Play Store Link:	https://play.google.com/store/apps/details?id=com.eterno&hl=en
+
+Employee Locator
+Client:	EAA - Executive Authority Affairs Government of UAE
+Description:	A role based app to locate the real time position employee with iBeacons within any organization with the sync to the server.
+Technologies Used:	Android with Blue-tooth sensor, iBeacon SDK, Firebase online database.
+Team Size:	3
+Responsibilities:	Code generation for background services to fetch Blue-tooth vicinity by co-ordinates, sync and displaying JSON parsed response at admin.
+
+Recovery Agent Locator
+Client:	NDCC Bank, Nashik
+Description:	An app to trace the location of the recovery agents of NDCC bank with a periodic sync to verify the completion of daily targets with respect to location of the customer's address. The status of the daily targets was monitored and traced with the help of route drawn on map.
+Technologies Used:	Android with Location based services and Firebase on-line database.
+Team Size:	2
+Responsibilities:	End to end code generation with background services for location tracking, periodic data sync, optimized usage of battery and data consumption.
+Play Store Link:	Used for internal purpose in organization.
+
+AppAdda
+Client:	Winjit Technologies Pvt. Ltd, Nashik.
+Description:	AppAdda is a product of Winjit to promote contents like apps, music and videos with AppAdda box over Wi-Fi. For J2ME, the Wi-Fi enabled devices requested the AppAdda box and the other devices requested the server for the content.
+Technologies Used:	J2ME, Web services with SOAP
+Team Size:	1
+Responsibilities:	Created custom database in XML with master and transaction schemas for persistent storage of user profile and content. Parsing of XML from SOAP response and initiating the installation of the apps in J2ME.
+
+NFC Based Loyalty Management
+Client:	United Techtsa (Anil Printers Pvt. Ltd), Nashik.
+Description:	It was a sponsored B.E. project used to track loyalty customers in a departmental store.
+Technologies Used:	Android with web services using SOAP
+Team Size:	3
+Responsibilities:	Parsed and rendered the data fetch from web service. Used NFC Manager to accept data from NFC cards from the loyal customers also performed write operation to add loyalty points.
+
+Consumer Apps:-
+
+	                    Health-care apps created for health-care professionals and patients in Australia and France for symptoms, awareness, treatment schedule, medication, appointment reminders, camera and treatment diaries to log treatment results and dosages and informative resources. 
+Project management successfully handled through Jira. Following is the list of apps with links on the play store of Australia:
+
+My Spiriva	https://play.google.com/store/apps/details?id=com.princeton.myspiriva&hl=en
+My Adcetris	https://play.google.com/store/apps/details?id=com.princeton.myadcetris&hl=en
+My Revlimid	https://play.google.com/store/apps/details?id=com.princeton.revlimid&hl=en
+My Cartia	https://play.google.com/store/apps/details?id=com.princeton.mycartia
+M’@ Grandir	https://play.google.com/store/apps/details?id=com.princeton.mgrandir&hl=en
+My Renagel	https://play.google.com/store/apps/details?id=com.sanofi.au.myrenagel&hl=en
+
+
+
+Android Specific UI Contribution:
+
+	Have rendered multi-coloured graph with different zone pattern and line colours.
+	Implemented partial blurring in an activity.
+	Rendered images and lists with parallax effect.
+	Created custom calendar utility library with multi-day selection and custom week-start day.
+			
+Educational Qualification:
+
+B.E. Computer Science (2012) : 		S.I.T.R.C., Nashik. (Pune  University)
+Diploma in Computer Technology (2009) :	K. K. Wagh Polytechnic.
+SSC from Nashik Board (2005) :		K. N. Kela High School.
+
+Personal Details:
+
+Name: 			Abhijeet Vivekanand Jadhav
+Date of Birth: 		26th Nov 1989
+Nationality: 		Indian
+Marital Status: 		Married
+Designation: 		Software Engineering Analyst
+Languages Known: 	English, Hindi and Marathi
+Email: 			abhijeet1289@gmail.com 
+Address:			1069, 1st floor, 11th Main, J. P. Nagar 1st phase, Bangalore 560078, Karnataka.
+
+
+
+
+Place:  BANGALORE  					 	         		ABHIJEET JADHAV
+

@@ -1,0 +1,129 @@
+
+Poornima T
+             9738563883
+Software Engineer I
+                                           poornima.aras@gmail.com
+
+
+
+SUMMARY
+1.5 Years IT experience into feature development, maintenance and support
+of online E-commerce applications.
+Having very Strong experience on Java, Data Structures, J2EE
+Good knowledge of travel domain focusing on bank loyalty programs and
+partner network platform.
+Ability to quickly learn and apply new technologies and concepts to
+deliverables.
+Strong problem solving skills
+
+
+EDUCATIONAL BACKGROUND
+
+
+TECHNICAL SKILLS
+
+
+|Java             |Core Java (Multithreading, Collection, JDBC, Exception          |
+|                 |Handling), Servlet, JSP, RESTful Webservice, JavaScript         |
+|Testing Framework| Junit.                                                         |
+|Data Base        |SQL, Triggers.                                                  |
+|Web/App Servers  |Tomcat6.0.                                                      |
+|IDEs             |Eclipse, Intellij                                               |
+|Tools            |SVN, GIT, STASH, ANT, JIRA.                                     |
+|Methodology      |Agile, SDLC.                                                    |
+|Awareness        |Android, C ,C++,monitoring logs                                 |
+
+
+EMPLOYMENT EXPERIANCE
+
+Designation:  Software Engineer
+Organization:  Orbitz India
+Duration:  June 2014 - till date
+
+PROJECTS DESCRIPTIONS
+
+1)  LPN (Loyalty Partner Network) (Team Size - 8)
+Software Engineer I : June 2014 to present
+Bank customers are encouraged to continue to shop & book Air, Car, Hotel &
+Packages on Orbitz loyalty partner network using rewards points.
+As part of LPN, I worked on following :
+Involved mainly in feature development, maintenance and support  many prod
+issues.
+Agile process: Was involved in planning, estimation, task allocation, code
+review, demo to client, responsible for giving technical and functional
+training to new team member.
+Worked on mainly on  java, jsp, debugging, monitoring logs
+
+2)Inspire Agree (Sep 2013):
+Software for Pigmy deposit scheme where money can be deposited into an
+account on daily basis. The unique characteristic of this scheme is that a
+bank agent collects the money daily, from the account holder's doorstep.
+Designing UI forms for  Various access permissions given to clients of this
+software to create, edit, delete and  view the details of Customer, Agent,
+Plan, Designation, State and Branch. And also Bond generation, Welcome
+Letter, Statement Summary, Renewal receipt.
+Processing transactions request from frontend, store in DB, fetch from DB.
+Agent tree Hierarchy - Commission given to the Agent depends on his level
+in the tree
+Day report generation by fetching day to day transactions from DB.
+Frontend: PHP, CSS, JavaScript             Backend: SQL Server 2005
+
+3) Easy guide for visually impaired (Shortlisted by CSI for Android Mobile
+Application Development    Contest-April 2013)
+The main idea is to provide a solution which helps visually impaired and
+blind to use Android phones and get along with their daily lives.
+Worked on text to speech android API to provide users to send text
+messages.
+Worked on navigation aid that will greatly help people with visual
+impairment navigate the streets using Google Map navigation web service
+API.
+Language: JAVA          Platform: Android           Tools: Eclipse (IDE)
+
+4) Text Editor (April 2012) - individual contribution:
+Text editor provides most frequently used features of an editor and
+creating an interactive environment.
+Worked on File operations such as creating a new file, save, open existing
+file using various file functions
+Worked on Edit operations such as copy, paste, undo, select, replace using
+various String functions.
+Language: C++                                  Tools: Visual Studio
+
+
+SOME HIGHLIGHTS
+
+Won Rookie Award in the Orbitz Day Away (Hackathon).
+Team spot awards
+Selected among 10 best projects in Android Mobile Application Development
+contest Conducted by 27th CSI Karnataka Students Convention.
+Foosball Runner up at Orbitz India.
+
+
+
+
+POORNIMA T
+-----------------------
+|Course   |Institution/University   |Year    |University/Board |Marks/Class      |
+|B.E      |B.M.S College of         |2014    |Autonomous under |8.72             |
+|         |Engineering              |        |VTU              |(Distinction)    |
+|         |( BMSCE)                 |        |                 |                 |
+|P.U.C    |National college,        |2010    |P.U.E            |76.5%            |
+|         |Bangalore                |        |                 |                 |
+|S.S.L.C  |Roan international       |2008    |K.S.E.B          |84.64%           |
+|         |school, Bangalore        |        |                 |                 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

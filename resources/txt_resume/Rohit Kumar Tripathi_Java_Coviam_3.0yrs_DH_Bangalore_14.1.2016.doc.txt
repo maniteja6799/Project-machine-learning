@@ -1,0 +1,194 @@
+
+ROHIT TRIPATHI SOFTWARE DEVELOPER
+
+Summary
+
+To gain knowledge and build a career in a challenging and professional
+environment that gives good opportunities to learn and apply the latest
+technologies leading to professional growth and seeking a position to
+utilize my skills and abilities in the industry while being resourceful,
+innovative and flexible.
+
+Employment ( 3 Yrs )
+
+|Rokitt Technology LLP           |       Bangalore                |
+|Software Engineer                                |               |
+|                                                 |May 2015 to    |
+|                                                 |Current        |
+|Working as a Backend Software Developer(Java) .  |               |
+|Using Spring Boot 4 for dependencies injection   |               |
+|and creating objects.                            |               |
+|Using Amazon Web Service for Storing Data(Cloud  |               |
+|computing).                                      |               |
+|Using Gradle as a project building tool and Git  |               |
+|for version controlling.                         |               |
+|Using JIRA for bug tracking issue tracking and   |               |
+|project management software.                     |               |
+|Using Jenkins for code deployment and Sonar      |               |
+|runner for bug controlling.                      |               |
+|Using Liquibase library for tracking, managing   |               |
+|and applying database schema changes.            |               |
+|Using Ruxit for application performance          |               |
+|management and availability monitoring for web   |               |
+|apps.                                            |               |
+|                                |                                |
+|Tarams Technology  Pvt Ltd      |    Bangalore                   |
+|Software Developer              |                        Jan 2013|
+|                                |to May 2015                     |
+
+Education
+
+Institute of Information Technology Gwalior
+
+Bachelor of  Enginnering (B.E.)
+
+CPI : 7.15
+
+M. P Board
+12th (89%)
+
+M  P Board
+10th (78%)
+
+Projects
+
+Travel Backend  Hotels
+
+Domain -- Travel
+Tools  Spring boot 4, Gradle, AWS, Postgres, Jenkins, Sonar,, Eclipse,
+Macbook Pro.
+
+Our objective is to Integrating  third  party  apis  from  different  vendor
+(TBO) and creating  our  server  for  collecting  data  for  Travel  Backend
+Hotels platform at backend level.
+
+Travel Backend  Flights
+
+Domain -- Travel
+Tools  Spring boot 4, Gradle, AWS, Postgres, Jenkins, Sonar,  AWS,  Eclipse,
+Macbook Pro
+Our objective is to Integrating  third  party  apis  from  different  vendor
+(Galileo, TBO) and creating
+our server for collecting  data  for  Travel  Backend   Flight  platform  at
+backend level.
+
+Payment Gateway with PAYU
+
+Domain -- Payment
+Tools   Spring boot 4, Gradle, AWS, Postgres, Jenkins, Sonar, AWS, Eclipse,
+Macbook Pro
+Our objective is to send buyerData with all the required field according to
+PayU Api to TravelBackend and redirect page to thsnk you psge  and save all
+the information to UI.
+
+Contact
+
+  rohit.k.tripathi89@gmail.com
+
+  8197345687
+
+  Bangalore, Karnataka
+
+Skills
+
+LANGUAGE SKILLS
+
+JAVA
+
+Data Structures
+
+Algorithms
+
+C Programming
+
+HTML
+Java script
+CSS
+
+
+SOFTWARE EXPOSURE
+
+
+Spring Boot 4
+
+Amazon Web Service
+
+Postgresql
+
+Gradle
+
+JIRA
+
+Hibernate
+
+Liquibase
+
+Sonar
+
+Jenkins
+
+Maven
+
+Git
+
+Protocol buffer
+
+DOMAINS
+
+E- Commerce
+Travel Domail
+
+SOFTWARE TOOLS
+
+Eclipse
+
+SQL Power Architect
+
+MSOffice
+
+SourceTree
+Purchase and Registration integration system(PARIS)
+Domain - E-commerce
+Tools   Java 1.6, JSP2.0, Servlet 2.4, Java Beans, JavaScript, AJAX, Xml,
+Soap (Jax-ws).
+Our objective of this project is to provide the purchase and registration
+functionality  of the other McGraw-
+Hill Education apps like Connect,BlackBoard,Create,MhCampus etc.All All
+McGraw-Hill
+Education user will purchase product and register through  PARIS.  In  PARIS
+flow user can update and see his profile and product,can change password.
+Paris Admin Tool (PAT)
+Domain - Admin
+Client - McGraw - Hill Education
+Tools   Java 1.6, JSP2.0, Servlet 2.4, Java Beans,  JavaScript,  AJAX,  Xml,
+Soap (Jax-ws).
+Paris Admin Tool is an application  which  provides  the  functionality  for
+paris user. Thier are different  module  like  Instructor  validation  tool,
+User management tool, code generation tool, Institutional deal set up,  Pass
+code generation tool, Create offer  tool.  These  module  are  for  specific
+purpose to manage user and   product.  Instructor  validation  tool  is  for
+validate the user, create new instructor and changing the
+ profile of the instructor.
+
+Resource Management System
+Domain - Resource Availability
+Client - McGraw - Hill Education
+Tools   Java 1.6, JSP2.0, Servlet 2.4, Java Beans,  JavaScript,  AJAX,  Xml,
+Soap (Jax-ws).
+RMS  is an application which provides the core functionality  for  paris,PAT
+and  other  application.  There  are  different   module   like   Instructor
+validation tool, User management tool, code generation  tool,  Institutional
+deal set up, Pass code generation tool, Create offer tool. These module  are
+for specific purpose to provide all information related to other module  and
+also connect with DB and used other  application  using  web  services  like
+payment.
+ EXTRA ACTIVITIES
+
+|I actively participated in skit in College|2011               |
+|Techfest Yuvanah 2k11                     |                   |
+|Avishkar Science Model (MNNIT Allahabad)  |2011               |
+|District level Competition  Best Essay   |2007               |
+|Writing                                   |                   |
+|S.V.M. Inter College  First PrizeScience |2006               |
+|exhibition                                |                   |
+

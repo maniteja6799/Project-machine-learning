@@ -1,0 +1,148 @@
+
+
+
+PRANAV KURBET
+Bangalore, India.
+pranavnew@gmail.com (​mailto:pranavnew@gmail.com​)
++91 8095283618
+
+SUMMARY
+Seeking for challenging opportunities where I can apply my knowledge and experience to achieve positive results.
+
+PROFESSIONAL HISTORY
+
+	Proficient in object-oriented design, data structures, problem solving, complexity analysis, and debugging.
+	Sound knowledge in Android Sdk, Web Services, JSON, Eclipse IDE, SQLite database, Activities, Services, Broadcast Receivers, UI Designing.
+	Able to design the applications from the requirement and Known for writing efficient, maintainable and reusable code that preserves privacy and security.
+	Expert in the interaction between various devices and different versions of Android.
+	Quick learning, implementation and easy adoption to new technologies.
+	Good at resource utilization and task management.
+
+CERTIFICATION/ PUBLICATION
+
+	CCNA – Certified, January 2012.
+Cisco Id: CSCO12010166.
+	IJCSET PUBLICATION – Published paper on Flexible Provisioning and Integrated Load Balancing of Resources in the Cloud, May 2012.
+ISSN: 2231-0711.
+
+EDUCATION
+
+Masters in Computer Networks & Engineering (78.63%), DSCE Bangalore. 08/2012.
+Bachelors in Computer Science & Engineering (61.44%), TCE Gadag. 06/2010.
+
+TECHNICAL SKILLS
+
+Operating Systems: Windows 7/8, Ubuntu, CentOs.
+Programming Languages: Android 4.1 (Jelly Bean), Android 4.4 (KitKat), Android 5.0 (Lollipop), Android 6.0 (Marshmallow), Core Java. 
+Parsing Technique: JSON Parsing and XML Parsing.
+Databases: SQLITE.
+Tools: Eclipse Juno ADT, Android Studio.
+Repositories: SVN
+
+WORK HISTORY
+Programmer Analyst
+IDrive Software India Pvt. Ltd                                                               July 2013 – Present, Bangalore.
+
+PROJECT 1: IBackup (https://play.google.com/store/apps/details?id=com.prosoftnet.android.ibackup.activity&hl=en)
+Description:
+	Backup and Restore contacts, photos, videos, SD card files, call logs, calendar, text messages, and apps with a single tap.
+	Selectively backup and restore only the stuff you need.
+	Browse and download backed up files from all of your linked devices and computers.
+	Share a single file/folder or multiple files/folders with anyone using a single link. Set permissions and passwords.
+	Automatic mobile upload protects your photos and videos as soon as they are taken via wi-fi or cellular data (if you choose).
+	Improved gallery features include easy viewing of pictures, video play, and more.
+	Security features: All data is encrypted using 256-bit AES encryption. Optional private key encryption ensures no one, except you, can access your data.
+Role:
+	Involved in coding and development of GUI, Backend.
+	Localization of IBackup in Spanish, German & French.
+Responsibilities:
+	Creating front-end using Android Layouts and widgets.
+	Understanding existing project requirements.
+	Analysis of Technical Specifications.
+	Involved in coding of business logic using core java and android Apis.
+	Involved in development of presentation layer using Android Layouts.
+	Accessing the backend part using SQL queries from front end.
+
+PROJECT 2: IDrive (https://play.google.com/store/apps/details?id=com.prosoftnet.android.idriveonline&hl=en)
+
+Description:
+	Backup and Restore contacts, photos, videos, calendars, texts, apps, and documents (including .doc, .pdf, .zip and more) with a single tap.
+	Local backup for faster restores via the IDrive Wi-Fi device. 
+	Easily sync files between all linked devices.
+	Link your devices to a single account and access your data from anywhere.
+	Instagram and Facebook Backup.
+	Selectively backup and restore files.
+	Share files and folders over a single, secure link.
+	Automatic upload option protects your photos and videos as soon as they are taken via wifi or cellular data.
+	Schedule recurring backups by day and time.
+	Security features: 256-bit AES encryption, Private key encryption ensures only you have access to your data, Lock app with a passcode, Easily unlink devices which are lost or stolen
+Role:
+	Involved in coding and development of GUI, Backend.
+	Localization of IDrive in Spanish, German & French.
+Responsibilities:
+	Creating front-end using Android Layouts and widgets.
+	Understanding existing project requirements.
+	Analysis of Technical Specifications.
+	Involved in coding of business logic using core java and android Apis.
+	Involved in development of presentation layer using Android Layouts.
+	Accessing the backend part using SQL queries from front end.
+
+
+
+
+
+PROJECT 3:  Talq
+(https://play.google.com/store/apps/details?id=com.idrive.talq&hl=en)
+
+Description:
+	Look up businesses in the talq directory--from restaurants to retailers, gyms to medical offices--and start a chat. Rather than wait to be helped by phone, email, or standing in line, you’ll quickly receive a response via message in the app. 
+	For businesses, talq helps build lasting relationships with quick response rates that customers will appreciate. Adding staff accounts makes it easy to have multiple team members responding to incoming requests.
+	Features: 
+	CHAT with multiple businesses at once to get service fast.
+	SYNC your chats between devices to continue the conversation from where you left off.
+	QUICK response rates keep customers satisfied.
+	BUILD A REP by giving instant support to customers. 
+Role:
+	Involved in coding and development of GUI, Backend.
+Responsibilities:
+	Creating front-end using Android Layouts and widgets.
+	Understanding existing project requirements.
+	Analysis of Technical Specifications.
+	Involved in coding of business logic using core java and android Apis.
+	Involved in development of presentation layer using Android Layouts.
+	Accessing the backend part using SQL queries from front end.
+
+PROJECT 4:  IDrive One
+(https://play.google.com/store/apps/details?id=com.prosoftnet.android.idriveone&hl=en)
+
+Description:
+	Extend your Mobile Storage
+	Install the IDrive One app and transfer your photos and videos from multiple mobile devices to the IDrive One device and create your own custom media library, by virtually extending your mobile storage.
+	This app allows you to browse through files stored on the device with thumbnail view, or view them in full resolution, stream music and videos.
+	No Internet needed.
+
+	Features: 
+	Automatically recognizes all your photos and videos from your Android and transfers them to the device. 
+	View and play your files within an effective Wi-Fi range of 150 ft.
+	You can stream your favorite music or videos to your mobile – without downloading.
+	Access all your media files stored on the device without Internet
+Role:
+	Involved in coding and development of GUI, Backend.
+Responsibilities:
+	Creating front-end using Android Layouts and widgets.
+	Understanding existing project requirements.
+	Analysis of Technical Specifications.
+	Involved in coding of business logic using core java and android Apis.
+	Involved in development of presentation layer using Android Layouts.
+	Accessing the backend part using SQL queries from front end.
+
+PERSONAL PROFILE
+
+Date of Birth: 11/04/1989
+Languages: English, Kannada, Hindi, Marathi.	
+LinkedIn Profile: https://in.linkedin.com/pub/pranav-kurbet/40/978/789
+
+									          (Pranav Kurbet)
+
+
+

@@ -1,0 +1,135 @@
+
+|Arjun Sreepada                        |Phone: 91-9449494434       |
+|                                      |Email: arjunsreepad@outlook|
+|                                      |.in                        |
+
+
+[pic]
+
+
+Professional Summary:
+    > Currently I am SG-GSC for 2+ years  as  a  senior  Java  Developer  in
+      Securities and portfolio maintenance domain. I carry  with  myself,  a
+      significant amount of exposure to Agile Methodology, JAVA development,
+      L3 Support and maintenance life cycle process.
+
+
+
+Technical Expertise:
+
+
+|Operating System       |Windows                             |
+|                       |                                    |
+|Basic Skill set        |Core JAVA                           |
+|                       |                                    |
+|                       |                                    |
+|                       |                                    |
+|                       |                                    |
+|                       |                                    |
+|                       |                                    |
+|                       |                                    |
+|                       |                                    |
+|                       |Hibernate                           |
+|                       |Spring IOP                          |
+|                       |Web Service (REST and SOAP)         |
+|                       |JSF                                 |
+|                       |Servlet                             |
+|                       |Spring AOP                          |
+|                       |Spring Security                     |
+|                       |JDBC                                |
+|                       |JOOMLA                              |
+|                       |                                    |
+|Build Tool             |Apache Maven                        |
+|                       |                                    |
+|App/Web Server         |Apache Tomcat,                      |
+|                       |Oracle Web Logic Server 12c         |
+|                       |                                    |
+|Database               |Oracle                              |
+|Configuration          |IBM CM Synergy                      |
+|Management Tool        |                                    |
+
+
+
+
+Interest:
+
+    > HTML 5 and CSS3
+
+    > Angular JS
+
+    > Node JS
+
+    > Bootstrap
+
+    > Website development using JOOMLA
+
+Experience Summary:
+
+Presently I am associated with Societe Generale Global Solution Centre as a
+Senior Software Engineer since Aug 2013 to Till Date.
+
+Project Profiles:
+
+   1. Project Title: Portfolio Management Application
+
+Client: Societe Generale Securities Services (Mid Office and Back Office)
+
+Software/Tools/Database: JSF, SpringDI, SOAP Web service, Hibernate, Spring
+AOP/Eclipse, TOAD, SOPA UI/Oracle DB
+
+Role: Developer and L3 support
+
+Team Size:  5
+
+Duration: Jan 2014 to Jan 2016
+
+Description: It mainly dealt with managing portfolios like real estate
+securities of higher net worth individuals. The projects works in AGILE
+methodology and I have worked as a JAVA developer and in L3 support
+activities
+
+   2. Project Title: J2EE Migration project
+
+Client:  Societe Generale Securities Services (Mid Office and Back Office)
+
+Software/Tools/Database: JSF, CDI, SOAP Web service, JDBC, Eclipse, TOAD,
+SOPA UI/Oracle DB
+
+Role: Developer
+
+Team Size:  5
+
+
+
+Description:     This project aims at migrating a swing based desktop
+application on java 4 to JSF web application on JAVA 7. It also involved
+migration of web services and usage of CDI. I have worked on designing POC,
+project estimation and designing JSF screens and in development phase.
+
+Scholastic Profile:
+
+    > B.E from Siddaganga Institute of Technology, Tumkur in 2013 with an
+      aggregate of 7.89 GPA
+
+    > 12 Standard from Alva's PU College in 2009 with an aggregate of 92%
+    > 10th standard from Pragathi Composite School, Sagar in 2007 with an
+      aggregate of 94%
+
+Achievements:
+
+    > Cleared OCJP 6 certification
+
+    > Regular coder on hackers earth and have solved more than 50 problem on
+      java with a percentile of 95+
+
+    > Had won the Hackthon organized by SG-GSC in 2013
+
+    > Member of various cultural and technical organization within SG-SGC
+
+
+
+
+
+
+
+

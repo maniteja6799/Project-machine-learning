@@ -1,0 +1,253 @@
+E-mail:dineshr93@gmail.com ~ Contact No.:+91-9943302144 ~ Github ids: /dineshr-Android-library, /dineshr93 
+
+Seeking challenging assignments in Software Development with an organisation of high repute 
+
+Dinesh Ravi 
+
+ 
+
+PROFESSIONAL SUMMARY  
+
+  M.Tech (Computer Science) with 1 year 4 months of experience in Software Development. 
+  Currently associated with OneEmpower India Private Limited as Software Engineer. 
+  Experience working on Android to J2EE connectivity for data communication (json , xml) 
+  Launched one Merchant point of sale app and sold to 3rd party consultant for reselling. 
+  Good understanding in web service related stuff in both J2EE and Android. 
+  Experience working on Html to Android data and control transfer via java script. 
+  Exposure in Software Development involving requirement analysis, feature enhancements, fixing issues. 
+  Hands on experience in Web development (using bootstrap). (github id: dineshr93) 
+  Team player with good communication, interpersonal and analytical skills with multitasking abilities.  
+
+ 
+
+TECHNICAL SKILLS 
+
+Programming Languages   
+
+Scripting Language 
+
+Debugging Tools   
+
+Tools   
+
+ 
+
+ 
+
+Web Technologies 
+
+Developer/Graphic Tools 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CAREER PROFILE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+: 
+
+: 
+
+: 
+
+Java, J2EE 
+
+JavaScript 
+
+DDMS, Logcat 
+
+:               Git, Android Emulator, Draw 9-patch, Hierarchy viewer 
+
+: 
+
+: 
+
+HTML, CSS 
+
+Eclipse, Android Studio 
+
+ 
+
+ 
+  OneEmpower India Pvt Limited as Software Developer since 2014 May. 
+
+ 
+
+ORGANISATIONAL SCAN  
+
+ 
+
+Key Deliverables 
+  Feature low level design and implementation. 
+  Debugging using DDMS. 
+  Fixing the issues on time. 
+  Unit Testing. 
+  Working in close relation with peers for discussing issues related to functionality and for the suggestions/plans to improve 
+
+the quality of the product. 
+
+  Resolving change requests and defects, documenting, tracking. 
+
+ 
+
+Significant Highlights  
+  Received Star Performer Award for resolving issues on time. 
+  Recognised with awards for completed tasks on time and mentoring team members. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PROJECTS HANDLED 
+
+ 
+
+Project 
+
+ 
+
+:  Merchant point of sale (MPOS.apk)   
+
+Client      
+
+:  http://www.loyaltyconsulting.co.uk, UK. 
+
+App Details 
+
+:  https://goo.gl/0KqrQl 
+
+Team strength 
+
+:  2 
+
+Project Details 
+
+:  MPOS is a Loyalty app for merchants where they can perform points balance enquiry, redeem, reward for 
+
+each customers they have. The design mockup were provided by them with support restricted only to 7’ inch tablets.  
+
+Challenges            :   Integrating with Custom Bluetooth printer was little bit challenging. 
+
+Responsibilities  : 
+o 
+o 
+o  Written code for exchanging the data to backend server through xml on custom built library. 
+o 
+
+Synthesizing the requirement and architecting on database structure required.  
+
+Involved in discussion on design of each activities. 
+
+Integrated with custom bluetooth printer for printing the both customer and merchant receipt.  
+
+Key Highlight     : Delivered the project on Time. 
+
+ 
+
+Project 
+
+ 
+
+: Integrating backend web service engine with Android. 
+
+Project category   : R & D 
+
+Organization 
+
+: OneEmpower India Pvt Limited 
+
+Team size 
+
+Project Details 
+
+:  1 
+: Exporting the POJO jar’s and moving them to Android environment to cater for of their vast dataset.  
+
+ 
+
+TRAININGS ATTENDED  
+
+  Deployment of simple web Application in Cloud using AWS, Heroku. 
+  Good measures to be taken in handling the time constrained project. 
+
+ 
+
+ACADEMICS 
+
+  M.Tech (Computer Science) from Crescent Engineering College in 2014. Secured 75% with Distinction. 
+  B.E (Computer Science) from Tagore Engineering College in 2011. Secured 71% with Distinction. 
+  12thfrom Vidhya vikas Hr. Sec. Schoolin 2007. Secured 88% 
+  10thfrom T. Abdul Wahid Hr. Sec. Schoolin 2005. Secured 82.09% 
+
+ 
+
+ACHIEVEMENTS 
+  Rated ‘Outstanding’ in overall performance for the period May 2012 to April 2013 
+  Accolades from Indian ‚Leprosy Foundation‛ for raising awareness camp and also for resource mobilization 
+  Created Technical Blog during Undergraduate: http://dinhacks.blogspot.in 
+
+ 
+
+PERSONAL DETAILS 
+
+Date of Birth 
+
+ 
+
+ 
+
+ 
+
+:  
+
+10-05-1990 
+
+ 
+
+ 
+
+Present Address                                                   :  
+
+Neeladri  Sadan  Apartments,  Manjunatha 
+
+layout,  Murugeshpalaya, 
+
+Languages Known 
+
+ 
+
+ 
+
+: 
+
+English, Kannada & Tamil. 
+
+Bengaluru, Karnataka 560017. 
+
+

@@ -1,0 +1,98 @@
+Anshul Kabra
+Sri ram boys hostel , roopena agrahara ,near silk board banagalore
+Mobile: - +91 9066148607   Email:-anshulkabra1992@gmail.com
+ 
+
+
+SUMMARY
+
+	1.8 Years of experience in Android Application Development.
+	Strong analytical and problem solving skills
+	Good Knowledge in Android Framework
+	Working as a Sr. Android Developer in Pace Wisdom from Dec 2014.
+
+
+EXPERIENCE / PROJECTS
+
+Pace Wisdom Pvt Ltd., Bangalore
+Android Developer
+Dec  2014 – Till date
+
+Project Profile: MyAutoMate 
+
+	MyAuto Mate keeps you updated with service and maintenance related information 	about your vehicle.
+	Keep track of you services.
+	Gives your details about near by Fuel Station and Service Station .
+	Maintain your vehicle fuel expenses , and keeps you updated about vehicle mileage.
+	Reminds for Insurance,Emission and tyre pressure renewal.
+	Keeps your Journal Either your ridding or anything you want to keep note of.
+
+
+Project Profile: GasWatch
+
+	GasWatch app measure gas cylinder weight through BLE communication between    	Android Mobile and gaswatch scale.
+
+
+Project Profile: Inkster (Stencil/tattoo Converter).
+
+Inkster is an image processing app for converting image into pencil sketches. Using image filter convert imager into pencil image of different shades. 
+
+ 
+Project Profile: Aakhir Aayah (Quran).
+
+Aakhir Aayah is app for Quran reader .This app provides record of Quran read chapter and verses. Reading is synced with server and both platform Android and iOS. Status of read Quran can be viewed on graphs based on day , week , month and year basis. This app is in  English and Arabic.User can set goal for their reading and can check the progress of goal. User can read Quran Pdf in this app .
+ 
+
+
+
+
+YaraGo Software Pvt Ltd., Bangalore
+Software Developer
+May  2014 – Dec 2014
+
+Project Profile: Christ University App
+
+Christ University  android application for getting every academic details of particular student studying in Christ University.
+
+It helps Students to get their academic details such as Time Table, Marks Card, Attendance, Absence Details. They can access all details by using their proper Reg No and Password in Login.
+
+
+Project Profile: Search Medicine App
+
+Search Medicine android application for searching availability of the required medicine in intended area in a particular city and locality.
+
+Search Medicine helps chemists to improve their business by registering with site. Users can locate shop location using google maps and can browse other details of particular shop.
+
+
+
+
+TECHNICAL SKILL
+
+
+Operating System	Window 7,Ubantu 14.04LTS
+Languages	Android ,J2SE, 
+IDEs	Android Studio,Eclipse 
+Database	SqLite
+Design Pattern	Knowledge of MVC  design pattern.
+WebServices 	RestFull web services
+
+EDUCATIONAL QUALIFICATIONS
+
+Bachelor of Engineering from JECRC jaipur, Rajasthan.
+
+PERSONAL DETAILS
+
+Date of Birth:		8th July 1992.
+Language Known:	English, Hindi 
+Gender:			Male
+Marital Status:		Unmarried
+Nationality:		Indian
+
+
+
+
+
+
+Page 2 of 2
+
+

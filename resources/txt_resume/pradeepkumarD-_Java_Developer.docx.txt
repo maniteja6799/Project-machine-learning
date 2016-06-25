@@ -1,0 +1,68 @@
+                                                               Email:  devathiprdp@gmail.com 
+D.Pradeep Kumar      		            Mobile No: +91-8867278433
+==================================================
+Professional Summary
+PROFILE :
+Having 2.3 years of experience in Software analysis, design and development using Java/J2EE Technologies.
+Expertise in using Servlets, JSP, Struts, JDBC.
+Having good communication skills, dedication, hard-working and leading activities.
+Ability to learn and adapt new technologies in short time. 
+Good analytical abilities, quick grasping power, zeal for learning new things.
+
+
+TECHNICAL SKILLS :
+Programming Languages		: core java.
+JEE Concepts	       : Servlets, JSP,jdbc.
+Frameworks	: Struts 1.x
+Servers	: Tomcat Apache.
+Databases	: MySQL.
+Operating System	: Windows Environment
+EDUCATION DETAILS :
+Completed B.Tech from JNTU University Ananthapur and aggregate with 67.04%, from 2009-2013. 
+
+WORK EXPERIENCE
+
+   
+
+
+Projects Undertaken :
+Project#2 :
+
+Team size			 : 08
+Position			 : Developer
+Client				 : Econet, Zimbabwe.
+S/w			           	 : core java, Jdbc, JSP, Struts, Hibernate.
+Database                               	 :  MySQL 
+Application Server		: Tomcat
+0/s				:  Windows7
+
+Description : 
+                                              Connect to enable the consumers to get on-boarded for the MMSM program and do open loop payments. The open loop payments can be done either using a virtual card or a physical companion card. Connecet Service Manager defines card lifecycle management, transaction management. Connects Service Manager(SM) module enables mobile money systems to enter the open loop payments provided by MasterCard. Mobile money system so as to offer the following services for consumers which are routed through Connect.
+1. Card Life cycle management 
+2. Financial Transaction
+Roles and Responsibilities :
+Involved in the coding of Struts,javaBean classes.
+Reviewing the requirement documentation.
+Responsible to develop Presentation and business layer.
+Involving in developing hibernate mapping files.
+Involved in Field Validations using struts.
+Resolving Defects within timeline.
+worked on customer emails.
+Project #1 :
+
+Title			: Sams club.
+Role			: Java Developer
+Database		: MYSQL
+Team Size		: 5
+Technologies		: Servlets, JSP, jdbc, core java.
+Server			: Apache Tomcat
+Duration		: june 2013 to April 2014.
+Description: 
+                         Sams club is Commerce project it provides the opportunity to save on a complete line of products such as quality jewelry, designer goods, sunglasses, crystal and collectibles, high end electronics, floral, apparel, organic foods and product related information, different types of brands, product Image, cost, new arrivals. User can buy the products in online.
+Role & Responsibilities:
+Involved in Designing and writing the business logic.
+Involved in JDBC Connection.
+Resolving Defects within timeline.
+Worked on browser compatibility.
+Responsible for implementation of Design Patterns.
+	

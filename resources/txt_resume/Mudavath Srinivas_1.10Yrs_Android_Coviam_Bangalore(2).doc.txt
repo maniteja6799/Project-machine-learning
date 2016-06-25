@@ -1,0 +1,185 @@
+
+MUDAVATH SRINIVAS
+Indian Institute of Technology Madras
+
+
+1 8-20, Yerrakunta thanda,
+
+
+2 Lattupally, Bijinepally,
+Mahabubnagar, Hyderabad
+Telangana - 509203     +91 9632883734   srinivas3120@gmail.com
+
+3 EDUCATION
+
+|Program           |Institution                         |%/CGPA  |Year of        |
+|                  |                                    |        |completion     |
+|B Tech in         |Indian Institute of  Technology     |7.43     |2014           |
+|Electrical        |Madras, Chennai                     |         |               |
+|Engineering       |                                    |         |               |
+|XII (State Board) |Sri Chaitanya Junior Kalasala,      |94.6     |2010           |
+|                  |Ameenpur                            |         |               |
+|                  |Board of Intermediate Education, A.P|         |               |
+|X (CBSE)          |Jawahar Navodaya Vidyalaya Vattem,  |83.6     |2008           |
+|                  |A.P                                 |         |               |
+
+
+4 SCHOLASTIC ACHIEVEMENTS
+
+Awarded a Letter of recommendation during my Internship at Rupee-X.
+Awarded ST Central sector Scholarship from ministry of tribal affairs.
+Awarded Sanskrit scholarship for getting above 98 percentages in Sanskrit
+during XI and XII.
+One among top 5 ST students who joined in IIT Madras based on JEE-2010
+Category Rank (ST).
+
+5 PROFessional Experience
+
+Engineer
+                    Kirusa Inc. Bangalore (Since August'14)
+
+Android Developer
+
+Developed a celebrity social voice networking android app - Instavoice
+Blogs*(Available on alpha store)
+
+Solely responsible and developing a celebrity social voice networking
+'Instavoice blogs' app from scratch and working closely with backend
+developer team for required api's.
+
+              Envoironment: Android SDK, VOIP,AngularJS
+
+Main features: text/image/audio/video* posts. Like, share, comment a post.
+Discover users.
+Team member of a android messaging app - Instavoice
+Unique features of app are missed call alerts, voice mail along with
+messaging service even to a non Smartphone user.
+Developed an automated script which sends validation PIN to signup users
+and a script which sends registration analysis as an email.
+Developed a android Notes app at Kirusa Hackathon - NoteIt
+
+Main features: create, modify, and delete a note.  Set a notification and
+tag a note.
+
+Developed a charging agent for telecom operator- Globe Philippines which
+charges a mobile telecom customer for subscription and voice mail services.
+
+
+Came up and resolved a solution for all carrier and global look up servers
+of kirusa.
+
+Lookup server using msisdn mobile number can describe to which region,
+carrier, and country it belongs. There was duplicates and ambiguity in look
+up servers on which all kirusa products we relied up on.
+
+Responsible for handling, analyzing all promotional and subscription
+services for majority carriers (Vodafone, Airtel, Etisalat, Tigo, Utl
+etc...) in Africa.
+
+One of promotional services includes Ebola awareness campaign.
+
+   Developing scripts for analysis of promotional/subscription services.
+
+Personal apps developed - NoteIt, News Aggregator
+
+   Building Standalone, .Net, Excel add-in, Java and Matlab-GUI Applications
+                                                        for financial models
+        Under Shailesh Mehta(CEO) at RupeeX, Bangalore (Summer 2013-7 weeks)
+
+Building standalone applications for Technical analysis indicators,
+Efficient Portfolio Optimization, Asset Pricing Models, Blacksholes, Wealth
+Management and writing iReport.
+
+In order to buy a stock/bond or to analyze a firm, these stand-alone
+applications give you a better insight.
+
+
+
+
+6 PROjects
+
+SU-MIMO, MU-MIMO in IEEE802.11ac (B-Tech Project)   Under Prof. Devendra
+Jalihal (August'13-May'14)
+
+Bandwidth, Channel Bonding, Beam forming, Spatial Multiplexing, Coding and
+Modulation which are key in  increasing Throughput and efficiency in
+ieee802.11ac.
+MATLAB simulation of ieee802.11ac throughput and efficiency comparison with
+older technologies.
+Study of water drop on Nano-composite materials under 50Hz ac harmonic high
+voltage.
+
+                       Under Prof.Sarathi, IITMadras (December 2012-4 weeks)
+
+How water drop behaves with Nano-composite material and with level of 50Hz
+ac harmonic voltage.
+
+Due to dry band arcing Nano-composite material gets damaged and no longer
+acts as insulating material.
+
+Simulation of Sequential machines using VHDL  Digital Systems Corse Project
+
+Deriving Moore state table and state graph.
+
+Simulations were done in ModelSim.
+
+7 Skills
+
+Programming skills
+
+C, Data Structures, Java,  Android SDK, SQL, PHP, JSON, Java Script,
+jquery, AngularJS, CSS, HTML5, Shell, Python, MATLAB, Simulink, ARM-
+language, Latex, Basics in C++.
+
+VHDL, Spice and Magic.
+Languages : English, Hindi, Telugu
+
+8 COURSE WORK
+
+CAD Lab -python, Latex
+
+Digital Circuits Lab
+
+Advanced EE Lab
+
+Microprocessor lab
+
+Computational Engineering
+
+Analog Communication Systems
+
+Communication Systems
+
+Computer Organization and Microprocessors
+
+Control Engineering
+Digital Systems
+Digital IC Design
+Networks and Systems
+Communication Networks
+
+Analog and Digital Signal Processing
+
+Digital Communication Systems
+
+Miner in Marketing Management
+9 Positions of responsibility
+
+Team member of Digital Circuits Workshop SHAASTRA-2011.
+
+We handled around 100 teams for the hands on workshop.
+
+ Securities volunteer for SAARANG-2010.
+
+Volunteer for TERRY FOX RUN-2010.
+
+10 EXTRA Curricular activities
+
+One of team members of hostel which won 1st prize in Tec-Soc intra hostel
+competition-2011.
+
+Secured B Certificate in NCC.
+
+Inter-school competition: Gold in Kho-Kho
+
+Hobbies: Cricket, Chess.     *undergoing

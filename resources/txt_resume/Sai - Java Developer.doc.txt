@@ -1,0 +1,150 @@
+
+ Sai Y
+ Email: yeluru.sai@gmail.com
+
+
+ Phone: +91- 8197760741
+
+Summary:
+
+      . Having around 2 years of  experience  in  IT  Industry  as  a  Java
+        Developer
+      . Hands on experience in J2SE and J2EE (JDBC, Servlet, JSP).
+      . Strong Knowledge in J2SE.
+      . Experienced in working with Hibernate framework.
+      . Experienced in working with Struts framework.
+      . Good Knowledge in Spring Framework
+      . Good Knowledge in XML (DTD, XSD, SAX,  DOM,  JAXP,  JAXB)  and  Web
+        Services.
+      . Experienced in using Apache Tomcat Web Server,  Web  Logic  Server,
+        Eclipse, and Log4J.
+      . Good commitment, result oriented, hard working  with  a  quest  and
+        zeal to learn new technologies and undertake challenging tasks
+
+ Professional Experience:
+    > Working as a Software Engineer in Ness Technologies.,
+      Bangalore since Dec 2013 to till date
+
+
+Academic Profile:
+    > B. Tech in Computer Science and Engineering from J.N.T University,
+      Anantapuram.
+
+Programming Languages & Technologies:
+      Languages              :  Java, SQL
+      J2EE Technologies            :  Servlet, JSP, JDBC
+      Application/Web Servers      :  Apache Tomcat, Web logic
+      Frameworks             :  Struts, Hibernate
+      IDE                                                    :  Eclipse, My
+ Eclipse
+      Data Base                         :  Oracle, MySQL5.0
+      Operating Systems            :  Windows family
+
+
+
+
+
+
+
+
+Project Profile:
+
+Project #1:
+
+      Title            :  Online Reservation
+      Role             :  Java Developer
+            App. Environment      :  Java, JSP, Struts, JDBC, Eclipse.
+      Team size        :  6
+
+
+    Description:
+
+
+                                                          Online reservation
+      web application for Hotels, Cars and Airlines. Online Reservation is a
+      Service System, which has Clients as its different kind of members and
+      Vendors like Hotels, Rental Car and Air ticketing agency. This  System
+      has different  modules  like  Reservation,  Campaigning,  and  Payment
+      terms, Membership, Waiting List and Commission etc. Online Reservation
+      system will allow their members to have  serviced  in  their  specific
+      vendors station and collects  payments,  System  has  more  than  four
+      payment terms based on their membership type.
+
+
+Responsibilities:
+
+         V Understand the given requirements provided by the Customer
+         V Designed JSP`s as per the Requirement.
+         V Implemented Action Classes.
+         V Implemented Form Beans and their Validations.
+         V Implemented Page layouts using Tiles Framework
+         V Developing in creation of Database Connections and getting the
+           data from the database using
+           JDBC.
+         V Based on MVC Architecture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project #2:
+
+      Title            :  Online Health Services
+      Role             :  Developer
+      Environment            :  Java, JSP, Struts, Hibernate, Eclipse.
+      Team size        :  18
+
+
+
+
+    Description:
+
+
+                             This project  mainly  focuses  on  Doctors   &
+      Patients relation.  This  software  facilitates  a  doctor  to  get  a
+      registration which provides quick reference of past history related to
+      a patient like his/her symptoms, drug allergies, family  history  etc.
+      Doctors can use this information for further advices. In  this  system
+      patient will also facilitate by user-id and  password  to  get  online
+      appointment with a doctor. So no patient will suffer  for  getting  an
+      appointment  because  all  information  about  doctors  like   his/her
+      available hospital name, available time etc. will be open in  the  web
+      for that day. If a patient wants appointment for a doctor then he  can
+      send a message and can engage
+       Responsibilities:
+
+         V Designed JSP`s as per the Requirement.
+         V Implemented Action Classes.
+         V Implemented Form Beans and their Validations.
+         V Implemented Page layouts using Tiles Framework.
+         V Developing in creation of Database Connections and getting the
+           data from the database using Hibernate Framework.
+         V Developed Java Persistence Classes using Hibernate.
+         V Developed Persistence logic by using ORM tool like Hibernate.
+         V Based on MVC Architecture.
+
+
+ Declaration:
+
+
+      I hereby declare that the above said information is true  and  correct
+      to the best of my knowledge and belief.
+
+
+      Bangalore
+                                                         Sai.Y[pic]

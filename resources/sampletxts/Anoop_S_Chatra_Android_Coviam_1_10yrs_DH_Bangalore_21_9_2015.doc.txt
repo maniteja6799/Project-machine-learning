@@ -1,0 +1,119 @@
+ANOOP  S  CHATRA
+Mobile: +91  9900910716
+Email: anoopchatra@gmail.com (​mailto:anoopchatra@gmail.com​)
+
+
+
+								
+
+To work in a creative and challenging environment using cutting edge technologies where I could constantly learn and successfully deliver solution to the problems.
+
+
+
+	Have 2 years of experience in developing mobile apps in Android platform.
+	Have one and half years of experience in core java development and java web application development.
+	Good experience in developing RESTful web services using Java and JAX-RS.
+	Good understanding of version control system Git.
+	Good understanding of SQL, JDBC and Database concepts.
+	Good experience in Agile working model.
+	Good experience in Demonstration of product/service for new prospects and existing clients.
+	Programming language known: Java, SQL,Basics of HTML5 and CSS3.
+	Participated in more than 5 client interaction/client visit.
+	Good experience in JUnit testing, Mobile Test Automation.
+	Quick learner with ability to grasp new technologies, software & hardware.
+	Excellent communication, interpersonal, technical & team skills.
+
+
+
+
+
+Associate Software Engineer 
+Torry Harris Business Solutions
+October 2013 – Present
+List of Projects:
+	Network Soccer
+        Network Soccer is a cross platform mobile game which is built using an open source tool called cocostudio.
+
+My Role: I have worked as android developer and java REST web service developer
+Project details:  
+    	Network soccer is basically a football game where multiple people can play football in their smartphones over the internet. Social media integration, GCM Push Notification, GPS Location service and many other features are used in this mobile game.
+		
+	Spotter 
+        Spotter is a location sharing framework built for UK telecom company Everything Everywhere(EE). 
+
+My Role: I have worked as android developer and java REST web service developer
+Project details:  
+This framework contains MySQL as database to store the user locations details , data from the backend were exposed through RESTful web services which are hoisted in Amazon cloud so that they can be accessible globally.
+The framework also includes an android mobile app which has a Google map view where locations of different users were plotted and lot of other functionalities like push notification, GPS location services were also incorporated with in the app 
+
+
+	DashBoard 
+       DashBoard is a report generation framework built for Everything Everywhere       (EE). Basically this framework generates a real time reports about the status of the servers by using different set of algorithms.
+
+My Role: I have worked as android developer and java REST web service developer 
+Project details:  
+This framework contains a server status report generation system.
+ RESTful web services were developed to expose the reports to mobile and web channel.
+The framework includes an android mobile app which shows the real time status of the server, Graphs and pie charts to showcase the weekly report about the health of the servers. Much other functionality like download the report, email sync etc were also incorporated with in the app
+
+	SGH
+       SGH is a demo framework built for Saudi German Hospital management. 
+
+My Role: I have worked as android developer.
+Project details:  
+This framework contains MySQL as database to store the data, web services were developed as interaction channel between the backend and mobile app.
+The framework includes an android mobile app which shows list of all the departments in the hospital, number of doctors, graphs based on number of patients, Inventory management etc. 
+
+
+	Mobile Test Automation Framework 
+         I have involved in building a mobile app test automation framework using the open source tools like Appium, Jenkins, Git, Go, Genymotion.
+
+
+
+
+
+8th semester Project at Torry Harris Business Solutions (Feb ’13 – Apr ’13) 
+	Developed an Android Application For Microsoft SharePoint
+- It is an Application developed in Java using SharePoint’s REST API
+- Facilitates on the go access to the SharePoint server to collaborate with his team.
+Various features of the application include:
+- Access SitePages, documents, calendars, announcements, contacts and tasks
+- Download documents for offline viewing
+- Search option for the user to search his/her TeamSite
+
+	Mini project on Computer Graphics using Open GL
+    -This is a project to demonstrate the use of Open GL package. It deals with the animation of a robot. A 3 dimensional robot is generated using Open GL functions. This robot performs various actions like hand lifting, rotating its head etc. Various coloring effects, mouse and keyboard interface to the robot are also provided in this project.
+
+
+
+
+
+	Date of Birth             :   01/08/1991
+	Alternate Email        :   anoopchatra12@gmail.com (​mailto:anoopchatra12@gmail.com​)
+	Alternate contact     :   +91  9900910715 
+	Languages known    :   English, Kannada, Hindi.
+	Hobbies                     :   Trekking , Traveling , Long Bike Rides
+
+Degree	Board / University 	Institute	Year	Marks in percentage
+BE(CSE)	VishveshvarayaTechnological university(VTU)	JSSATE,Bangalore	2013	75.30
+PUC(PCMS)	Karnataka PU Board	DVS Composite PU college, Shimoga.	2009	89.5
+SSLC	Karnataka Secondary Education Examination Board	Govt high school,Koppa,Chikmaglore.	2007	95.84
+ 
+
+Career Objective
+
+Education Qualifications
+
+
+Experience
+
+Professional Summary
+
+Other Details
+
+
+Academic Projects
+
+
+
+

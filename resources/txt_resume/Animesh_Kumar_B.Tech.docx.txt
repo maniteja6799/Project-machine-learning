@@ -1,0 +1,75 @@
+Animesh Kumar                                         
+Mobile Number: + (91) 8010445409
+Email:  
+
+ 
+Professional Summary
+
+
+Analytical, Results-driven, innovative Engineering professional with overall experience of 2 years and 4 months of hands-on experience in Software Development, Fiber Execution Engineer. Always looking for innovative new ways to solve complex problems and optimize tasks by creation of various automation.
+Strong experience in Developing Android applications. 
+Highly motivated and focused with 1.2 years experience in Design and Development of Android applications.
+Proficient in Object oriented design, problem solving, complexity analysis and debugging.   
+Hands on expertise with Android SDK, Core Java, Activities, Services, Receivers, JSON and REST.
+Do look after the product management from several aspects.
+Experience in ROR for development and designing of a website. 
+Good knowledge of Oracle 10g, Core Java, PL/SQL, SQLite.
+Working on scaling android UI across multiple devices.
+
+WORKING EXPERIENCE:
+
+1.	Designation		:	Software Developer
+		Organization		:	Shimply.com  eCommerce marketplace.
+Experience		:  	July 2014 to Till Date.
+Project Name: 		          Shimply App, Web Development .
+
+2.	Designation		:	Android Developer
+		Organization		:	Ignitor Technologies, Sec 66, Noida.
+Experience		:  	April 2014 to July 2014.
+Project Name:                   
+
+Pet Sounds App  A small App containing images of pet along with their sounds.
+Balloon Burst  The App display a bunch of images from and after clicks on the balloons.
+
+3.	Designation		:	Fiber Execution Engineer
+		Organization		:	 HFCL Infotel Pvt Ltd (Payroll of Aapt Outsourcing ).
+Experience		:  	 June 2013 to April 2014.
+                        Project Name             :           Reliance Project Vijay (RJIL 4G Project)
+
+ Responsibility:
+Looking after MIS and GIS of RJIL 4G.
+Carried out fibre laying for backbone fibre connectivity.
+Carried out OSP survey for network implementation for fibre connectivity for 4G roll out.
+Daily reporting of execution status to execution lead and project manager.
+
+TECHNICAL EXPERTISE
+
+Language		:	C, C++, Core Java
+                                                 
+Database		:	SQLite, Oracle 10G, MYSQL.
+Development Tools   :	Eclipse, IntelliJ IDEA,
+Framework                  :              RubyonRails.          
+Operating Systems	:           Windows 7, Linux.
+
+                                             
+Education:
+
+
+	TRAINING: 
+A three month training in Android Apps development from IT Spark, Noida.
+A two month course in J2EE from Interface Software, Bhubaneswar.
+A two month course in Core Java from NIIT Berhampur.
+	
+	PERSONAL DETAILS: 
+	
+
+Name          		                                                           :     Animesh Kumar
+Date of Birth              		                                             :     10th Feb, 1990
+Address  		                                                           :     J 39A, Laxmi Nagar
+                                                                                                         New Delhi, 110092.
+.
+Declaration:
+
+I hereby declare that the above details are true as for the best of my knowledge and I will abide by them.
+Date : 02/10/2015                                                                                                             Animesh Kumar
+

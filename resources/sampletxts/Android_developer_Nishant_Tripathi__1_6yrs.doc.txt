@@ -1,0 +1,117 @@
+
+
+
+
+Nishant Tripathi (Software Developer)
+
+Email : nishanttripa89@gmail.com (​mailto:yallappa.meti01@gmail.com​)
+Mob   : 9473907308	
+				
+OBJECTIVE:
+
+Looking forward for a challenging work profile in App Development field. My key interests are working on new cutting edge technologies, learning new tools, working on new innovative design frameworks and making the overall App Development process optimized and efficient one. 
+
+EXPERIENCE:   1+ Years
+    
+	In current Srishti Software Pvt. Ltd. Bangalore (Nov 2015 to Jan 2016).
+	ITI Ltd. Bangalore (Aug 2014 to Aug 2015).
+
+TRAINING ATTENDED:
+    
+	E-Care Tenologies Pvt. Ltd. Bangalore (Aug 2015 to Nov 2015).
+	Genx Technovations Pvt. Ltd. Jaipur (May 2012).
+
+ACADEMIC QUALIFICATION:
+
+	B.Tech (CS) from NIMS University, Jaipur Rajasthan passed out in 2012.
+	PUC from D.A.V Inter College Mankapur (UP) passed out in 2007.
+	High School from K.V.S Mankapur (UP) passed out in 2005.
+
+TECHNICAL SKILLS:
+
+	Java			:  Core java, Advance Java (Servlet, JSP, JDBC).
+	Android			:  Android, Android SDK.
+	Technologies		:  XML, HTML, CSS, JavaScript, Web Services, RESTful API.
+	Java IDE			:  Eclipse Luna, Android Studio.
+	Database			:  SQL, MySQL, Oracle, SQLLITE.
+	Operating System		:  Windows 2000/NT/XP/7/8.
+	Packages			:  Ms-Office, Adobe Photoshop. 
+
+PROJECT DETAILS:
+
+Project #:  
+
+Title				: Super Seva
+Operating System		: Windows platform.
+Environment		: Android ,Core Java, API, Android Studio/Eclipse
+
+
+
+Description:
+SuperSeva can handle your incoming and outgoing internal mail, external mail, legally responsible items and inter-office mail. Besides offering a fully integrated mail room solution, we also free up your floor space, slice off your property costs and perk up the security of your business.SuperSeva Asset Management Services are a comprehensive mix of technology and human intervention. Our service includes state of art devices and tools in the hands of well trained personnel to capture the right and reliable data. SuperSeva offers benefits in the form of an "end to end" service which validates all help-desk facility work carried out. Every project benefits from our expertise & distinctive management approach for our clients: with SuperSeva taking care of your facilities management needs, your company can focus on its core business.
+Roles and responsibilities:
+
+	Working as a team member to understand the business requirements.
+	Discussing with Management team, and gathered requirements and then developed complex workflows which involved application.
+	Involved in Writing the Action Classes and Database function.
+
+
+Project #: 
+
+Title				: Shop Mart.
+Operating System		: Windows platform.
+Environment		: Android ,Core Java,Sqlite Database, Android Studio/Eclipse
+
+Description:
+
+This android application contains different categories like Electronics, Trousers, Food items, Clothes in this way application is designed user can select items and send the selected data to the server related to the particular shopping mart. In this application the data of all categories will generated dynamically by using server and it contains list views to present the data and we use different modules in this async task and sax parser. We can use location module in this application it is optional. This application provides you door delivery features through gateway or cash on delivery.
+
+Roles and responsibilities:
+
+	Working as a team member to understand the business requirements.
+	Discussing with Management team, and gathered requirements and then developed complex workflows which involved application.
+	Involved in Writing the Action Classes and Database function.
+
+
+Project# : 
+
+Title				                : Vehicle Management System project.
+Operating System		: Windows 7.
+Environment		: Core java, JSP, MySql, Eclipse and Apache Tomcat Server.
+Description:
+
+Vehicle Management System is developed and customized for commercial fleet owners and organizations. Its modules support most type of vehicles (passenger, Truck, construction and other commercial vehicles). It really reduces your vehicles cost while increasing performance and dependability. Track your tax-deductible business miles and travel expenses Eliminate costly unscheduled maintenance. Increase the resale value of all your vehicles. Keep accurate records for any type of vehicle. Help you plan annual vehicle budgets faster, easier and more accurately Keep track of Party Ledgers Payment Receipt) Keep track of Driver and other employee ledgers.
+
+Roles and responsibilities:
+
+	Working as a team member to understand the business requirements.
+	Discussing with Management team, and gathered requirements and then developed complex workflows which involved application.
+	Involved in Writing the Action Classes and Database function.
+
+SKILLS AND STRENGTHS:
+
+*	Quick learner with good analytical and problem solving skills, motivated to succeed with the desire to tackle challenging problems
+*	Strong interpersonal and communication skills with ability to maintain effective working relationships
+*	A result-oriented person prepared to work at any hour of the day.
+
+PERSONAL DETAILS:
+
+Date of Birth		:  25th July 1989
+Gender		:  Male
+Nationality		:  Indian
+Marital Status		:  Single
+Languages Known		:  Hindi and English
+Hobbies		:  Playing Basketball, listening to music.
+
+DECLARATION: 
+     
+I hereby declare that the above mentioned information is correct to my knowledge.	
+
+
+Date	:
+Place	: Bangalore			                                                              Nishant Tripathi
+
+
+
+
+

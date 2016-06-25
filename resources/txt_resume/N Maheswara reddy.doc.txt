@@ -1,0 +1,266 @@
+
+N.Maheshwara Reddy                             *: mahesh.yuvraj@gmail.com
+Java Developer
+                 (: 09739793700
+
+
+
+
+Professional Experience:
+
+    > Working as Associate Consultant  with Manthan Systems From  July  2015
+      to till date.
+    > Worked as Senior Software Engineer with AltimetrikIndia Pvt. Ltd. From
+      Oct 2014 to May 2015.
+    > Worked as Senior Software Engineer with Airvana Networks  India   Pvt.
+      Ltd. From Feb 2014 to Sept 2014.
+    > Worked as Software  Engineer  with  Sreeven  Infocom  Pvt.  Ltd.  from
+      Feb2010 to Feb 2014.
+
+
+Professional Summary:
+
+    . Around 6 years of experience in Java and J2EE Technologies.
+    . Have comprehensive knowledge of web based applications using Java Web
+      Technologies.
+    . Has comprehensive knowledge and has design and development skills in
+               Hibernate 3.0, Spring ,Web Services(SOAP and REST)and Struts
+      1.X.
+    . Experience with Database server like DB2, Oracle.
+    .  Knowledge and understanding of the Software Development Life Cycle,
+      software development methodologies and best practices.
+    . Has strong communication and team building skills and has the exposure
+      to customer IT environments in various projects.
+    . Experience in Telecom, E-commerce, Credit and Banking Domains.
+    . Working Experience in Web logic , Tomcat Servers.
+    . Familiar with MVC Architecture.
+    .    Experience with tools like ClearCase, JUnit and MAVEN.
+
+
+
+
+Academics:
+
+
+      V B.Tech in  Electronics  and  Communications  Engineering  from  S.V
+        University.
+
+Project Details:
+
+Product Name                     : OperativeOne
+Client                     : Operative media
+Domain                     : Digital advertisement
+Duration             : July 2015 to Till date
+Environment                   :  Spring ,Hibernate  and Mysql
+Web Server                         :  Tomcat
+Description:
+Operative One  is Digital Advertising Management  product, this product  is
+used by ad publishers and agencies simplify the business of advertising.
+Some of the world's largest and most complex media companies rely on
+Operative One.
+Operative One and Integration Manager Combo makes Publishers business easy
+for creating Salesorders and pushing  the ads into targeted adserver.
+OperativeOne manages creation of SOs and Handling the invoices to the
+clients or external systems.
+
+Responsibilities:
+
+    .  Understanding  the  operational  requirements  and  working  on   the
+      enhancements for the client requirements .
+    . Create Sales Order and push into Ad server, generate invoice bill and
+      Bug fixing.
+    . Writing JUnit Test cases and coverage.
+    . Involved in writing and executing UTPs.
+
+
+
+
+Product Name                     : POWERSHIPPING
+Client                     : eBay India
+Domain                     : e-commerce
+Duration             : Oct 2014 to Till date
+Environment                   :  Rest Services, Spring Batch and Mysql
+Web Server                         :  Tomcat
+
+
+
+
+Description      :
+Power Shipping  provides automatic allocation of logistic partner based on
+pin codes of buyer and seller.
+This system improves the buyer experience by delivering their purchases in
+time. In seller perspective reduces burden on seller of shipping the item.
+To avail this facility seller has to subscribe to powership  by paying
+minimal amount. PS provides insurance coverage  to seller  on shipped item.
+This service is also exposed for  tracking  purpose.
+
+RESPONSIBILITIES:
+    . Understanding the operational requirements.
+    . Responsible for writing the services for seller.
+    . Resolving the issues for the sellers.
+    . Involved in writing and executing UTPs.
+    . Involved in writing the Junits.
+
+
+
+
+Product Name                     : DEVICE MANAGEMENT SYSTEM
+Domain                     : Telecom
+Duration             : Feb 2014 to Sept 2014
+Environment                   :  EJB 3.1, Spring, JPA and Oracle11g
+Web Server                         :  Weblogic
+
+
+
+Description      :
+DEVICE MANAGEMENT SYSTEM (DMS) provides automatic device configuration and
+Remote device management. DMS is designed with a scalable architecture
+capable
+Of supporting one million femtocells. DMS enables service providers to
+manage
+femtocell   deployments   while   leveraging   their   existing   management
+infrastructure.
+The DMS allows operators to:
+. Fully automate device configuration
+. Initiate and manage remote software upgrades
+. Perform remote diagnostics using collected fault and performance data
+DMS includes an Automated Network Planner (ANP) that generates the optimal
+configuration for each femtocell and a Device Manager that  controls  device
+models
+and various interfaces.
+The ANP UI provides options to import network specific data and femtocell
+factory
+data into the ANP database and Scheduler  provides to import Operator data
+as complete and auto approaches. Import framework supports to import
+factory, bts, zip and service settings. This imported file data contributes
+for device configuration parameters.
+
+
+RESPONSIBILITIES:
+    . Understanding the operational requirements.
+    . Responsible for writing EJBs and Spring bean classes.
+    . Involved in integrating with the XMLDB and EJB-Spring.
+    . Involved in writing the Junits.
+    . Involved in writing and executing UTPs.
+
+Project Name                     : ONLINE PAY-PURCHASE AND CREDIT
+Complaince
+Client                                : Macys.
+Domain                     : Credit cards
+Duration             : Jun 2012 to Jan 2014
+Environment                   :  Spring, Hibernate and Oracle 11g
+Web Server                         :  Weblogic
+
+
+
+
+
+
+Description      :
+Macy's is a leading retailer in U.S. Headquartered Cincinnati, Ohio.  Online
+purchase and payment  module  involves  credit  bill  payment  using  Macy's
+cards. Updating the customer contact information like address, phone  number
+and email. providing special offers and gift vouchers during  purchases.  It
+helps the customers to place their complaints and feedback through  customer
+profiles.
+ Macy's provides Prop and co-brand cards  to  the  customers  to  facilitate
+their purchases. Application process involves migrating of VISA to AMEX  and
+creating new profile for new customers. Macys has tied  up  with  CITI  Bank
+for the credit issuing and maintenance .At the  end  of  the  day,  captured
+data will be sent to the CITI bank. Customer data will be  captured  through
+online forms from POS.
+
+
+RESPONSIBILITIES:
+    . Understanding the business requirements.
+    . Responsible for writing Spring Controller classes.
+    . Used Spring Tiles and Validation Framework.
+    . Responsible for implementing JSPs.
+    . Writing Java script for client-side validation.
+    . Involved   in developing   DAO classes using Hibernate.
+    . Worked with Spring for building loosely coupled components.
+    . Interacting with the onsite team and clients for the enhancements.
+
+Project Name                     : SCTBNKWEB
+Client                                : Scotia bank.
+Domain                     : Banking
+Duration             : Oct 2010to May 2012
+Environment                   :  Struts, Hibernate, Spring and DB2
+
+
+
+Description      :
+Web-Banking Module is an Internet  Banking  Application.  It  provides  very
+useful features to the bank  customers  who  have  registered  for  Internet
+banking facility. It is a free registration facility provided by  the  bank.
+Once the customers register  for  online  banking  facility,  they  will  be
+provided with a userid and a password to carry out the  online  transactions
+in a secure manner.  Some of  the  main  online  Banking  features  include.
+Change the Internet Banking Password. Check  the  balance  online.  Updating
+the customer contact information  like  address,  phone  number  and  email.
+Online transfer of funds to other accounts  of  same  bank  or  other  bank.
+Online cheque book order  facility.  Online  service  request  facility.  It
+helps the customers to place their service e-request and  track  the  status
+online.  Customers  can  get  the  online  statement  of   the   recent   10
+transactions made by them.
+
+
+
+
+
+RESPONSIBILITIES:
+    . Responsible for writing Struts Action classes and form bean classes.
+    . Used Struts Tiles and Validation Framework.
+    . Responsible for implementing JSPs.
+    . Writing Java script for client-side validation.
+    . Used MAVEN for build process in the development environment.
+
+
+
+
+Project Name                     : Enterprise Middleware System.
+Client                                : JP Morgan & Chase
+Duration             : Mar 2010 to  Sept2010
+Domain               : Banking.
+Environment                   :  Core Java, JSP, Struts
+Web Server                         : Tomcat
+
+
+
+Description      :
+EMS, the middleware application, which re  hosts  the  existing  HMS,  which
+enables asynchronous communication in the form of  Java  Objects,  XML,  and
+fixed length data strings, to backend  COBOL  based  mainframe  applications
+and data structures.
+
+EMS is intermediate system that establishes the communication between cross-
+plat formed applications, i.e. the  frontend  and  backend  communicate  via
+EMS, in order this to be  done  used  combo  of  XML  and  JAVA,  and  these
+partners are the core building components of the EMS application.
+
+
+
+RESPONSIBILITIES:
+    . Developed service definition document for all the services
+    . Worked with SAX P and JAX B for parsing and binding
+    . Developed Mutator, validator classes for the services
+    . Change Requests estimation and implementation.
+    . Implementing Code changes, Unit testing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (N.MaheshwaraReddy)
+
+
+

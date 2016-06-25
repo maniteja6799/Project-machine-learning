@@ -1,0 +1,98 @@
+
+
+
+
+
+
+SHEPHALI SHEKHAR						Senior Software Engineer
+shephalishekhar@gmail.com (​mailto:shephalishekhar@gmail.com​) | +91 973 884 5120
+
+
+Android developer with 2 years 6 months of experience in mobile application development designing, implementing, integrating, testing and supporting applications developed in challenging and collaborative environments. Passionate team member who mentors with purpose and understands that strong working relationships create great teams and produce exceptional results.
+
+
+Professional Experience:
+
+Worked for the following clients as a Consultant through ArchFront Technologies Private Limited, Bangalore
+
+Thellion Technologies Private Limited., Bangalorewww.thellion.com (​http:​/​​/​www.thellion.com​/​​) 	Jan 2015 – Till dateArchFront Consultant
+
+Android Developer:
+
+Product 1:
+
+	EPEAQ – Employee Work and Productivity Management. It has both iOS and Android Mobile applications along with web based portal for employees to manage their tasks, performance reviews, attendance, presence, work hours, and overall productivity. It also has communication features such as messaging and email to enhance collaboration.
+Application Link - https://play.google.com/store/search?q=epeaq (​https:​/​​/​play.google.com​/​store​/​search?q=epeaq​)
+
+Responsibilities:
+
+	Developed UI pages for Productivity, Settings, Security PIN, News & Events, Login and various other employee related pages as per the UI specifications.
+	Integrated the user data coming from the EPEAQ server to fill the UI screens I developed.
+	Notable Accomplishments:
+o	Fixed all UI defects for the application.
+o	Agile SCRUM Team member participating in daily Scrums.
+o	Detailed Analysis of performance of application.
+
+Product 2:
+
+	Instructor Notes – An app for teachers and students to exchanges notes. Approved instructor will upload notes which when approved will be visible by those using this application. Currently in BETA version for Android.
+Application Link - https://play.google.com/store/apps/details?id=com.thellion.instructornotes (​https:​/​​/​play.google.com​/​store​/​apps​/​details?id=com.thellion.instructornotes​)
+
+Responsibilities:
+
+	Developed UI pages for all the screens as per the given UI specifications.
+	Integrated the user data coming from server as JSON response with all UI elements.
+	Notable Accomplishments:
+o	Fixed almost all the defects for Alpha release of the application.
+o	Agile SCRUM Team member participating in daily Scrums.
+o	Detailed Analysis of performance of application.
+
+
+
+
+
+
+
+
+OpenPeak Inc., USA/Bangalorewww.openpeak.com (​http:​/​​/​www.openpeak.com​/​​) 	October 2013 – Dec 2014ArchFront Consultant
+
+Android Developer:
+
+Product:
+
+	 ADAM – Advanced Device and Application Management solution for enterprises such as AT&T, Deutsche Telecom, Orange, BlackBerry, and more. The solution includes mobile application suite of Email, Calendar, Contacts, Browser, Phone applications on iOS and Android platform in a secure space branded for each customer along with a web based portal for Administrators to provision, configure, and manage devices.
+ Application Link - https://play.google.com/store/apps/details?id=com.att.toggle&hl=en (​https:​/​​/​play.google.com​/​store​/​apps​/​details?id=com.att.toggle&hl=en​)
+
+Responsibilities:
+
+	Fix UI based defects for Email, Calendar, and Settings components in ADAM application.
+	Maintain and Fix UI defects for proprietary Browser application. 
+	Debug and Analysis of customer defects and provide root cause analysis report to customers as well as internal teams.
+	Analyze the performance of Android application, find possible solutions to enhance UI based performance issues.
+	Notable Accomplishments:
+o	Maintained most of the Browser application defects.
+o	Agile SCRUM Team member participating in daily Scrums.
+o	Found major performance issues in Android applications and helped resolve them.
+
+Skills:
+
+	Software & Tools: 	Android, Android Studio, Java, JIRA, Confluence, BitBucket, Bugzilla, Office Applications, Advanced REST Client, ADB Client, Performance Tools – DDMS, Jenkins
+	Concepts: 	Android Mobile Applications and Cloud computing, Agile Development Process, Customer Support, Knowledge on VPN, Proxy, BYOD, MDM.
+	Other Skills: Project Management Processes (Initiation, Planning, Risk Analysis, Execution, Closing, & Support), Agile Development Process, Excellent communication and presentation skills
+
+Education:
+
+2009-2013		Bachelor of Engineering in Information Technology from Gyan Vihar University.
+
+
+
+
+
+
+
+
+
+
+Shephali Shekhar	shephalishekhar@gmail.com 			    +91 973 884 5120
+
+

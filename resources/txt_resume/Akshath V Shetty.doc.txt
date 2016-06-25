@@ -1,0 +1,240 @@
+
+
+                             1 CURRICULUM VITAE
+
+
+
+
+
+
+
+
+
+
+
+
+|CAREER OBJECTIVE                                                       |
+
+
+                         To achieve high career growth through a  continuous
+learning process and utilize my existing knowledge to benefit any  corporate
+Organization that I'll work for.
+
+
+|ACADEMIC PROFILE                                                       |
+
+|Course  |Institution          |Board /            |Period   |Percentage/|
+|        |                     |University         |         |CGPA       |
+|        |                     |                   |From     |           |
+|        |                     |                   |To       |           |
+|MCA     |NMAM Institute of    |VTU                |2011     |8.07       |
+|        |Technology, Nitte    |                   |2014     |           |
+|12th    | Sri Ramakrishna PU  |Pre-University     |2007     |44.67%     |
+|        |College Bunts Hostel,|Board of Karnataka |2008     |           |
+|        |Mangalore            |                   |         |           |
+|10th    |Kendriya Vidyalaya   |Central Board of   |2005     |61.00%     |
+|        |No.1 Panambur,       |Secondary Education|2006     |           |
+|        |Mangalore            |                   |         |           |
+
+
+|PROFILE SUMMARY                                                        |
+
+
+
+    . Have 1 Year of experience in software development on Web Development
+      using java/J2EE.
+    . Have worked on Java/J2EE technology , Struts2 Framework with hibernate
+      and well acquainted with SDLC.
+    . Worked on iAccept  and VaultOnCloud.
+    . Worked on Web Servers  on Tomcat x.x ,jboss and  web services like
+      AWS,Redhat Openshift,Linode (For Hosting Web Projects).
+    . Quick learner, entusiastic to learning new technologies & quickly
+      adapting to new environment.
+    . Investigate and resolve issues in development, test and production
+      environment.
+    . Database like MYSQL Server
+    . Knowledge of Spring MVC.
+
+
+|TECHNICAL SKILLS                                                       |
+
+
+
+    . Basic computer knowledge:  MS Word, MS Power Point, MS Excel and
+      Internet.
+
+    . Languages     :  C, C++, Java,HTML.
+    . Applications                        :  Adobe  Photoshop,  Flash,  IDE-
+      Netbeans, jboss
+                             Server,  TeamViewer,  Edit   Plus,   WinMerge,
+                         TextPad, Eclipse(Kepler).
+    .     Operating     Systems            :      Windows      XP/VISTA/7/8,
+      Linux,Ubuntu,Fedora,CentOS.
+    . DBMS    : ORACLE 10g, MySQL,MS Access,TOAD.
+    . Web Technologies   : HTML,CSS, JSP,Struts Framework(MVC),Hibernate .
+    . Worked on servers        : AWS,Redhat Openshift,Linode (For Hosting
+      Web Projects).
+
+
+
+
+|Work Experience                                                         |
+
+
+ Working at iAccept Software pvt.ltd as an software Engineer.
+ Experience:1 Year
+
+|PROJECTS                                                                |
+
+    . iAccept
+
+Skill Used: Core Java,Struts2 MVC With Hibernate,MySql,HTML,css.
+
+iAccept is an ethical bridge.This is an e-Notarizing site. This is the ONLY
+portal bridging the gap between employers and job seekers with a secured
+and reliable, independent 3rd party Authentication service. The portal
+ensures that a job seeker has ONLY ONE confirmed job contract at any point
+of time, though a candidate is at liberty to explore multiple options. This
+portal is sector independent and is equally applicable for all sectors like
+IT/ITES, BPO, BFSI etc.
+
+Benefits to Job Seeker:
+The portal provides an independent, confidential attesting and
+authentication service to the job seekers who have received job offers
+For companies, who do not give a proper release letter, job seekers can use
+the portal to route their resignations and thus be able to produce an
+experience certificate, provided they had accepted their employer's offer
+through the portal.
+Benefits to Employer:
+The employers suffer a huge loss of lead time because of "No Shows" on the
+day of joining after the offers have been accepted. Every employer at some
+point of time has been at the receiving end and has suffered because of the
+"No shows".
+Employers can use the portal to get firm offer acceptances after releasing
+a mutually agreed job offer. The numbers of offers made to acceptances
+increase with a fewer "No Shows", helping the employer to plan better and
+thus keep a lower bench. BPO's have found the feature of flagging
+"Absconding" cases useful, where new employees vanish after a few days on
+the job.
+
+    . VaultOnCloud
+
+
+Skill Used: Core Java,Struts2 MVC With Hibernate,MySql,HTML,css.
+
+A secure place where your relieving letters are parked. Potential  employers
+can request the job seeker to share the link and validate the same  in  real
+time. Past employers need not assign dedicated resource  to  answer  queries
+about ex-employees.
+
+Benefits:
+When  an  individual  gets  a  job,  the  prospective  employer   invariably
+commissions   a   background   verification   exercise    for    educational
+qualifications, professional experience etc. This takes time  and  sometimes
+wrong details get  reported.  In  some  cases,  verification  does  not  get
+completed, for various reasons.
+Advantage for Employer:
+Employers need not dedicate  resources  to  dig  out  old  data  from  their
+records and answer  queries  that  come  from  external  agencies  or  other
+employers.
+
+Advantage for Employer:
+Employers need not dedicate resources to dig out old data from their
+records and answer queries that come from external agencies or other
+employers.
+
+    . Title of project: Hadoop Clusters
+      Company: HP STSD, Bangalore
+      Description:
+           This was an R&D project and was aimed to build a project that is
+      responsible for limiting user data to be located on specific nodes  in
+      Hadoop.
+    . proxy Server
+           This project was aimed to build a program  that  is  responsible
+      for creating a anonymous proxy server that acts as a middleman between
+      browser and an end server and prevents your  personal  identity  being
+      leaked out to  sites we visit. This project was taken up and developed
+      using JAVA for the accomplishment of the curriculum task.
+
+
+    . Title of project: Hybrid Player for Android
+      Description:
+           This project was aimed to build a application is  an  integrated
+      application for enjoying multimedia contexts  like  songs  and  videos
+      stored in sdcard or android device. i.e. It provides a common platform
+      through which user can enjoy all the multimedia content at once.  This
+      project was taken up and developed for an android device and was  done
+      as a part of partial fulfillment for the  requirement  of  the  degree
+      Master of Computer Application.
+
+
+Workshops and Seminars:
+
+    Attended:
+    . Workshop "UDAAN" on 'Open Source Technology' by HP (STSD) Bangalore.
+    . Participated in the "LEADERSHIP TRAINING CAMP' sponsored by Nicholos-
+      Piramal, India Ltd. and M.R.Pai Foundation held at N.S.A.M.F.G.C.
+      Nitte.
+    Given:
+    . Seminar on  HOLOGRAPHIC VERSATILE DISC in 4th semester MCA.
+
+
+|EXTRA-CURRICULAR ACTIVITIES                                            |
+
+    . I have worked as an event manager in "SEMAPHORE-13", a South India
+      Level Inter-Collegiate Tech Fest.
+    . Worked as event manager in "N-Igma-11", a State Level inter-collegiate
+      Fest.
+    . Participated in "Electro Fest-11", a University Level Electronics Fest
+      held at Mangalore University and obtained Second Prize in Circuit
+      Designing.
+    . Attended 'Lonavala- kondhavadi caves trekking' organized by Mercury
+      Himalayan Explorations, New Delhi from 5 th may to15 th may 2004.
+    . Participated and successfully completed the Parasailing programme
+      conducted by NAF Karnataka chapter at mangalore sponsored by Kendriya
+      Vidyalaya sangathan, New Delhi in the year 2004.
+    . Participated in Desert trekking course organized by Kirthi Adventure
+      Institute in the year 2005
+
+
+
+      |PERSONAL PROFILE                                                       |
+
+
+   Date of Birth  :    27th April 1989
+   Gender   :     Male
+   Nationality    :    Indian
+   Languages Known     :     English, Hindi, Kannada,Tulu.
+   Personal Strength   :     Good leadership  skills,  Ability  to  work  in
+   team,                        open to new  ideas  and  Good  communication
+   skills.
+
+
+
+
+
+      |DECLARATION                                                            |
+
+
+      I hereby declare that the above mentioned information is correct up to
+my knowledge and I bear the responsibility to the correctness of the  above-
+mentioned particulars.
+
+
+
+Place:                                                             Bangalore
+(Akshath V Shetty)
+Date: 29/09/2015
+
+-----------------------
+Akshath  V Shetty
+"Ashwini", Main Road ambalpady
+Near post office, Udupi-576103
+Karnataka.
+
+E-mail:akshathvs@gmail.com
+Mobile no.-+919743079814
+Working at: iAccept Software Pvt Ltd(Bangalore)
+
+
+

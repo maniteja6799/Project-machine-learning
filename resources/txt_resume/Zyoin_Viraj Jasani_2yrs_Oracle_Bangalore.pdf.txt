@@ -1,0 +1,262 @@
+virajjasani007@gmail.com
+
+Career Objective:
+
+Viraj Jasani
+
+(M)+91 96206 16213
+(M)+91 94091 52831
+
+To become a successful employee in the field of Information Technology and to work in an innovative and competitive world of 
+organization and try to give maximum output by perseverance and team work for the growth of organization.
+
+Educational Qualification:
+
+Degree/Certificate
+
+University/Board
+
+Year of passing
+
+PPI/Percentage
+
+      OCJP
+
+Oracle Certification for JAVA 
+
+Programmers
+
+B.Tech (CE)
+
+Institute of Technology, 
+Nirma University     
+
+HSC
+
+SSC
+
+GHSEB (Noble Higher
+Secondary School)
+
+GHSEB (Noble High School)
+
+2014
+
+2013
+
+2009
+
+2007
+
+100%
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+6.87 7.7
+
+7.67 8.17
+
+7.96
+
+Over all
+
+8.21
+
+8
+
+7.96
+7.82
+
+90.40% ( PCM - 95.33% )
+
+90.62%
+
+Software Exposure:
+
+Programming Languages
+Web Technology
+
+Tools
+
+Work Experience:
+Oracle, Bangalore   :-     
+
+Project
+
+Project summary
+
+Team Size
+Duration
+Tools & Technologies
+
+Roles & Responsibilities 
+
+
+
+ Development of Oracle SOAP Web-Services in Oracle 
+
+JDeveloper for performing different operations on Customer 
+Profiles – Customer Management Module
+JAVA and SQL Development for Integration of Accounts 
+Receivables with other Fusion Family Products i.e. General 
+Ledger, Accounts Payable 
+
+Core JAVA, Advanced Java, J2EE – Spring, 
+Spring-Hibernate integration
+JSP, Servlet, Spring MVC, Oracle Web-Service
+Net Beans IDE, Eclipse IDE, SAP NetWeaver Developer Studio, 
+Oracle JDeveloper
+
+                 [Oct, 2015 - Present]
+
+Oracle Fusion Financials Accounts Receivables Development (on Cloud)
+Oracle's Fusion Financial Management is a complete and integrated financial 
+management solution that sets the foundation for good governance and 
+consistent growth while helping today's dynamic organizations make better 
+decisions, increase efficiency and reduce costs. It includes a broad suite of 
+capabilities including general ledger, accounts payable, accounts receivable, 
+fixed assets, and cash management. Oracle Fusion Accounts Receivables 
+Development Team takes care of development of different modules related 
+to Customer Management, Workflow Management and Multi-national 
+functionality.
+15
+October 2015 – Present
+Oracle JDeveloper-JAVA, J2EE, Oracle SOAP Web-Service
+
+
+
+JAVA Development in Fusion Middleware with Oracle 
+WebLogic Server and ADE (Linux) Source Control System as 
+well as Unit Test Cases creation in OATS
+
+Accenture, Pune   :-     
+
+Project
+
+Project summary
+
+Team Size
+Duration
+Tools & Technologies
+
+Roles & Responsibilities 
+
+Project
+
+Project summary
+
+Team Size
+Duration
+Tools & Technologies
+
+Roles & Responsibilities
+
+ Development of different features on the product for SaaS 
+
+Cloud Support Team and Cloud Customers
+
+           [Dec, 2013 - Sep, 2015]
+
+Accenture Internal Project
+Accenture Event management system website – Any employee can register 
+to an upcoming future event though portal. Admin is given special privilege 
+to create event, schedule events, reschedule for some users who cannot 
+participate even after registration and schedule price distribution sessions 
+with email generation. 
+5
+January 2014 – June 2014
+Eclipse IDE-JAVA, Spring MVC, MySQL database
+
+
+
+Creation of Login, Registration, Events, Event Registration
+modules in Spring MVC – JSP, Controller and Dao class 
+creation
+
+ Database connection establishment through IOC mechanism 
+
+of Spring architecture 
+Creation of jUnit for Controller and Dao classes
+
+
+ Database update through Dao class and IOC mechanism of 
+
+Spring MVC
+SQL queries creation
+
+
+
+Accenture Utilities Industry
+The client is a public utility company operating in the United States and 
+Canada. The client’s regulated businesses currently provide water and 
+wastewater services in 16 U.S. states and serve an estimated 14 million 
+people in more than 40 states and parts of Canada. Front end website 
+modules development, SAP implementation and support activities are done 
+by Accenture.
+8
+July 2014 – September 2015
+Eclipse IDE-JAVA, SAP NetWeaver Developer Studio – JAVA
+
+ Website development in Spring-Hibernate integration 
+ HQL queries creation
+
+ Migration to SAP Portal using SAP NetWeaver Developer 
+
+Session management in Controller class
+
+Studio(MVC Architecture) and support
+
+Special Achievement:
+
+
+
+
+Achieved ACE(Accenture Celebrates Excellence) Award
+Achieved OPA(Out-Perform Award - Individual) Award
+
+Academic Project Work:
+
+
+
+
+Automatic Question Paper Generation (Developed in JAVA)
+Simulation of Linux File System in JAVA
+
+Personal Profile:
+
+ Date of Birth
+
+
+Address
+362001, Gujarat, India
+
+: 22nd  Jan, 1992
+:  Block No. 20/D, Street No. 3, Green Park Society, Near Noble School, Junagadh –
+
+Languages
+
+ Hobbies
+
+ Gender
+ Nationality
+
+: Cricket, Football, Running, Computer games
+: English, Hindi, Gujarati
+: Male
+: Indian
+
+

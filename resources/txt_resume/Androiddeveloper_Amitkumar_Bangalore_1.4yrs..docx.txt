@@ -1,0 +1,81 @@
+Amit Kumar                                                                       Address: 298/10, BTM 1st Stage, Bangalore
+Email:  arnataka-560068
+Mobile: 7338322396
+
+
+
+Career Objective:
+
+Currently looking for a full time position in an environment that offers a greater challenge, increased benefits for my Skills, and the opportunity to help the company to grow.
+
+
+Profile Summary:
+
+    Academic: Bachelor of Engineering.
+    Years of Experience: 1 year 4 months.
+    Current Role: Software Engineer.
+    Observed best practice standards in Java and Android.
+    Having strong knowledge in data persistence (SQLite).
+    Strong understanding of building applications that utilizes web-services (HTTP based, JSON, Rest
+API), in order to tie applications to server side APIs.
+    Responsible for memory and performance optimization to reduce total data costs.
+    Interested in a challenging technical track career in an application development environment.
+
+
+Technology Expertise:
+
+    Java, Android.
+    Eclipse, Android Studio.
+    Bug Tracking tool  BugZila
+    Source Code Control Technologies  GitHub.
+
+
+Experience:
+
+    Working on Quizza (Students Portal) in android technology.
+    October 2014  January 2016: Pennant Software Pvt. Ltd. (Bangalore), as Software Engineer.
+    Worked in Healthcare for Android technology.
+    Worked with agile methodology.
+    Worked under Scrum oriented task.
+
+Educational Qualification:
+
+1.     B.E.  (Computer  Science  &  Engineering  2013):  Sagar  Institute  of  research  and technology, Bhopal. (Secured 70.45 %)
+
+2. Intermediate (Science): from Oriental College Patna City. (Secured 55.55 %).
+
+3. 10th from Marwari High School, Patna City (Secured 66.00%).
+Recent Projects:
+
+1.  PrimeMobile for Android devices: Client- GreenWay Medical Technology
+
+Project Summary Greenway Medical Technologies, Inc.s PrimeMOBILE application allows remote, two-way integration of complete ambulatory information and remote Charge submission housed in Greenways PrimeSUITE electronic health record. PrimeMOBILEs paperless technology provides patient history and Problem lists, progress notes and appointment schedules encompassing a healthcare providers entire patient population. As well as providing clinical tools such as viewing lab results, PrimeMOBILE also integrates patient billing and charge capture which assures proper claims and the financial health of a practice. Accessed by a simple login, providers can view patient notes and search individual patient records. Through PrimeMOBILE, physicians in all specialties and sub-specialties can practice sound medicine- and communicate with peers and patients-from any remote location.
+
+Greenways remote clinic PrimeMOBILE enables physicians and other staff to access comprehensive patient information from their Android-based smart devices from virtually any remote location, improving care delivery and both clinical and financial workflows.
+
+Software and Technologies: Windows 7, Java, Android Studio as IDE.
+Bug Tracking Tool  Bugzilla
+Roles and Responsibility in the project: Coding, Code review, unit testing, Real time testing with
+Android Devices and emulators.
+
+2.  NewsCircle for Android devices
+
+Project Summary  NewsCircle is an android based application for reading newspapers available online at one place. It will also share the link of all the magazines available online on the basis of their category. User can read these newspaper on the basis of their selection of language and subcategories like area of news (e.g. - sports, entertainment, national).
+
+Software and Technologies: Java, Android, Android Studio as IDE.
+Roles and Responsibility in the project: Coding, Code review, Real time testing with Android Devices.
+
+3.  Quizza for Android devices:
+
+Project Summary Quizza is android based application which will be used for Student participating in different exams as a practicing cum knowledge collective platform. It will display random question with different options to answer by student to get their evaluation on their performance, their growth as a participant etc. Student can have their own user account based on their preferred subjects, exams and they can also participate in a test to get their ranking with respect to other candidates participating in the same exam.
+.
+Software and Technologies: Java and Android, Android as IDE.
+Roles and Responsibility in the project: Coding, Code review, Real time testing with Android devices and emulator.
+
+Hobbies:
+
+Web Surfing, Listening music, watching movies.
+My other favorite pastimes are teaching, and playing cricket.
+
+
+Place- Bangalore                                                                                                                    Amit kumar
