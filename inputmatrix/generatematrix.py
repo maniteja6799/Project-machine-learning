@@ -158,7 +158,28 @@ def extractfeaturescore_jd(config, txtfile, jd, row):
 	row['t_count'] = t_count
 	return row
 
-def extractfeaturescore_companies(config,row):
+def extractfeaturescore_companies(config, txtfile, row):
+	companies = []
+    words = []
+    with open(config['companies'], 'r') as f:
+        for line in f:
+            for word in line.split():
+                companies.append(word.lower())
+
+    file = open(config['txts_folder']+txtfile, 'r')
+    text = file.read().lower()
+    file.close()
+    text = re.sub('[^a-z\ \']+', " ", text)
+    words = list(text.split())
+
+    cmpscore = 0.0
+    cmplen = len(companies)
+    for i in range(cmplen):
+        if companies[i] in words:
+            print(companies[i])
+            cmpscore += cmplen-i+1
+            print(cmplen-i+1)
+    row['cmp_score'] = cmpscore/cmplen
 	return row
 
 def genMatrix(filenames):
