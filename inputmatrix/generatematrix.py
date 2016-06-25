@@ -10,7 +10,7 @@ import string
 import re
 import xlrd
 from pprint import pprint
-
+import re
 
 matrix = {}
 
@@ -98,6 +98,15 @@ def extractfeaturescore_words(config,txtfile,words, row):
 		row[cat] = acc
 	return row
 
+def addtarget(config,txtfile, row):
+	'''
+		code here
+	'''
+	txtfile = txtfile[:-4]
+
+	row['target'] = 1
+	return row
+
 def wordtokenize(jd):
 	word_tokens = []
 	try:
@@ -135,31 +144,76 @@ def extractfeaturescore_jd(config, txtfile, jd, row):
 	word_tokens = []
 	jddict ={}
 
-	word_tokens = wordtokenize(jd["c_feature"])
-	c_feature = [w for w in word_tokens if not w in stop_words]
+	c_feature = senttokenize(jd["c_feature"])
+	# c_feature = wordtokenize(jd["c_feature"])
+	# c_feature = [w for w in c_feature if not w in stop_words]
 	jddict['c_feature'] = c_feature
 
-	word_tokens = wordtokenize(jd["Technical"])
-	Technical = [w for w in word_tokens if not w in stop_words]
+	Technical = senttokenize(jd["Technical"])
+	# Technical = wordtokenize(jd["Technical"])
+	# Technical = [w for w in Technical if not w in stop_words]
 	jddict['Technical'] = Technical
 
-	word_tokens = wordtokenize(jd["Role"])
-	Role = [w for w in word_tokens if not w in stop_words]
+	Role = senttokenize(jd["Role"])
+	# Role = wordtokenize(jd["Role"])
+	# Role = [w for w in Role if not w in stop_words]
 	jddict['Role'] = Role
 
 	c_count = 0
 	r_count = 0
 	t_count = 0
-	for sent in sents:
-		words = word_tokenize(sent)
-		for word in words:
-			c_count += counter(jddict['c_feature'], word)
-			r_count += counter(jddict['Role'], word)
-			t_count += counter(jddict['Technical'], word)
 
-	row['c_count'] = c_count
-	row['r_count'] = r_count
-	row['t_count'] = t_count
+	for sent1 in sents:
+		word1 = wordtokenize(sent1)
+		word1 = [w for w in word1 if not w in stop_words]
+
+		for sent2 in c_feature:
+			word2 = wordtokenize(sent2)
+			word2 = [w for w in word2 if not w in stop_words]
+			s = 0
+			for w1 in word1:
+				for w2 in word2:
+					if w1 == w2:
+						s+=1
+						break
+				else:
+					continue  # executed if the loop ended normally (no break)
+				break					
+			if s > 0:
+				c_count+=1
+
+		for sent2 in Technical:
+			word2 = wordtokenize(sent2)
+			word2 = [w for w in word2 if not w in stop_words]
+			s = 0
+			for w1 in word1:
+				for w2 in word2:
+					if w1 == w2:
+						s+=1
+						break
+				else:
+					continue  # executed if the loop ended normally (no break)
+				break						
+			if s > 0:
+				t_count+=1
+
+		for sent2 in Role:
+			word2 = wordtokenize(sent2)
+			word2 = [w for w in word2 if not w in stop_words]
+			s = 0
+			for w1 in word1:
+				for w2 in word2:
+					if w1 == w2:
+						s+=1
+						break
+				else:
+					continue  # executed if the loop ended normally (no break)
+				break
+			if s > 0:
+				r_count+=1		
+	row['c_count'] = (c_count/ (len(sents) * 1.0)) if len(sents) > 0 else c_count
+	row['r_count'] = (r_count/ (len(sents) * 1.0)) if len(sents) > 0 else r_count
+	row['t_count'] = (t_count/ (len(sents) * 1.0)) if len(sents) > 0 else t_count
 	return row
 
 def extractfeaturescore_companies(config, txtfile, row):
@@ -181,6 +235,7 @@ def extractfeaturescore_companies(config, txtfile, row):
 	for i in range(cmplen):
 		if companies[i] in words:
 			cmpscore += cmplen-i+1
+	row['cmp_score'] = cmpscore
 	return row
 
 details = {}
@@ -229,6 +284,7 @@ def extractfeaturescore_target(config, txtfile, row):
 				row['testscore'] = details[detail][5]
 			break
 	return row
+
 
 def genMatrix(filenames):
 	global matrix
