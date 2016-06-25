@@ -101,61 +101,64 @@ def extractfeaturescore_words(config,txtfile,words, row):
 		row[cat] = acc
 	return row
 
+def wordtokenize(jd):
+	word_tokens = []
+	try:
+		word_tokens = word_tokenize(jd)
+	except Exception as e:
+		print("\n\n"+txtfile+" jd c ++++++ and error: "+str(e))
+	return word_tokens
+
+def senttokenize(txt):
+	sents = []
+	try:
+		sents = sent_tokenize(txt)
+	except Exception as e:
+		print("\n\n"+txtfile+" sents ****** and error: "+str(e))
+	return sents
+
+def counter(jddict, word):
+	count = 0
+	for wrd in jddict:
+				if wrd == word:
+					count +=1
+	return count
+
 def extractfeaturescore_jd(config, txtfile, jd, row):
 	File = open(config['txts_folder']+txtfile,'r')
 	txt = File.read()
 	File.close()
-	# print(config['txts_folder']+txtfile)
+
 	punctuation = list(string.punctuation)
 	stop_words = set(stopwords.words('english') + punctuation)
+	
 	sents = []
+	sents = senttokenize(txt.decode('utf-8'))
+
 	word_tokens = []
-	try:
-		sents = sent_tokenize(txt.decode('utf-8'))
-	except Exception as e:
-		print("\n\n"+txtfile+" sents ****** and error: "+str(e))
 	jddict ={}
-	try:
-		word_tokens = word_tokenize(jd["c_feature"])
-	except Exception as e:
-		print("\n\n"+txtfile+" jd c ++++++ and error: "+str(e))
+
+	word_tokens = wordtokenize(jd["c_feature"])
 	c_feature = [w for w in word_tokens if not w in stop_words]
 	jddict['c_feature'] = c_feature
-	# print([w for w in jd])
-	try:
-		word_tokens = word_tokenize(jd["Technical"])
-	except Exception as e:
-		print("\n\n"+txtfile+" jd t ++++++ and error: "+str(e))
-	
+
+	word_tokens = wordtokenize(jd["Technical"])
 	Technical = [w for w in word_tokens if not w in stop_words]
 	jddict['Technical'] = Technical
-	try:
-		word_tokens = word_tokenize(jd["Role"])
-	except Exception as e:
-		print("\n\n"+txtfile+" jd r ++++++ and error: "+str(e))
-	
+
+	word_tokens = wordtokenize(jd["Role"])
 	Role = [w for w in word_tokens if not w in stop_words]
 	jddict['Role'] = Role
-	# print(jddict)
+
 	c_count = 0
 	r_count = 0
 	t_count = 0
 	for sent in sents:
 		words = word_tokenize(sent)
-		filtered_txt = [w for w in words if not w in stop_words]
-		for word in filtered_txt:
-			for wrd in jddict['c_feature']:
-				if wrd == word:
-					c_count +=1
-					
-			for wrd in jddict['Role']:
-				if wrd == word:
-					r_count +=1
-			
-			for wrd in jddict['Technical']:
-				if wrd == word:
-					t_count +=1				
-	# print((c_count,r_count,t_count))
+		for word in words:
+			c_count += counter(jddict['c_feature'], word)
+			r_count += counter(jddict['Role'], word)
+			t_count += counter(jddict['Technical'], word)
 	row['c_count'] = c_count
 	row['r_count'] = r_count
 	row['t_count'] = t_count
