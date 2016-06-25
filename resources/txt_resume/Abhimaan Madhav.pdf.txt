@@ -15,7 +15,7 @@ Have experience of building custom views.
 Have worked on a hybrid application.
 Have used fragments, services, broadcast receiver, bitmaps, canvas, GPS, alarm and the like.
 
- Worked with REST API, RSS feeds, XML parsing, SOAP.
+ Worked with REST API, RSS feeds, XML parsing, SOAP.
 
 Have been involved in building applications on Android from conceptualization to idea 
 execution.
@@ -56,18 +56,7 @@ Challenges in the project
 This is a fun application. It enables users to use a cutout from a given set of celebrity cutouts and 
 juxtapose the same with a live camera image. It has features to make these juxtaposed images look 
 real by resizing, repositioning, and adjusting brightness, saturation and contrast of the celebrity 
-
-
-
-
-
-
-
-
-
-
-
-cutout. Additional features included application of various effects(pencil sketch, grey-scale etc) to 
+cutout. Additional features included application of various effects(pencil sketch, grey-scale etc) to 
 the picture. 
 
 Challenges in the project
@@ -81,7 +70,7 @@ This was an enterprise application. The application was used to monitor onboard 
 of cars remotely. It had features which enabled a user to register the new onboard device by 
 using NFC's or barcode's.
 
- Was involved in the development of the business logic for this application. Have used SOAP 
+ Was involved in the development of the business logic for this application. Have used SOAP 
 
 calls to communicate with backend servers.
 Challenges in the project
@@ -123,15 +112,3 @@ Hobbies: Sports, Traveling.
 
 Address: #984 “Abhi” Vivekananda nagar Circle Mysore-23.
 
-
-
-
-
-
-
-
-
-
-
-
-

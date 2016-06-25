@@ -23,43 +23,6 @@ def get_config(configfile):
 		File.close()
 	return config
 
-def genMatrix(filenames):
-	global matrix
-	for file in filenames:
-		matrix[file]=[]
-
-def get_features(config, txtfile, words, jd):
-	row = extractfeaturescore_words(config,txtfile,words)
-	row = extractfeaturescore_jd(config, txtfile, jd, row)
-	row = extractfeaturescore_companies(config,row)
-	return row
-
-def update_matrix(config,features, txtfile):
-	global matrix
-	matrix[txtfile] = features
-	return
-
-def process_txts(config, words, jd):
-	filenames = []
-	try:
-		File = open(config['txts_filename'],'r')
-		filenames = File.read().split('\n')
-		genMatrix(filenames)
-		if len(filenames)>0:
-			for txtfile in filenames:
-				# print(txtfile)
-				features = get_features(config, txtfile, words, jd)
-				# print([features[fat] for fat in features])
-				update_matrix(config, features, txtfile)
-			print('** all files processed **')
-		else:
-			print('** no txt files in txts_filename **')
-	except Exception as e:
-		print('** ads file error **\n'+str(e))
-	else:
-		File.close()
-		return filenames
-
 def getwords(config):
 	words = {}
 	try:
@@ -83,10 +46,43 @@ def getjds(config):
 			File.close()
 	return jds
 
-def extractfeaturescore_words(config,txtfile,words):
+def process_txts(config, words, jd):
+	filenames = []
+	try:
+		File = open(config['txts_filename'],'r')
+		filenames = File.read().split('\n')
+		genMatrix(filenames)
+		if len(filenames)>0:	
+			for txtfile in filenames:
+				try:
+					File = open(config['txts_folder']+txtfile , 'r')
+					txt = File.read()
+					print(config['txts_folder']+txtfile)
+					# print(txt)
+					features = get_features(config, txt, words, jd)
+					# print([features[fat] for fat in features])
+					update_matrix(config, features, txt)
+				except Exception as e:
+					print(str(e))
+				else:
+					File.close()				
+			print('** all files processed **')
+		else:
+			print('** no txt files in txts_filename **')
+	except Exception as e:
+		print('** ads file error **\n'+str(e))
+	else:
+		File.close()
+		return filenames
+
+def get_features(config, txtfile, words, jd):
+	row = extractfeaturescore_words(config,txtfile,words)
+	row = extractfeaturescore_jd(config, txtfile, jd, row)
+	row = extractfeaturescore_companies(config,row)
+	return row
+
+def extractfeaturescore_words(config,txt,words):
 	row = {}
-	File = open(config['txts_folder']+txtfile , 'r')
-	txt = File.read()
 	# print(config['txts_folder']+txtfile)
 	punctuation = list(string.punctuation)
 	stop_words = set(stopwords.words('english') + punctuation)
@@ -101,9 +97,7 @@ def extractfeaturescore_words(config,txtfile,words):
 		row[cat] = acc
 	return row
 
-def extractfeaturescore_jd(config, txtfile, jd, row):
-	File = open(config['txts_folder']+txtfile , 'r')
-	txt = File.read()
+def extractfeaturescore_jd(config, txt, jd, row):
 	# print(config['txts_folder']+txtfile)
 	punctuation = list(string.punctuation)
 	stop_words = set(stopwords.words('english') + punctuation)
@@ -140,6 +134,19 @@ def extractfeaturescore_jd(config, txtfile, jd, row):
 	row['r_count'] = r_count
 	row['t_count'] = t_count
 	return row
+
+def extractfeaturescore_companies(config,row):
+	return row
+
+def genMatrix(filenames):
+	global matrix
+	for file in filenames:
+		matrix[file]=[]
+
+def update_matrix(config,features, txtfile):
+	global matrix
+	matrix[txtfile] = features
+	return
 
 config = get_config('config.json')
 words = getwords(config)
