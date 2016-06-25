@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    background-color: #fff;
+
+}
+nav, .btn{
+    background-color: #3D8EB9 !important;
+}
+.frame{
+    width: 90%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
