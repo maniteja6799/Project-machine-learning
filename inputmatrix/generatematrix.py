@@ -31,6 +31,7 @@ def genMatrix(filenames):
 def get_features(config, txtfile, words, jd):
 	row = extractfeaturescore_words(config,txtfile,words)
 	row = extractfeaturescore_jd(config, txtfile, jd, row)
+	row = extractfeaturescore_companies(config,row)
 	return row
 
 def update_matrix(config,features, txtfile):
