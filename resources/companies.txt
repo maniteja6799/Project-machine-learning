@@ -1,0 +1,10 @@
+google
+microsoft
+facebook
+yahoo
+twitter
+amazon
+flipkart
+oracle
+hackerrank
+hackerearth
