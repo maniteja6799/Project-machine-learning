@@ -2,7 +2,7 @@ try:
     import json
 except ImportError:
     import simplejson as json
-import nltk
+# import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.tokenize import sent_tokenize
@@ -87,7 +87,7 @@ def extractfeaturescore_words(config,txtfile,words, row):
 	word_tokens = []
 
 	try:
-		word_tokens = word_tokenize(txt.decode('utf-8'))
+		word_tokens = word_tokenize(txt)
 	except Exception as e:
 		print("\n\n"+txtfile+" and error: "+str(e))
 
@@ -142,7 +142,7 @@ def extractfeaturescore_jd(config, txtfile, jd, row):
 	stop_words = set(stopwords.words('english') + punctuation)
 	
 	sents = []
-	sents = senttokenize(txt.decode('utf-8'))
+	sents = senttokenize(txt)
 
 	word_tokens = []
 	jddict ={}
@@ -254,6 +254,12 @@ def update_matrix(config,features, txtfile):
 	matrix[txtfile] = features
 	return
 
+def dump_matrix():
+	global matrix
+	file = open(config['matrix'],"w")
+	json.dump(matrix, file)
+	file.close()
+
 config = get_config('config.json')
 words = getwords(config)
 jds = getjds(config)
@@ -268,6 +274,7 @@ for file in matrix:
 	print([matrix[file][tag] for tag in matrix[file]])
 	count+=1
 
+dump_matrix()
 # print(count+1)
 
 

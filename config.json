@@ -3,5 +3,7 @@
 	"txts_folder" : "resources/txt_resume/",
 	"words" : "resources/words.json",
 	"jds" : ["resources/java_jd.json"],
-	"companies" : "resources/companies.txt"
+	"companies" : "resources/companies.txt",
+	"details" : "resources/details.xlsx",
+	"matrix" : "resources/matrix.json"
 }
