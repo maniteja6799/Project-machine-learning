@@ -98,15 +98,6 @@ def extractfeaturescore_words(config,txtfile,words, row):
 		row[cat] = acc
 	return row
 
-def addtarget(config,txtfile, row):
-	'''
-		code here
-	'''
-	txtfile = txtfile[:-4]
-
-	row['target'] = 1
-	return row
-
 def wordtokenize(jd):
 	word_tokens = []
 	try:
