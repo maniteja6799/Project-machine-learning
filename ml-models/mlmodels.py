@@ -3,6 +3,8 @@ from sklearn.naive_bayes import GaussianNB
 import numpy as np
 import json
 import random
+import re
+import string
 
 def get_config(configfile):
 	config = []
@@ -26,31 +28,46 @@ def get_matrix(config):
 		File.close()
 	return matrix
 
-def get_target(config, len):
-	tar = []
-	for i in range(len):
-		tar.append(random.randint(0,1))
-	return	tar
+
+def get_feature_array():
+	features = []
+	count = 0
+	for file in matrix:
+		# if count ==0:
+		# 	print([tag for tag in matrix[file]])
+		# print([matrix[file][tag] for tag in matrix[file]])
+		f = [matrix[file][tag] for tag in matrix[file] if tag != 'target' ]
+		if len(f) == 16:
+			features.append((f,matrix[file]['target']))
+		count+=1
+	return features	
+
+def trainandfit_NB(array_features,target):
+	classifier  =  GaussianNB()
+	model = classifier.fit(array_features,target)
+	return model
+
+def predictandanalyse(model,test_features,expected_target):
+
+	return
 
 config = get_config('config.json')
 matrix = get_matrix(config)
-features = list()
-count = 0
-for file in matrix:
-	# if count ==0:
-	# 	print([tag for tag in matrix[file]])
-	# print([matrix[file][tag] for tag in matrix[file]])
-	features.append([matrix[file][tag] for tag in matrix[file]])
-	count+=1
-
-target = get_target(config, len(features))
+features = get_feature_array()
+array_features = np.array([f[0] for f in features])
+target = [f[1] for f in features]
+# print(array_features)
+# for f in matrix:
+# 	if 'experience' in matrix[f].keys():
+# 		print(matrix[f]['experience'],f)
+# 	else:
+# 		print('no exp ',f)	
 # print(target)
-# print(len(features))
+# print(array_features)
+# print(len(array_features),len(array_features[1]))
+naive_bayes_model = trainandfit_NB(array_features, target)
 
-array_features = np.array(features)
-classifier  =  GaussianNB()
-model = classifier.fit(array_features,target)
-output_target = model.predict(array_features)
+output_target = naive_bayes_model.predict(array_features)
 c = 0
 for i in range(len(target)):
 	if(target[i] == output_target[i]):

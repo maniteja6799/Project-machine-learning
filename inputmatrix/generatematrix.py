@@ -230,7 +230,7 @@ def extractfeaturescore_companies(config, txtfile, row):
 	return row
 
 details = {}
-def getdetail():
+def getdetail(config):
 	cnt = 0
 	workbook = xlrd.open_workbook(config['details'])
 	sheet_names = workbook.sheet_names()
@@ -287,33 +287,51 @@ def update_matrix(config,features, txtfile):
 	matrix[txtfile] = features
 	return
 
-def dump_matrix():
+def dump_matrix(config):
 	global matrix
 	file = open(config['matrix'],"w")
 	json.dump(matrix, file)
 	file.close()
 
-def test():
+def convertexperinceintoint(matrix):
+	for file in matrix:
+		y = 0
+		if 'experience' in matrix[file].keys():
+			exp = str(matrix[file]['experience'])
+			yr = re.findall('\d+', exp)
+			if exp.lower().find('m') >0:
+				if(len(yr)>0):
+					y += int(yr[0])/12.0
+			else:
+				if(len(yr)>1):
+					y += int(yr[0])
+					y += int(yr[1])/12.0		
+				if(len(yr)==1):
+					y += int(yr[0])	
+		matrix[file]['experience'] = y
+	return matrix
+
+def generatematrixanddump():
+	global matrix
+	config = get_config('config.json')
+	words = getwords(config)
+	jds = getjds(config)
+	getdetail(config)
 	filenames = process_txts(config,words,jds[0])
+	matrix = convertexperinceintoint(matrix)
+	dump_matrix(config)
+	count = 0
+	for file in matrix:
+		if count ==0:
+			print([tag for tag in matrix[file]])
+		print([matrix[file][tag] for tag in matrix[file]])
+		count+=1
+	print(count+1)
 
 
-config = get_config('config.json')
-words = getwords(config)
-jds = getjds(config)
-getdetail()
 
-test()
+generatematrixanddump()
 
-
-count = 0
-for file in matrix:
-	if count ==0:
-		print([tag for tag in matrix[file]])
-	print([matrix[file][tag] for tag in matrix[file]])
-	count+=1
-
-dump_matrix()
-# print(count+1)
 
 
 
