@@ -13,7 +13,7 @@ from pprint import pprint
 import re
 
 matrix = {}
-details = {}
+details = []
 div = 0 
 def get_config(configfile):
 	config = []
@@ -73,8 +73,12 @@ def get_features(config, txtfile, words, jds):
 	row = {}
 	row = extractfeaturescore_words(config,txtfile,words, row)
 	(row, java_and) = extractfeaturescore_target(config, txtfile, row)
-	
-	row = extractfeaturescore_jd(config, txtfile, jd, row)
+	if java_and == 'java':
+		row = extractfeaturescore_jd(config, txtfile, jds[0], row)
+	if java_and == 'android':
+		row = extractfeaturescore_jd(config, txtfile, jds[1], row)
+	if java_and == '':
+		print('jd not done for '+ txtfile)	
 	row = extractfeaturescore_companies(config, txtfile, row)
 	return row
 
@@ -244,7 +248,7 @@ def getdetail(config):
 		for col_idx in range(sheet.ncols):
 			cell = sheet.cell(row_idx, col_idx)
 			detail.append(cell.value)
-		details[cnt] = detail
+		details.append(detail)
 		cnt += 1
 	sheet = workbook.sheet_by_name(sheet_names[1])
 	div = cnt
@@ -253,34 +257,40 @@ def getdetail(config):
 		for col_idx in range(sheet.ncols):
 			cell = sheet.cell(row_idx, col_idx)
 			detail.append(cell.value)
-		details[cnt] = detail
+		details.append(detail)
 		cnt += 1
 
 def extractfeaturescore_target(config, txtfile, row):
 	global details
+	global div
 	accept = ['Joined', 'OfferAccepted']
 	cnt = 0
 	row['target'] = -1
 	txtfile = re.sub('[^a-zA-Z0-9]', '',txtfile[:-4])
+	s = 'java'
 	for detail in details:
-		tstr8 = re.sub('[^a-zA-Z0-9]', '',details[detail][8])
-		tstr6 = re.sub('[^a-zA-Z0-9]', '',details[detail][6])
+		tstr8 = re.sub('[^a-zA-Z0-9]', '',detail[8])
+		tstr6 = re.sub('[^a-zA-Z0-9]', '',detail[6])
 		# print(txtfile)
 		if txtfile==tstr8:
+			if details.index(detail) < div:
+				s = 'java'
+			else:
+				s = 'android'
 			# print('file1:'+txtfile)
 			# print('file2:'+tstr8)
 			if tstr6 in accept:
-				# print(details[detail])
+				# print(detail)
 				row['target'] = 1
-				row['experience'] = details[detail][4]
-				row['testscore'] = details[detail][5]
+				row['experience'] = detail[4]
+				row['testscore'] = detail[5]
 			else:
-				# print(details[detail])
+				# print(detail)
 				row['target'] = 0
-				row['experience'] = details[detail][4]
-				row['testscore'] = details[detail][5]
+				row['experience'] = detail[4]
+				row['testscore'] = detail[5]
 			break
-	return row
+	return (row,s)
 
 
 def genMatrix(filenames):

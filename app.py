@@ -4,7 +4,7 @@ sys.path.insert(0, 'inputmatrix')
 sys.path.insert(0, 'converters')
 sys.path.insert(0, 'ml-models')
 import generatematrix as gm
-# import converter as cnv
+import converter as cnv
 import mlmodels as model
 
 app = Flask(__name__)
@@ -40,9 +40,17 @@ def not_found(error):
 def process_resume():
     if not request.json:
         abort(400)
-    
+    # resume = [request.json['id'], request.json['name']]
+    # code to convert to txt 
+    # ------ from here------
 
-    entity = [request.json['id'], request.json['name']]
+    # ------ to here ------
+    # taking sample txt file from resources/temp/sample.txt
+    txtfile = 'resources/temp/sample.txt'
+    experience = 2.5
+    testscore = 3
+    appliedfor = 'java'
+
     return jsonify({'entity': entity}), 201
 
 def concert_to_text(file, filetype):
@@ -55,13 +63,23 @@ def concert_to_text(file, filetype):
 		txt = cnv.pdf_to_txt(file)
 	return txt
 
-def extractfeatures(txt):
+def extractfeatures(resume):
+	txtfile = resume['txtfile'] 
+	experience = resume['experience']
+	testscore = resume['testscore']
+	appliedfor = resume['appliedfor']
 	config = gm.get_config('config.json')
 	words = gm.getwords(config)
 	jds = gm.getjds(config)
-	gm.getdetail(config)
-	filenames = process_txts(config,words,jds[0])
-	row = gm.get_features()
+	row = {}
+	row = extractfeaturescore_words(config,txtfile, words, row)
+	if appliedfor == 'java':
+		row = extractfeaturescore_jd(config, txtfile, jds[0], row)
+	if appliedfor == 'android':
+		row = extractfeaturescore_jd(config, txtfile, jds[1], row)
+	row['experience'] = experience
+	row['testscore'] = testscore
+
 		
 if __name__ == '__main__':
     app.run(debug=True)

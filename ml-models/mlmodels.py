@@ -36,7 +36,12 @@ def get_feature_array():
 		# if count ==0:
 		# 	print([tag for tag in matrix[file]])
 		# print([matrix[file][tag] for tag in matrix[file]])
-		f = [matrix[file][tag] for tag in matrix[file] if tag != 'target' ]
+		f = []
+		tag_order = []
+		for tag in matrix[file]:
+			if tag != 'target':
+				tag_order
+				f.append(matrix[file][tag])
 		if len(f) == 16:
 			features.append((f,matrix[file]['target']))
 		count+=1
@@ -48,7 +53,7 @@ def trainandfit_NB(array_features,target):
 	return model
 
 def predictandanalyse(model,test_features,expected_target):
-
+	
 	return 
 
 config = get_config('config.json')
