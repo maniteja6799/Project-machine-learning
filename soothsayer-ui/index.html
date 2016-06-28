@@ -27,6 +27,14 @@
         #resultDiv{
             display: none;
         }
+        #resultDiv p{
+            font-size: 1.3em;
+            color: black;
+        }
+        #resultDiv p span{
+            font-size: 1.3em;
+            color: #3D8EB9;
+        }
     </style>
 </head>
 
@@ -50,7 +58,7 @@
 
                 <div class="row margin-tb">
                         <p class="center main-heading"> Please fill the details </p>
-                    <form class="col s12" >
+                    <form class="col s12" method="post" >
                       <div class="row">
                         <div class="input-field col s6">
                           <input placeholder="Placeholder" id="experience" type="text" class="validate">
@@ -81,7 +89,9 @@
 
             </div>
             <div id="resultDiv">
-                <p> display block is Here </p>
+                <p class="center" style="color:#3D8EB9;font-size:1.5em"> Here is Your Result ! </p>
+                <p> Class : <span id="class"> </span> </p>
+                <p> Probablity : <span id="prob"></span> </p>
             </div>
 
         </div>
@@ -114,27 +124,45 @@
 </script>
 <script type="text/javascript">
     Dropzone.options.resumeFile = {
-        //acceptedFiles: "application/msword,text/pdf,text/plain"
+        acceptedFiles: "application/msword,text/pdf,text/plain"
     }
 </script>
 
 <script type="text/javascript">
 				$(function() {
 							$("#send").click(function() {
+                                console.log("I am here");
 							var data={
 								 experience : $("#experience").val(),
 						 	  	testscore : $("#testscore").val(),
 						 		appliedfor :$("#appliedfor").val()
 								};
+                                console.log(data);
 			// console.log(data);
 					$.ajax({
 							type: "POST",
 							url: "http://localhost:5000/postresume",
-							data: data,
+                            "crossDomain": true,
+							data: "{\n \"experience\": "+data['experience']+",\n \"testscore\" : "+data['testscore']+",\n \"appliedfor\" : \""+data['appliedfor']+"\"\n}",
+                            "headers": {
+                                "content-type": "application/json",
+                                "Access-Control-Allow-Origin" : "http://localhost:8888/"
+                            },
                             dataType: "json",
 							success: function(data){
-								alert(data);
-							}
+								console.log(data['class']);
+                                window.scrollTo(5000, 0);
+                                $("#resultDiv").css ("display", "block");
+                                $('#class').html(data['class']);
+                                $('#prob').html(data['prob']); 
+							},
+                            failure: function(errMsg) {
+                                   console.log(errMsg);
+                               },
+                            error: function (xhr, ajaxOptions, thrownError) {
+                               console.log(xhr.status);
+                               console.log(thrownError);
+                               }
 					});
 
 					return false;

@@ -1,7 +1,7 @@
 <?php
 $ds          = DIRECTORY_SEPARATOR;  //1
 
-$storeFolder = 'upload';   //2
+$storeFolder = '../resources/temp';   //2
 
 if (!empty($_FILES)) {
 

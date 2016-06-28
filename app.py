@@ -10,30 +10,34 @@ import mlmodels as ml
 import numpy as np
 import pickle
 
+from flask import make_response
+from flask_cors import CORS
+
+
 app = Flask(__name__)
+cors = CORS(app, resources = {r"/*":{"origins":"*"}})
 
 @app.route('/', methods = ['GET'])
 def hello():
 	return jsonify('hello')
 
-@app.route('/genmat', methods=['GET'])
-def get_tasks():
-	arr = [[1, "jugal"] , [2, "mani"], [3, "roopali"], [4, "manika"], [5, "shivam"], [6, "divya"], [7, "bansari"], [8, "amit"]]
-	print('yes1')
-#	return jsonify(test())
-	tt = gm.generatematrixanddump()
-	return jsonify(tt)
+# @app.route('/genmat', methods=['GET'])
+# def get_tasks():
+# 	arr = [[1, "jugal"] , [2, "mani"], [3, "roopali"], [4, "manika"], [5, "shivam"], [6, "divya"], [7, "bansari"], [8, "amit"]]
+# 	print('yes1')
+# #	return jsonify(test())
+# 	tt = gm.generatematrixanddump()
+# 	return jsonify(tt)
 
-@app.route('/entity/<int:entity_id>', methods=['GET'])
-def get_task(entity_id):
-	arr = [[1, "jugal"] , [2, "mani"], [3, "roopali"], [4, "manika"], [5, "shivam"], [6, "divya"], [7, "bansari"], [8, "amit"]]
-	entity = [0, ""]
-	for e in arr:
-		if e[0] == entity_id:
-			entity = e
-	return jsonify({'entity' : entity})
+# @app.route('/entity/<int:entity_id>', methods=['GET'])
+# def get_task(entity_id):
+# 	arr = [[1, "jugal"] , [2, "mani"], [3, "roopali"], [4, "manika"], [5, "shivam"], [6, "divya"], [7, "bansari"], [8, "amit"]]
+# 	entity = [0, ""]
+# 	for e in arr:
+# 		if e[0] == entity_id:
+# 			entity = e
+# 	return jsonify({'entity' : entity})
 
-from flask import make_response
 
 @app.errorhandler(404)
 def not_found(error):
@@ -44,6 +48,12 @@ def trainmodel():
 	gm.generatematrixanddump()
 	ml.train_nb()
 	return jsonify({'status' : 'done'})
+
+# @app.before_request
+# def before_request(request):
+#   request.headers.add('Access-Control-Allow-Origin', '*')
+#   request.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization')
+#   request.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE')
 
 @app.route('/postresume', methods=['POST'])
 def process_resume():
@@ -57,8 +67,11 @@ def process_resume():
 	# taking sample txt file from resources/temp/sample.txt
 	# txtfile = request.json['txtfile']
 	experience = request.json['experience']
+	print('expericnce recived')
 	testscore = request.json['testscore']
+	print('test recived')
 	appliedfor = request.json['appliedfor']
+	print('applied recived')
 	resume = {}
 	resume['txtfile'] = 'sample.txt'
 	resume['experience'] = experience
@@ -70,12 +83,15 @@ def process_resume():
 	[op,prob] = ml.predict_one_row(model, array_row)
 	cat = ''
 	if op == 1:
-		cat += 'java select'
+		cat += 'Java'
 	if op == 2:	
-		cat+= 'android select'
+		cat+= 'Android'
 	if op == 0:
-		cat+= 'not select'		
-	return jsonify({'class': cat, 'prob':prob[0]}), 201
+		cat+= 'Not Recommended'		
+	response = {'class': cat, 'prob':prob[0]}	
+	print('sending responce ')
+	print(response)	
+	return jsonify(response), 201
 
 def concert_to_text(file, filetype):
 	txt = ''
