@@ -13,7 +13,8 @@ from pprint import pprint
 import re
 
 matrix = {}
-
+details = {}
+div = 0 
 def get_config(configfile):
 	config = []
 	try:
@@ -48,7 +49,7 @@ def getjds(config):
 			File.close()
 	return jds
 
-def process_txts(config, words, jd):
+def process_txts(config, words, jds):
 	filenames = []
 	try:
 		File = open(config['txts_filename'],'r')
@@ -56,7 +57,7 @@ def process_txts(config, words, jd):
 		genMatrix(filenames)
 		if len(filenames)>0:	
 			for txtfile in filenames:
-				features = get_features(config, txtfile, words, jd)
+				features = get_features(config, txtfile, words, jds)
 				update_matrix(config, features, txtfile)
 			print('** all files processed **')
 		else:
@@ -68,12 +69,13 @@ def process_txts(config, words, jd):
 		File.close()
 		return filenames
 
-def get_features(config, txtfile, words, jd):
+def get_features(config, txtfile, words, jds):
 	row = {}
 	row = extractfeaturescore_words(config,txtfile,words, row)
+	(row, java_and) = extractfeaturescore_target(config, txtfile, row)
+	
 	row = extractfeaturescore_jd(config, txtfile, jd, row)
 	row = extractfeaturescore_companies(config, txtfile, row)
-	row = extractfeaturescore_target(config, txtfile, row)
 	return row
 
 def extractfeaturescore_words(config,txtfile,words, row):
@@ -229,8 +231,10 @@ def extractfeaturescore_companies(config, txtfile, row):
 	row['cmp_score'] = cmpscore
 	return row
 
-details = {}
+
 def getdetail(config):
+	global details
+	global div
 	cnt = 0
 	workbook = xlrd.open_workbook(config['details'])
 	sheet_names = workbook.sheet_names()
@@ -243,6 +247,7 @@ def getdetail(config):
 		details[cnt] = detail
 		cnt += 1
 	sheet = workbook.sheet_by_name(sheet_names[1])
+	div = cnt
 	for row_idx in range(sheet.nrows):
 		detail = []
 		for col_idx in range(sheet.ncols):
@@ -252,6 +257,7 @@ def getdetail(config):
 		cnt += 1
 
 def extractfeaturescore_target(config, txtfile, row):
+	global details
 	accept = ['Joined', 'OfferAccepted']
 	cnt = 0
 	row['target'] = -1
@@ -317,7 +323,7 @@ def generatematrixanddump():
 	words = getwords(config)
 	jds = getjds(config)
 	getdetail(config)
-	filenames = process_txts(config,words,jds[0])
+	filenames = process_txts(config,words,jds)
 	matrix = convertexperinceintoint(matrix)
 	dump_matrix(config)
 	count = 0
@@ -327,10 +333,11 @@ def generatematrixanddump():
 		print([matrix[file][tag] for tag in matrix[file]])
 		count+=1
 	print(count+1)
+	return matrix
 
 
 
-generatematrixanddump()
+# generatematrixanddump()
 
 
 

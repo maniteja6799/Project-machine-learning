@@ -49,7 +49,7 @@ def trainandfit_NB(array_features,target):
 
 def predictandanalyse(model,test_features,expected_target):
 
-	return
+	return 
 
 config = get_config('config.json')
 matrix = get_matrix(config)

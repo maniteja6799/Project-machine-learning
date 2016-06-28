@@ -47,22 +47,22 @@ def writeToFile(filename,convertedText):
    f.close()
 
 resumePath  = 'resources/resume'
-finalResumePath = 'resources/txt_resume'
+finalResumePath = 'resources/txt_resuem'
 
 for file1 in glob.glob(resumePath+"/*.docx"):
    print(file1)
    outStr = docx_to_txt(file1)
    outStr = outStr.encode('ascii', 'ignore').decode('ascii')
-   writeToFile(finalResumePath+file1[16:],outStr)
+   writeToFile(finalResumePath+file1[len(resumePath):],outStr)
    
 for file1 in glob.glob(resumePath+"/*.doc"):
    print(file1)
    outStr = doc_to_txt(file1)
    outStr = outStr.encode('ascii', 'ignore').decode('ascii')
-   writeToFile(finalResumePath+file1[16:],outStr)
+   writeToFile(finalResumePath+file1[len(resumePath):],outStr)
 
 for file1 in glob.glob(resumePath+"/*.pdf"):
    print(file1)
    outStr=pdf_to_txt(file1)
-   writeToFile(finalResumePath+file1[16:],outStr)
+   writeToFile(finalResumePath+file1[len(resumePath):],outStr)
 
