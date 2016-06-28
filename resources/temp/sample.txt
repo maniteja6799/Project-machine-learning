@@ -1,0 +1,68 @@
+Abhijeet Kumar Ranjan   
++91-8431157137
+
+
+
+A Result Oriented & Self learned Software professional with 2 years of experience in software development using Java and J2EE technologies.
+Good Experience in Developing ERP Applications using Java, J2EE,JSF, Hibernate, JPA, Eclipse and JBoss.
+Hands on exposure with Eclipse, Tomcat/Apache, JBoss, and Log4J.
+Having Good Knowledge of JPA.
+Having Good Knowledge of Servlets, JSP.
+Having Good Knowledge of Struts.
+Having Good Knowledge of Spring.
+
+
+Software Engineer at IDS NEXT Business Solutions PVT LTD since October 2013 to till date.
+
+
+B.Tech. (CSE) from AVIT (Vinayaka Missions University) in 2012 
+
+
+Operating System		:	Linux, Windows.
+Languages			:	Core Java.
+J2EE Technologies		:	Servlets, JSP, JDBC, JPA.
+Framework		:	JSF, Hibernate,Struts,Spring, Log4j.
+Application/Web Servers	:	JBoss, Apache Tomcat.
+IDE		            : 	Eclipse, MyEclipse.
+Database			:	MySql.
+Markup/Script Languages	:	HTML, XHTML, JavaScript.
+
+
+#Project 1                : iMagine
+Environment	:	Linux, Java, JSF, JS, EJB, JPA, Hibernate, JBoss, MySQL, Log4j, Eclipse.
+Team Size	 : 12
+Duration	 : Oct 2013 to till date.
+Client 	 : Product From IDS Next.
+Description:
+iMagine is a product from IDS Next. This website will give end to end hospitality solutions and functional needs for its customers like Independent and Chain Hotels, Resorts and Clubs, Restaurants and Cafes all around the world.  This product can address all aspects of property management like reservations, commissions, internet booking, rate management, banqueting, inventory management, maintenance management and complete back office capabilities.  
+
+
+Roles and Responsibilities:
+Requirement analyzing and designing for the part of the front office module and Reservation.
+Designed Screen's with JSF and JavaScript.
+Implemented Backing Beans and Managed Beans for the masters.
+Implemented Services and DAO's for the masters.
+Implemented JSF Validations and Server Validations.
+Written unit test cases and done bug fixing. 
+
+
+
+Ability to learn new technologies faster.
+Good analytical skills and ability to work independently with minimal Supervision and also perform as part of a team.
+Ability to inspire and motivate others. 
+Ability to take initiative and handle a fast-paced setting and tight deadlines.
+
+
+
+     Gender			: Male
+     Marital Status		: Single
+     DOB			: 29th NOV 1991
+     Address		            : BTM layout 2nd stage.
+		                	 Bangalore, 560076 
+
+
+
+
+
+
+Place: Bangalore							Abhijeet Kr. Ranjan

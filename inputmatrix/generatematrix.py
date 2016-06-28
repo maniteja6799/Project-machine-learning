@@ -71,19 +71,19 @@ def process_txts(config, words, jds):
 
 def get_features(config, txtfile, words, jds):
 	row = {}
-	row = extractfeaturescore_words(config,txtfile,words, row)
+	row = extractfeaturescore_words(config,config['txts_folder']+txtfile,words, row)
 	(row, java_and) = extractfeaturescore_target(config, txtfile, row)
 	if java_and == 'java':
-		row = extractfeaturescore_jd(config, txtfile, jds[0], row)
+		row = extractfeaturescore_jd(config, config['txts_folder']+txtfile, jds[0], row)
 	if java_and == 'android':
-		row = extractfeaturescore_jd(config, txtfile, jds[1], row)
+		row = extractfeaturescore_jd(config, config['txts_folder']+txtfile, jds[1], row)
 	if java_and == '':
 		print('jd not done for '+ txtfile)	
-	row = extractfeaturescore_companies(config, txtfile, row)
+	row = extractfeaturescore_companies(config, config['txts_folder']+txtfile, row)
 	return row
 
 def extractfeaturescore_words(config,txtfile,words, row):
-	File = open(config['txts_folder']+txtfile,'r')
+	File = open(txtfile,'r')
 	txt = File.read()
 	File.close()
 	punctuation = list(string.punctuation)
@@ -128,7 +128,7 @@ def counter(jddict, word):
 	return count
 
 def extractfeaturescore_jd(config, txtfile, jd, row):
-	File = open(config['txts_folder']+txtfile,'r')
+	File = open(txtfile,'r')
 	txt = File.read()
 	File.close()
 
@@ -221,7 +221,7 @@ def extractfeaturescore_companies(config, txtfile, row):
 			for word in line.split():
 				companies.append(word.lower())
 
-	file = open(config['txts_folder']+txtfile, 'r')
+	file = open(txtfile, 'r')
 	text = file.read().lower()
 	file.close()
 	text = re.sub('[^a-z\ \']+', " ", text)
@@ -265,7 +265,7 @@ def extractfeaturescore_target(config, txtfile, row):
 	global div
 	accept = ['Joined', 'OfferAccepted']
 	cnt = 0
-	row['target'] = -1
+	row['target'] = 0
 	txtfile = re.sub('[^a-zA-Z0-9]', '',txtfile[:-4])
 	s = 'java'
 	for detail in details:
@@ -281,7 +281,10 @@ def extractfeaturescore_target(config, txtfile, row):
 			# print('file2:'+tstr8)
 			if tstr6 in accept:
 				# print(detail)
-				row['target'] = 1
+				if details.index(detail) < div:
+					row['target'] = 1
+				else:
+					row['target'] = 2
 				row['experience'] = detail[4]
 				row['testscore'] = detail[5]
 			else:
@@ -337,11 +340,11 @@ def generatematrixanddump():
 	matrix = convertexperinceintoint(matrix)
 	dump_matrix(config)
 	count = 0
-	for file in matrix:
-		if count ==0:
-			print([tag for tag in matrix[file]])
-		print([matrix[file][tag] for tag in matrix[file]])
-		count+=1
+	# for file in matrix:
+	# 	if count ==0:
+	# 		print([tag for tag in matrix[file] if tag =='target'])
+	# 	print([matrix[file][tag] for tag in matrix[file] if tag =='target'],file)
+	# 	count+=1
 	print(count+1)
 	return matrix
 

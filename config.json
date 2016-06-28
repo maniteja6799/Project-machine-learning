@@ -5,5 +5,8 @@
 	"jds" : ["resources/java_jd.json","resources/android_jd.json"],
 	"companies" : "resources/companies.txt",
 	"details" : "resources/details.xlsx",
-	"matrix" : "resources/matrix.json"
+	"matrix" : "resources/matrix.json",
+	"tags_order" : "resources/tags_order.json",
+	"model_pickle" : "resources/model.pickle",
+	"sample" : "resources/temp/"
 }
