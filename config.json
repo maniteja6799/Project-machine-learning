@@ -2,6 +2,11 @@
 	"txts_filename" : "resources/txt_resume_filenames.txt",
 	"txts_folder" : "resources/txt_resume/",
 	"words" : "resources/words.json",
-	"jds" : ["resources/java_jd.json"],
-	"companies" : "resources/companies.txt"
+	"jds" : ["resources/java_jd.json","resources/android_jd.json"],
+	"companies" : "resources/companies.txt",
+	"details" : "resources/details.xlsx",
+	"matrix" : "resources/matrix.json",
+	"tags_order" : "resources/tags_order.json",
+	"model_pickle" : "resources/model.pickle",
+	"sample" : "resources/temp/"
 }

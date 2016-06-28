@@ -2,16 +2,19 @@ try:
     import json
 except ImportError:
     import simplejson as json
-import nltk
+# import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.tokenize import sent_tokenize
 import string
+import re
+import xlrd
 from pprint import pprint
 import re
 
 matrix = {}
-
+details = []
+div = 0 
 def get_config(configfile):
 	config = []
 	try:
@@ -46,7 +49,7 @@ def getjds(config):
 			File.close()
 	return jds
 
-def process_txts(config, words, jd):
+def process_txts(config, words, jds):
 	filenames = []
 	try:
 		File = open(config['txts_filename'],'r')
@@ -54,12 +57,8 @@ def process_txts(config, words, jd):
 		genMatrix(filenames)
 		if len(filenames)>0:	
 			for txtfile in filenames:
-				# print(config['txts_folder']+txtfile)
-				# print(txt)
-				features = get_features(config, txtfile, words, jd)
-				# print([features[fat] for fat in features])
+				features = get_features(config, txtfile, words, jds)
 				update_matrix(config, features, txtfile)
-				
 			print('** all files processed **')
 		else:
 			print('** no txt files in txts_filename **')
@@ -70,44 +69,39 @@ def process_txts(config, words, jd):
 		File.close()
 		return filenames
 
-def get_features(config, txtfile, words, jd):
+def get_features(config, txtfile, words, jds):
 	row = {}
-	row = extractfeaturescore_words(config,txtfile,words, row)
-	row = extractfeaturescore_jd(config, txtfile, jd, row)
-	row = extractfeaturescore_companies(config, txtfile, row)
+	row = extractfeaturescore_words(config,config['txts_folder']+txtfile,words, row)
+	(row, java_and) = extractfeaturescore_target(config, txtfile, row)
+	if java_and == 'java':
+		row = extractfeaturescore_jd(config, config['txts_folder']+txtfile, jds[0], row)
+	if java_and == 'android':
+		row = extractfeaturescore_jd(config, config['txts_folder']+txtfile, jds[1], row)
+	if java_and == '':
+		print('jd not done for '+ txtfile)	
+	row = extractfeaturescore_companies(config, config['txts_folder']+txtfile, row)
 	return row
 
 def extractfeaturescore_words(config,txtfile,words, row):
-	File = open(config['txts_folder']+txtfile,'r')
+	File = open(txtfile,'r')
 	txt = File.read()
 	File.close()
-	# print(config['txts_folder']+txtfile)
 	punctuation = list(string.punctuation)
 	stop_words = set(stopwords.words('english') + punctuation)
 	word_tokens = []
 
 	try:
-		word_tokens = word_tokenize(txt.decode('utf-8'))
+		word_tokens = word_tokenize(txt)
 	except Exception as e:
 		print("\n\n"+txtfile+" and error: "+str(e))
 
 	filtered_txt = [w for w in word_tokens if not w in stop_words]
-	# print(filtered_txt)
 	for cat in words:
 		acc = 0
 		for word in words[cat]:
 			if word in filtered_txt:
 				acc +=1
 		row[cat] = acc
-	return row
-
-def addtarget(config,txtfile, row):
-	'''
-		code here
-	'''
-	txtfile = txtfile[:-4]
-
-	row['target'] = 1
 	return row
 
 def wordtokenize(jd):
@@ -134,7 +128,7 @@ def counter(jddict, word):
 	return count
 
 def extractfeaturescore_jd(config, txtfile, jd, row):
-	File = open(config['txts_folder']+txtfile,'r')
+	File = open(txtfile,'r')
 	txt = File.read()
 	File.close()
 
@@ -142,7 +136,7 @@ def extractfeaturescore_jd(config, txtfile, jd, row):
 	stop_words = set(stopwords.words('english') + punctuation)
 	
 	sents = []
-	sents = senttokenize(txt.decode('utf-8'))
+	sents = senttokenize(txt)
 
 	word_tokens = []
 	jddict ={}
@@ -227,7 +221,7 @@ def extractfeaturescore_companies(config, txtfile, row):
 			for word in line.split():
 				companies.append(word.lower())
 
-	file = open(config['txts_folder']+txtfile, 'r')
+	file = open(txtfile, 'r')
 	text = file.read().lower()
 	file.close()
 	text = re.sub('[^a-z\ \']+', " ", text)
@@ -237,11 +231,69 @@ def extractfeaturescore_companies(config, txtfile, row):
 	cmplen = len(companies)
 	for i in range(cmplen):
 		if companies[i] in words:
-			# print(companies[i])
 			cmpscore += cmplen-i+1
-			# print(cmplen-i+1)
-	row['cmp_score'] = cmpscore/cmplen
+	row['cmp_score'] = cmpscore
 	return row
+
+
+def getdetail(config):
+	global details
+	global div
+	cnt = 0
+	workbook = xlrd.open_workbook(config['details'])
+	sheet_names = workbook.sheet_names()
+	sheet = workbook.sheet_by_name(sheet_names[0])
+	for row_idx in range(sheet.nrows):
+		detail = []
+		for col_idx in range(sheet.ncols):
+			cell = sheet.cell(row_idx, col_idx)
+			detail.append(cell.value)
+		details.append(detail)
+		cnt += 1
+	sheet = workbook.sheet_by_name(sheet_names[1])
+	div = cnt
+	for row_idx in range(sheet.nrows):
+		detail = []
+		for col_idx in range(sheet.ncols):
+			cell = sheet.cell(row_idx, col_idx)
+			detail.append(cell.value)
+		details.append(detail)
+		cnt += 1
+
+def extractfeaturescore_target(config, txtfile, row):
+	global details
+	global div
+	accept = ['Joined', 'OfferAccepted']
+	cnt = 0
+	row['target'] = 0
+	txtfile = re.sub('[^a-zA-Z0-9]', '',txtfile[:-4])
+	s = 'java'
+	for detail in details:
+		tstr8 = re.sub('[^a-zA-Z0-9]', '',detail[8])
+		tstr6 = re.sub('[^a-zA-Z0-9]', '',detail[6])
+		# print(txtfile)
+		if txtfile==tstr8:
+			if details.index(detail) < div:
+				s = 'java'
+			else:
+				s = 'android'
+			# print('file1:'+txtfile)
+			# print('file2:'+tstr8)
+			if tstr6 in accept:
+				# print(detail)
+				if details.index(detail) < div:
+					row['target'] = 1
+				else:
+					row['target'] = 2
+				row['experience'] = detail[4]
+				row['testscore'] = detail[5]
+			else:
+				# print(detail)
+				row['target'] = 0
+				row['experience'] = detail[4]
+				row['testscore'] = detail[5]
+			break
+	return (row,s)
 
 
 def genMatrix(filenames):
@@ -254,21 +306,52 @@ def update_matrix(config,features, txtfile):
 	matrix[txtfile] = features
 	return
 
-config = get_config('config.json')
-words = getwords(config)
-jds = getjds(config)
-# print(words)
-# pprint(jds)
-filenames = process_txts(config,words,jds[0])
+def dump_matrix(config):
+	global matrix
+	file = open(config['matrix'],"w")
+	json.dump(matrix, file)
+	file.close()
 
-count = 0
-for file in matrix:
-	if count ==0:
-		print([tag for tag in matrix[file]])
-	print([matrix[file][tag] for tag in matrix[file]])
-	count+=1
+def convertexperinceintoint(matrix):
+	for file in matrix:
+		y = 0
+		if 'experience' in matrix[file].keys():
+			exp = str(matrix[file]['experience'])
+			yr = re.findall('\d+', exp)
+			if exp.lower().find('m') >0:
+				if(len(yr)>0):
+					y += int(yr[0])/12.0
+			else:
+				if(len(yr)>1):
+					y += int(yr[0])
+					y += int(yr[1])/12.0		
+				if(len(yr)==1):
+					y += int(yr[0])	
+		matrix[file]['experience'] = y
+	return matrix
 
-# print(count+1)
+def generatematrixanddump():
+	global matrix
+	config = get_config('config.json')
+	words = getwords(config)
+	jds = getjds(config)
+	getdetail(config)
+	filenames = process_txts(config,words,jds)
+	matrix = convertexperinceintoint(matrix)
+	dump_matrix(config)
+	count = 0
+	# for file in matrix:
+	# 	if count ==0:
+	# 		print([tag for tag in matrix[file] if tag =='target'])
+	# 	print([matrix[file][tag] for tag in matrix[file] if tag =='target'],file)
+	# 	count+=1
+	print(count+1)
+	return matrix
+
+
+
+# generatematrixanddump()
+
 
 
 
