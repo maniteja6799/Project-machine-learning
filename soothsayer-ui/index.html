@@ -132,14 +132,19 @@
 
 
 
-            <div id="resultDiv">
-                <p class="center" style="color:#3D8EB9;font-size:1.5em"> Here is Your Result ! </p>
-                <p> Class : <span id="class"> </span> </p>
-                <p> Probablity : <span id="prob"></span> </p>
-            </div>
+
 
 
         </div>
+         <div id="resultDiv">
+            <div class="card white darken-1">
+                    <div class="card-content">
+                <p class="center" style="color:#3D8EB9;font-size:1.5em"> Here is Your Result ! </p>
+                <p> Class : <span id="class"> </span> </p>
+                <p> Probablity : <span id="prob"></span> </p>
+                </div>
+                </div>
+            </div>
     </div>
 </div>
 </body>
@@ -222,22 +227,29 @@
 <script type="text/javascript">
     $(function() {
         $("#retrain").click(function() {
-
+            
             $.ajax({
                 type: "GET",
+                cache: false,
                 url: "http://localhost:5000/trainmodel",
                 "crossDomain": true,
                 "headers": {
-                    "content-type": "application/json",
                     "Access-Control-Allow-Origin": "http://localhost:8888/"
                 },
                 dataType: "json",
+                beforeSend: function(){
+                    $("#overlay").show();
+                },
+                complete: function(){
+                     $("#overlay").hide();
+                },
                 success: function() {
-                    alert("Model Retrained Succesfully!")
+                    Materialize.toast('Model Retrained Successfully !', 4000);
                 },
                 failure: function(errMsg) {
                     console.log(errMsg);
                 },
+                
                 error: function(xhr, ajaxOptions, thrownError) {
                     console.log(xhr.status);
                     console.log(thrownError);
