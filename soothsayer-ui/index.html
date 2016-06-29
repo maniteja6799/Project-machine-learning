@@ -7,96 +7,141 @@
     <link rel="stylesheet" href="css/master.css" media="screen" title="no title" charset="utf-8">
     <link rel="stylesheet" href="css/materialize.min.css" media="screen" title="no title" charset="utf-8">
     <link rel="stylesheet" href="css/dropzone.css" media="screen" title="no title" charset="utf-8">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <style>
-        .margin-tb{
+        nav {
+            height: 110px;
+            line-height: 46px;
+        }
+
+        nav i.material-icons {
+            margin-left: 15px;
+            font-size: 2.5em;
+        }
+
+        .margin-tb {
             margin: 25px 0;
         }
-        .main-heading{
+
+        .main-heading {
             font-size: 1.5em;
             color: #3D8EB9;
             text-decoration: underline;
         }
-        input[type=text]:focus: not ([readonly]){
+
+        input[type=text]:focus: not ([readonly]) {
             border-bottom: 1px solid #3D8EB9;
             border-shadow: 0 1px 0 0 #3D8EB9;
         }
-        .button-style{
+
+        .button-style {
             margin-top: 150px;
         }
-        #resultDiv{
+
+        #resultDiv {
             display: none;
         }
-        #resultDiv p{
+
+        #resultDiv p {
             font-size: 1.3em;
             color: black;
         }
-        #resultDiv p span{
+
+        #resultDiv p span {
             font-size: 1.3em;
             color: #3D8EB9;
+        }
+        #overlay{
+          position:fixed;
+          z-index:99999;
+          top:0;
+          left:0;
+          bottom:0;
+          right:0;
+          background:rgba(255,255,255,1);
+          transition: 1s 0.4s;
+        }
+        .content{
+            display: none;
         }
     </style>
 </head>
 
 <body>
+    <div id = "overlay" class="preload">
+        <object data="resources/soothsayer-logo.svg" type="image/svg+xml"
+        style="height:300px;width:auto;margin-left:auto;margin-right:auto;display:block;margin-top:10%;margin-bottom:auto">
+        </object>
+        <p style="font-size:1.8em ;color:#3D8EB9" class="center"> Soothsayer is laoding... </p>
 
+    </div>
+
+
+    <div class="content">
     <nav>
         <div class="nav-wrapper">
-            <a href="#" class="brand-logo center">Soothsayer</a>
-            <ul id="nav-mobile" class="left hide-on-med-and-down">
+            <img src="resources/soothsayer.png" class="brand-logo center" style="height:110px; width:auto">
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li><a href="#" id="retrain"><i class="material-icons">track_changes</i>Retrain Model</a></li>
+                <li><a href="#" id="refresh"><i class="material-icons">queue</i>Predict New</a></li>
 
-            </ul>
         </div>
     </nav>
 
     <div class="container">
-        <div class="row">
+        <div class="row  margin-tb">
             <div class="col s12">
-                <form action="upload.php" class="dropzone" >
+                <div class="card white darken-1">
+                    <div class="card-content">
+                <form action="upload.php" class="dropzone">
 
                 </form>
 
                 <div class="row margin-tb">
-                        <p class="center main-heading"> Please fill the details </p>
-                    <form class="col s12" method="post" >
-                      <div class="row">
-                        <div class="input-field col s6">
-                          <input placeholder="Placeholder" id="experience" type="text" class="validate">
-                          <label for="experience">Experience</label>
+                    <p class="center main-heading "> Please fill the details </p>
+                    <form class="col s12 margin-tb" method="post">
+                        <div class="row">
+                            <div class="input-field col s6">
+                                <input placeholder="Experience of the Person" id="experience" type="text" class="validate">
+                                <label for="experience">Experience</label>
+                            </div>
+                            <div class="input-field col s6">
+                                <input id="testscore" type="text" class="validate" placeholder="Test Score He/She got">
+                                <label for="testscore">Test Score</label>
+                            </div>
                         </div>
+
                         <div class="input-field col s6">
-                          <input id="testscore" type="text" class="validate">
-                          <label for="testscore">Test Score</label>
+                            <select id="appliedfor">
+                                <option value="" disabled selected>Applied For</option>
+                                <option value="java">Java</option>
+                                <option value="android">Android</option>
+
+                            </select>
+                            <label>Apllied For</label>
                         </div>
-                      </div>
-
-                      <div class="input-field col s6">
-                        <select id="appliedfor">
-                          <option value="" disabled selected>Applied For</option>
-                          <option value="java">Java</option>
-                          <option value="android">Android</option>
-
-                        </select>
-                        <label>Apllied For</label>
-                      </div>
-                      <button class="btn waves-effect waves-light btn-large right button-style" type="submit"
-                       id="send" name="action" >Predict It
-                       <i class="material-icons right"></i>
-                     </button>
+                        <button class="btn waves-effect waves-light btn-large right button-style" type="submit" id="send" name="action">Predict It
+                            <i class="material-icons right" style="font-size: 40px">group_work</i>
+                        </button>
                     </form>
-                  </div>
-
-
+                </div>
             </div>
+            </div>
+            </div>
+
+
+
             <div id="resultDiv">
                 <p class="center" style="color:#3D8EB9;font-size:1.5em"> Here is Your Result ! </p>
                 <p> Class : <span id="class"> </span> </p>
                 <p> Probablity : <span id="prob"></span> </p>
             </div>
 
+
         </div>
     </div>
-
+</div>
 </body>
 
 
@@ -108,9 +153,9 @@
 <script src="js/dropzone.js" charset="utf-8"></script>
 
 <script type="text/javascript">
-    $(document).ready(function(){
+    $(document).ready(function() {
         $('select').material_select();
-    var myfile = "";
+        var myfile = "";
         $('#resumeFile').on('change', function() {
             myfile = $(this).val();
             var ext = myfile.split('.').pop();
@@ -123,53 +168,101 @@
     });
 </script>
 <script type="text/javascript">
-    Dropzone.options.resumeFile = {
+    Dropzone.options.dropzone = {
         acceptedFiles: "application/msword,text/pdf,text/plain"
     }
 </script>
 
 <script type="text/javascript">
-				$(function() {
-							$("#send").click(function() {
-                                console.log("I am here");
-							var data={
-								 experience : $("#experience").val(),
-						 	  	testscore : $("#testscore").val(),
-						 		appliedfor :$("#appliedfor").val()
-								};
-                                console.log(data);
-			// console.log(data);
-					$.ajax({
-							type: "POST",
-							url: "http://localhost:5000/postresume",
-                            "crossDomain": true,
-							data: "{\n \"experience\": "+data['experience']+",\n \"testscore\" : "+data['testscore']+",\n \"appliedfor\" : \""+data['appliedfor']+"\"\n}",
-                            "headers": {
-                                "content-type": "application/json",
-                                "Access-Control-Allow-Origin" : "http://localhost:8888/"
-                            },
-                            dataType: "json",
-							success: function(data){
-								console.log(data['class']);
-                                window.scrollTo(5000, 0);
-                                $("#resultDiv").css ("display", "block");
-                                $('#class').html(data['class']);
-                                $('#prob').html(data['prob']); 
-							},
-                            failure: function(errMsg) {
-                                   console.log(errMsg);
-                               },
-                            error: function (xhr, ajaxOptions, thrownError) {
-                               console.log(xhr.status);
-                               console.log(thrownError);
-                               }
-					});
 
-					return false;
-			});
-			});
+    $(function() {
+        $("#send").click(function() {
+            var data = {
+                experience: $("#experience").val(),
+                testscore: $("#testscore").val(),
+                appliedfor: $("#appliedfor").val()
+            };
+            console.log(data);
+            // console.log(data);
+            $.ajax({
+                type: "POST",
+                url: "http://localhost:5000/postresume",
+                "crossDomain": true,
+                data: "{\n \"experience\": " + data['experience'] + ",\n \"testscore\" : " + data['testscore'] + ",\n \"appliedfor\" : \"" + data['appliedfor'] + "\"\n}",
+                "headers": {
+                    "content-type": "application/json",
+                    "Access-Control-Allow-Origin": "http://localhost:8888/"
+                },
+                dataType: "json",
+                success: function(data) {
+                    console.log(data['class']);
+                    $("html, body").animate({
+                        scrollTop: $(document).height()
+                    }, 1000);
+                    $("#resultDiv").css("display", "block").slideDown("slow");
+                    $('#class').html(data['class']);
+                    $('#prob').html(data['prob']);
+                },
+                failure: function(errMsg) {
+                    console.log(errMsg);
+                },
+                error: function(xhr, ajaxOptions, thrownError) {
+                    console.log(xhr.status);
+                    console.log(thrownError);
+                }
+            });
 
-				</script>
+            return false;
+        });
+    });
+</script>
+
+
+<!-- Ajax call To retrain the Model -->
+<script type="text/javascript">
+    $(function() {
+        $("#retrain").click(function() {
+
+            $.ajax({
+                type: "GET",
+                url: "http://localhost:5000/trainmodel",
+                "crossDomain": true,
+                "headers": {
+                    "content-type": "application/json",
+                    "Access-Control-Allow-Origin": "http://localhost:8888/"
+                },
+                dataType: "json",
+                success: function() {
+                    alert("Model Retrained Succesfully!")
+                },
+                failure: function(errMsg) {
+                    console.log(errMsg);
+                },
+                error: function(xhr, ajaxOptions, thrownError) {
+                    console.log(xhr.status);
+                    console.log(thrownError);
+                }
+            });
+
+            return false;
+        });
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function(){
+
+        $("#refresh").click(function(){
+            location.reload();
+
+        });
+
+        $(".preload").slideUp("slow","swing", function() {
+            $(".content").fadeIn(2500,"swing");
+        });
+    });
+</script>
+
+
 
 </body>
 
